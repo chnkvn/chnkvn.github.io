@@ -36,6 +36,8 @@ jobs:
     steps:
      - name: Setup Go environment
       uses: actions/setup-go@v5.0.0
+ with:
+      go-version: '1.25.1'
 
       - name: Install Hugo CLI
         run: |
