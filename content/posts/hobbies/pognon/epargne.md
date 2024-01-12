@@ -2,6 +2,7 @@
 title = "L'épargne en bref"
 author = ["Kevin CHAN"]
 date = 2024-01-12T18:04:00+01:00
+tags = ["pognon", "epargne", "en-bref"]
 categories = ["pognon", "french"]
 draft = false
 +++

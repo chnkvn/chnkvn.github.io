@@ -7,7 +7,7 @@
 :EXPORT_HUGO_CATEGORIES: pognon french
 :end:
 
-** DONE L'épargne en bref
+** DONE L'épargne en bref :pognon:epargne:en_bref:
 CLOSED: [2024-01-12 Fri 18:04]
 :PROPERTIES:
 :EXPORT_FILE_NAME: epargne
