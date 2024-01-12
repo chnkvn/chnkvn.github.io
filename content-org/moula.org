@@ -13,7 +13,7 @@ CLOSED: [2024-01-12 Fri 18:04]
 :EXPORT_FILE_NAME: epargne
 :END:
 
-NB: La version slides de ce billet de blog est dispo via [[https://chankevin-drive.mycozy.cloud/public?sharecode=ikvFrvBiDvJB][ce lien]].
+NB : La version slides de ce billet de blog est dispo via [[https://chankevin-drive.mycozy.cloud/public?sharecode=ikvFrvBiDvJB][ce lien]].
 *** Pourquoi ce post ?
 - _Manque de temps_ et d'envie de s'investir pour investir
 - Terminologie qui semble trop complexe
