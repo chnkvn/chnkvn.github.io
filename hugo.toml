@@ -79,3 +79,6 @@ pygmentscodefencesguesssyntax = true
     identifier = "search"
     weight = 5
     url = "/search/"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
