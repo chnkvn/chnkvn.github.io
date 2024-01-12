@@ -1,9 +1,13 @@
 +++
-title = "My first post"
+title = "My test post"
 author = ["Kevin CHAN"]
-tags = ["tag1"]
-categories = ["category1"]
+tags = ["test-tag"]
+categories = ["category-test"]
 draft = false
+[menu]
+  [menu.test]
+    weight = 1002
+    identifier = "my-test-post"
 +++
 
 This is my post body

@@ -1,8 +1,8 @@
 +++
-title = "My first post"
+title = "My test post"
 author = ["Kevin CHAN"]
-tags = ["tag1"]
-categories = ["category1"]
+tags = ["test-tag"]
+categories = ["category-test"]
 draft = false
 +++
 

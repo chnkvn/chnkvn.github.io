@@ -1,7 +1,33 @@
 #+hugo_base_dir: ../
+:EXPORT_HUGO_MENU: :menu <menu name> <:key 1> <val 1> <:key 2> <val 2> ..
 
 * My first post                                             :tag1:@category1:
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-first-post
 :END:
 This is my post body
+#+begin_src python :exports both :results output
+def func(x, y):
+    return x+y
+
+print(func(1,2))
+#+end_src
+
+#+RESULTS:
+: 3
+
+* My test post :test_tag:@category_test:
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-test
+:EXPORT_HUGO_MENU: :menu "test"
+:END:
+This is my post body
+#+begin_src python :exports both :results output
+def func(x, y):
+    return x+y
+
+print(func(1,2))
+#+end_src
+
+#+RESULTS:
+: 3

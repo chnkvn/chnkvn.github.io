@@ -1,10 +1,73 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://chnkvn.github.io'
+DefaultContentLanguage = "en"
+title = 'My portfolio/blog'
 
+# Syntax highlighting
+pygmentsStyle = "trac"
+pygmentsCodefences = true
+pygmentscodefencesguesssyntax = true
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  showTags = true
+  subtitle = "Recipes and posts about my different hobbies"
+  #mainSections = ["post","posts"]
+  logo = "img/logo.png" # Expecting square dimensions
+  favicon = "img/logo.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 [module]
   [[module.imports]]
-    path = "github.com/adityatelange/hugo-PaperMod"
+    path = "github.com/halogenica/beautifulhugo"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+
+# Social media
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "C. Kevin"
+ # website = "yourwebsite.com"
+  email = "chan.kevin@outlook.fr"
+  github = "chnkvn"
+  linkedin = "chnkvn"
+  # paypal = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #slack = "username"
+  #medium = "username"
+  #discord = "invite code (https://discord.gg/XXXXXXX)"
+  #strava = "userid"
+
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Pages"
+    identifier = "pages"
+    weight = 200
+    url = "/pages/"
+[[menu.main]]
+    name = "Meta"
+    identifier = "meta"
+    weight = 300
+    url = "/pages/meta"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 400
+    url = "/pages/about"
