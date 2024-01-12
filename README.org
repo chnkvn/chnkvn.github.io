@@ -1,0 +1,2 @@
+Files used to build the blog hosted on [[chnkvn.github.io][chnkvn.github.io]]
+Built with ox-hugo and org-mode
