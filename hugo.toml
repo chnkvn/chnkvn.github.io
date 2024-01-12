@@ -74,5 +74,8 @@ pygmentscodefencesguesssyntax = true
     identifier = "about"
     weight = 4
     url = "/posts/about-me"
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+[[menu.main]]
+    name = "Search"
+    identifier = "search"
+    weight = 5
+    url = "/search/"
