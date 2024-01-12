@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on My portfolio/blog</title>
+    <link>https://chnkvn.github.io/categories/</link>
+    <description>Recent content in Categories on My portfolio/blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>chan.kevin@outlook.fr (Kevin Chan)</managingEditor>
+    <webMaster>chan.kevin@outlook.fr (Kevin Chan)</webMaster>
+    <lastBuildDate>Fri, 12 Jan 2024 18:04:00 +0100</lastBuildDate>
+    <atom:link href="https://chnkvn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>french</title>
+      <link>https://chnkvn.github.io/categories/french/</link>
+      <pubDate>Fri, 12 Jan 2024 18:04:00 +0100</pubDate><author>chan.kevin@outlook.fr (Kevin Chan)</author>
+      <guid>https://chnkvn.github.io/categories/french/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pognon</title>
+      <link>https://chnkvn.github.io/categories/pognon/</link>
+      <pubDate>Fri, 12 Jan 2024 18:04:00 +0100</pubDate><author>chan.kevin@outlook.fr (Kevin Chan)</author>
+      <guid>https://chnkvn.github.io/categories/pognon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cooking-boulangerie</title>
+      <link>https://chnkvn.github.io/categories/cooking-boulangerie/</link>
+      <pubDate>Fri, 12 Jan 2024 17:33:00 +0100</pubDate><author>chan.kevin@outlook.fr (Kevin Chan)</author>
+      <guid>https://chnkvn.github.io/categories/cooking-boulangerie/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
