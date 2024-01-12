@@ -1,0 +1,15 @@
+#+hugo_base_dir: ../
+
+* DONE About me
+CLOSED: [2024-01-12 Fri 16:06]
+:PROPERTIES:
+:EXPORT_FILE_NAME: about-me
+:END:
+
+Hi, I am Kevin.\\
+I am a French Citizen who likes learning new things every day.\\
+My main interests are programming, cooking and biking.\\
+Blog content about computer science will be mainly published in English, while content about my hobbies will be published in French.
+
+Check my [[https://chankevin-drive.mycozy.cloud/public?sharecode=QizfCcYmIde4
+][French CV]] here.

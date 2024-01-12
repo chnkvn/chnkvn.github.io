@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
   subtitle = "Recipes and posts about my different hobbies"
   #mainSections = ["post","posts"]
   logo = "img/logo.png" # Expecting square dimensions
-  favicon = "img/logo.png"
+  favicon = "img/favicon-32x32.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -27,6 +27,11 @@ pygmentscodefencesguesssyntax = true
   hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
   disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+
+#  [[params.author]]
+#    email = "chan.kevin@outlook.fr"
+#    name = "Kevin Chan"
+
 [module]
   [[module.imports]]
     path = "github.com/halogenica/beautifulhugo"
@@ -38,9 +43,9 @@ pygmentscodefencesguesssyntax = true
 # Social media
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "C. Kevin"
+  name = "Kevin Chan"
  # website = "yourwebsite.com"
-  email = "chan.kevin@outlook.fr"
+ email = "chan.kevin@outlook.fr"
   github = "chnkvn"
   linkedin = "chnkvn"
   # paypal = "username"
@@ -53,21 +58,19 @@ pygmentscodefencesguesssyntax = true
 
 [[menu.main]]
     name = "Posts"
-    weight = 100
+    weight = 1
     identifier = "posts"
     url = "/posts/"
+    [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+    [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
 [[menu.main]]
-    name = "Pages"
-    identifier = "pages"
-    weight = 200
-    url = "/pages/"
-[[menu.main]]
-    name = "Meta"
-    identifier = "meta"
-    weight = 300
-    url = "/pages/meta"
-[[menu.main]]
-    name = "About"
+    name = "About me"
     identifier = "about"
-    weight = 400
-    url = "/pages/about"
+    weight = 4
+    url = "/posts/about-me"
