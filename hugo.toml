@@ -1,6 +1,6 @@
 baseURL = 'https://chnkvn.github.io'
 DefaultContentLanguage = "en"
-title = 'My portfolio/blog'
+title = 'Kevin Chan'
 
 # Syntax highlighting
 pygmentsStyle = "trac"
@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax = true
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   showTags = true
-  subtitle = "Recipes and posts about my different hobbies"
+  subtitle = "Computer Science related blog posts et billets de blog à propos de mes violons d'Ingres"
   #mainSections = ["post","posts"]
   logo = "img/logo.png" # Expecting square dimensions
   favicon = "img/favicon-32x32.png"
