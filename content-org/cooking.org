@@ -35,7 +35,13 @@ CLOSED: [2024-01-12 Fri 17:16]
 5. Fleurer le plan de travail. Aplatir la pâte sur le plan de travail pour former une longue bande. Plier la pâte en 3. C'est ce qu'on appelle un *tour*.
 6. Tourner la pâte à 90°. Fleurer le plan de travail si besoin. Refaire un tour. Réfrigérer 30 min si la pâte a chauffé.
 7. Répéter l'étape 6 3 fois, afin d'effectuer *cinq tours* au total.
-8. Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.
+[[/images/cooking/pate-feuilletee.jpeg]]
+#+begin_center
+Un tour de pâte feuilletée.
+#+end_center
+Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.\\
+Bon appétit !
+
 
 ** DONE Tortillas :base:boulangerie:
 CLOSED: [2024-01-12 Fri 17:33]
@@ -65,4 +71,5 @@ CLOSED: [2024-01-12 Fri 17:33]
 5. Diviser la pâte en 12 boules de taille similaire. Couvrir et laisser reposer 15 min.
 6. Bien chauffer la poêle. Faire le test de la goutte d'eau. Si elle tient sur la poêle chaude et ne s'évapore pas tout de suite, c'est bon.
 7. Fleurer le plan de travail. Étaler vos boules de pâte.
-8. Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.
+8. Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.\\
+Bon appétit !

@@ -45,7 +45,7 @@ pygmentscodefencesguesssyntax = true
 # Social media
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Kevin Chan"
+  #name = "Kevin Chan"
  # website = "yourwebsite.com"
  email = "chan.kevin@outlook.fr"
   github = "chnkvn"

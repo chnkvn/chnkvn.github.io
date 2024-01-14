@@ -35,4 +35,6 @@ draft = false
 5.  Diviser la pâte en 12 boules de taille similaire. Couvrir et laisser reposer 15 min.
 6.  Bien chauffer la poêle. Faire le test de la goutte d'eau. Si elle tient sur la poêle chaude et ne s'évapore pas tout de suite, c'est bon.
 7.  Fleurer le plan de travail. Étaler vos boules de pâte.
-8.  Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.
+8.  Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.<br />
+
+Bon appétit !
