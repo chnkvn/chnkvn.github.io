@@ -1,9 +1,10 @@
 +++
 title = "Brioche"
 author = ["Kevin CHAN"]
+date = 2024-01-29T23:13:00+01:00
 tags = ["boulangerie"]
 categories = ["cooking-boulangerie", "french"]
-draft = true
+draft = false
 +++
 
 ## Infos {#infos}

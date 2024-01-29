@@ -2,6 +2,7 @@
 title = "Galette des rois sans oeuf"
 author = ["Kevin CHAN"]
 date = 2024-01-14T16:46:00+01:00
+tags = ["boulangerie"]
 categories = ["cooking-boulangerie", "french"]
 draft = false
 +++
@@ -26,10 +27,10 @@ draft = false
 | Yaourt à la vanille     | 1         |                                                    |
 | Fleur d'oranger         | 1 cas     |                                                    |
 | Rhum, marsala           | Optionnel | Autres éléments d'aromatisation                    |
-| Sirop de sucre de canne |           |                                                    |
+| Sirop de sucre de canne |           | Pour la dorure                                     |
 
 
-## Étapes {#étapes}
+## Instructions {#instructions}
 
 
 ### Préparation de la frangipane {#préparation-de-la-frangipane}

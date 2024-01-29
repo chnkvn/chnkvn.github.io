@@ -25,7 +25,7 @@ draft = false
 | Sel         | 2g       |                                                        |
 
 
-## Étapes {#étapes}
+## Instructions {#instructions}
 
 1.  Dissoudre le sel dans l'eau
 2.  Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.

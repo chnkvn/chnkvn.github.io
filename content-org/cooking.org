@@ -99,7 +99,7 @@ CLOSED: [2024-01-14 Sun 16:46]
 | Rhum, marsala         | Optionnel | Autres éléments d'aromatisation |
 | Sirop de sucre de canne |         |  Pour la dorure            |
 
-*** Étapes
+*** Instructions
 **** Préparation de la frangipane
 1. Mélanger le beurre avec le sucre
 2. Ajouter la poudre d'amande et mélanger
@@ -120,7 +120,8 @@ CLOSED: [2024-01-14 Sun 16:46]
 11. Réappliquer une couche de dorure et laisser refroidir.
 
 Bon appétit !
-** TODO Brioche :boulangerie:
+** DONE Brioche :boulangerie:
+CLOSED: [2024-01-29 Mon 23:13]
 :properties:
 :EXPORT_FILE_NAME: Brioche
 :end:

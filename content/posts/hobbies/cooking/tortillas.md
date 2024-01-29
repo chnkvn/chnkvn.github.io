@@ -26,7 +26,7 @@ draft = false
 | Sel         | 1 cac    |                                                                  |
 
 
-## Étapes {#étapes}
+## Instructions {#instructions}
 
 1.  Mélanger la farine et le sel.
 2.  Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.
