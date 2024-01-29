@@ -27,7 +27,7 @@ CLOSED: [2024-01-12 Fri 17:16]
 | Eau        | 100g   | Très froide                                       |
 | Sel         | 2g     |                                                |
 
-*** Étapes
+*** Instructions
 1. Dissoudre le sel dans l'eau
 2. Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.
 3. Ajouter l'eau, mélanger jusqu'à obtention d'une boule non homogène. Si le beurre est totalement incorporé à la pâte et forme une boule homogène, cela donnera une *pâte sablée*.
@@ -65,7 +65,7 @@ CLOSED: [2024-01-12 Fri 17:33]
 | Beurre doux | 60g    |                                                  |
 | Sel         | 1 cac   |                                                  |
 
-*** Étapes
+*** Instructions
 1. Mélanger la farine et le sel.
 2. Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.
 3. Creuser un puits dans la préparation et ajouter l'eau. Mélanger jusqu'à obtention d'une boule homogène.
@@ -75,7 +75,7 @@ CLOSED: [2024-01-12 Fri 17:33]
 7. Fleurer le plan de travail. Étaler vos boules de pâte.
 8. Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.\\
 Bon appétit !
-** DONE Galette des rois sans oeuf
+** DONE Galette des rois sans oeuf :boulangerie:
 CLOSED: [2024-01-14 Sun 16:46]
 :PROPERTIES:
 :EXPORT_FILE_NAME: galette des rois
@@ -119,4 +119,41 @@ CLOSED: [2024-01-14 Sun 16:46]
 10. Enfourner pendant 35 min. N'hésitez pas à laisser plus longtemps si vous estimez que ce n'est pas assez cuit.
 11. Réappliquer une couche de dorure et laisser refroidir.
 
+Bon appétit !
+** TODO Brioche :boulangerie:
+:properties:
+:EXPORT_FILE_NAME: Brioche
+:end:
+*** Infos
+| Préparation | 30 min avec robot, + si pétrissage à la main |
+| Repos     | 2h30 mini                             |
+| Cuisson    | 30 min                               |
+- Recette de Christophe Michalak
+- Brioche congelable.
+*** Ingrédients
+| Ingrédient                | Quantité  | Remarques                                     |
+|-------------------------+---------+-----------------------------------------------|
+| Lait                      | 185mL   |                                               |
+| Levure boulangère sèche   | 5g      | Souvent équivalent à 1 sachet                      |
+| Sucre                    | 43g     |                                               |
+| Farine                   | 272g     |                                               |
+| Sel                      | 3.5g     |                                               |
+| Huile neutre ou d'olive      | 50mL    |                                               |
+| Sucre perlé, chocolat, vanille | Optionnel | Autres éléments d'aromatisation                    |
+| Fleur d'oranger            | Optionnel | Déduire du volume de lait le volume de fleur d'oranger |
+
+*** Instructions
+1. Chauffer le lait à 35°C pour réactiver la levure. Compter à peu près 15 minutes pour la réactiver (bulles sur la surface)
+2. Mélanger la farine, le sucre et le sel.
+3. Ajouter l'huile au précédent mélange et remélanger.
+4. Pétrir à faible vitesse en ajoutant le lait petit à petit.
+5. Pétrir jusqu'au décollage facile de la pâte. Ne pas hésiter à racler les bords de temps en temps. La pâte restera collante à la fin du pétrissage.
+6. Former une boule avec la pâte, fariner sa surface et filmer le récipient contenant la pâte.
+7. Un choix parmi:
+   - Laisser pousser entre 1h30 et 3h à température ambiante
+   - Laisser pousser une nuit au frais.
+8. La pâte a normalement gonflé. Dégazer la pâte, façonner la brioche (de simples boules collées côte-à-côte, ou tresses).
+9. Laisser pousser 1h à 1h30. 30 minutes avant la fin de la pousse, chauffer le four à 180°C chaleur tournante ou 200°C chaleur traditionnelle.
+10. Cuire 30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.
+11. Laisser refroidir.
 Bon appétit !
