@@ -49,3 +49,4 @@ draft = false
 11. Laisser refroidir.
 
 Bon appétit !
+![](/images/cooking/brioche.jpeg)
