@@ -125,13 +125,13 @@ CLOSED: [2024-01-29 Mon 23:13]
 :properties:
 :EXPORT_FILE_NAME: Brioche
 :end:
-*** Infos
+*** TODO Infos
 | Préparation | 30 min avec robot, + si pétrissage à la main |
 | Repos     | 2h30 mini                             |
 | Cuisson    | 30 min                               |
 - Recette de Christophe Michalak
 - Brioche congelable.
-*** Ingrédients
+*** TODO Ingrédients
 | Ingrédient                | Quantité  | Remarques                                     |
 |-------------------------+---------+-----------------------------------------------|
 | Lait                      | 185mL   |                                               |
@@ -143,7 +143,7 @@ CLOSED: [2024-01-29 Mon 23:13]
 | Sucre perlé, chocolat, vanille | Optionnel | Autres éléments d'aromatisation                    |
 | Fleur d'oranger            | Optionnel | Déduire du volume de lait le volume de fleur d'oranger |
 
-*** Instructions
+*** TODO Instructions
 1. Chauffer le lait à 35°C pour réactiver la levure. Compter à peu près 15 minutes pour la réactiver (bulles sur la surface)
 2. Mélanger la farine, le sucre et le sel.
 3. Ajouter l'huile au précédent mélange et remélanger.
@@ -159,3 +159,45 @@ CLOSED: [2024-01-29 Mon 23:13]
 11. Laisser refroidir.
 Bon appétit !
 [[/images/cooking/brioche.jpeg]]
+** TODO Pains pita maison :boulangerie:
+:properties:
+:EXPORT_FILE_NAME: pains pita
+:end:
+*** Infos
+*** Ingrédients
+*** Instructions
+** TODO Crêpes sans oeuf :boulangerie:
+:properties:
+:EXPORT_FILE_NAME: Crêpes sans oeufs
+:end:
+*** Infos
+*** Ingrédients
+*** Instructions
+** TODO Cookies  :boulangerie:
+:properties:
+:EXPORT_FILE_NAME: Cookies
+:end:
+*** Infos
+| Préparation | 15 min |
+| Cuisson    | 11 min                      |
+- Recette du blog [[https://www.iletaitunefoislapatisserie.com/2015/09/cookies-sans-oeufs.html][Il était une fois la pâtisserie]].
+*** Ingrédients
+| Ingrédient                   | Quantité | Remarques                             |
+|------------------------------+----------+---------------------------------------|
+| Beurre demi-sel              | 100g     |                                       |
+| Sucre                        | 80g      | Peut être un mélange de sucres        |
+| Levure chimique              | 5g       | Quantité équivalente à un demi sachet |
+| Farine de blé                | 80g      | t45/t55                               |
+| Chocolat en morceaux/pépites | 100g     |                                       |
+| Amandes en poudre            | 50g      |                                       |
+*** Instructions
+1. Préchauffer le four à 180°C,
+2. Sortir le beurre à TA, le couper en morceaux et le laisser ramollir pour obtenir du beurre pommade .
+3. Mélanger le sucre avec le beurre.
+4. Ajouter la farine, la levure et les amandes au beurre, puis mélanger.
+5. Ajouter le chocolat.
+6. Faire des petites boules de la taille d'environ 2.5 cm de diamètre et les poser sur une plaque.
+7. Enfourner pour 11 minutes, laisser sur la plaque en sortie de cuisson pour les cuire passivement.
+8. Vous pouvez les manger dès lors qu'ils auront refroidi, ils durciront en refroidissant.
+
+Bon appétit !
