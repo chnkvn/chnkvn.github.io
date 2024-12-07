@@ -159,21 +159,8 @@ CLOSED: [2024-01-29 Mon 23:13]
 11. Laisser refroidir.
 Bon appétit !
 [[/images/cooking/brioche.jpeg]]
-** TODO Pains pita maison :boulangerie:
-:properties:
-:EXPORT_FILE_NAME: pains pita
-:end:
-*** Infos
-*** Ingrédients
-*** Instructions
-** TODO Crêpes sans oeuf :boulangerie:
-:properties:
-:EXPORT_FILE_NAME: Crêpes sans oeufs
-:end:
-*** Infos
-*** Ingrédients
-*** Instructions
-** TODO Cookies  :boulangerie:
+** DONE Cookies :boulangerie:
+CLOSED: [2024-12-08 Sun 00:21]
 :properties:
 :EXPORT_FILE_NAME: Cookies
 :end:
@@ -201,3 +188,17 @@ Bon appétit !
 8. Vous pouvez les manger dès lors qu'ils auront refroidi, ils durciront en refroidissant.
 
 Bon appétit !
+** TODO Pains pita maison :boulangerie:
+:properties:
+:EXPORT_FILE_NAME: pains pita
+:end:
+*** Infos
+*** Ingrédients
+*** Instructions
+** TODO Crêpes sans oeuf :boulangerie:
+:properties:
+:EXPORT_FILE_NAME: Crêpes sans oeufs
+:end:
+*** Infos
+*** Ingrédients
+*** Instructions

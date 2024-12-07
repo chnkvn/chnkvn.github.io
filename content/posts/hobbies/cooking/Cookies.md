@@ -1,9 +1,10 @@
 +++
 title = "Cookies"
 author = ["Kevin CHAN"]
+date = 2024-12-08T00:21:00+01:00
 tags = ["boulangerie"]
 categories = ["cooking-boulangerie", "french"]
-draft = true
+draft = false
 +++
 
 ## Infos {#infos}
