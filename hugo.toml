@@ -50,11 +50,11 @@ pygmentscodefencesguesssyntax = true
   unsafe = true
 
 
-[[menu.main]]
-    name = "Posts"
-    weight = 1
-    identifier = "posts"
-    url = "/posts/"
+# [[menu.main]]
+#     name = "Posts"
+#     weight = 1
+#     identifier = "posts"
+#     url = "/posts/"
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
