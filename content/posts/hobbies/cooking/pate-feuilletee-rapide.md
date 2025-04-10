@@ -35,12 +35,9 @@ draft = false
 6.  Tourner la pâte à 90°. Fleurer le plan de travail si besoin. Refaire un tour. Réfrigérer 30 min si la pâte a chauffé.
 7.  Répéter l'étape 6 3 fois, afin d'effectuer **cinq tours** au total.
 
-<!--listend-->
+<a id="figure--Tour de pâte feuilletée"></a>
 
-```org
-#+CAPTION: Un tour de pâte feuilletée.
-[[/images/cooking/pate-feuilletee.jpeg]]
-```
+{{< figure src="/images/cooking/pate-feuilletee.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Un tour de pâte feuilletée" link="/images/cooking/pate-feuilletee.jpeg" >}}
 
 Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.<br />
 Bon appétit !

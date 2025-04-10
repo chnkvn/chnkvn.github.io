@@ -1,7 +1,7 @@
 #+hugo_base_dir: ../
 #+hugo_section: posts
 #+startup: overview
-
+#+options: num:nil
 * Boulangerie
 :properties:
 :EXPORT_HUGO_SECTION: posts/hobbies/cooking
@@ -35,11 +35,10 @@ CLOSED: [2024-01-12 Fri 17:16]
 5. Fleurer le plan de travail. Aplatir la pâte sur le plan de travail pour former une longue bande. Plier la pâte en 3. C'est ce qu'on appelle un *tour*.
 6. Tourner la pâte à 90°. Fleurer le plan de travail si besoin. Refaire un tour. Réfrigérer 30 min si la pâte a chauffé.
 7. Répéter l'étape 6 3 fois, afin d'effectuer *cinq tours* au total.
-#+begin_src org
-#+CAPTION: Un tour de pâte feuilletée.
-[[/images/cooking/pate-feuilletee.jpeg]]
 
-#+end_src
+#+name: Tour de pâte feuilletée
+#+CAPTION: Un tour de pâte feuilletée
+[[/images/cooking/pate-feuilletee.jpeg][file:/images/cooking/pate-feuilletee.jpeg]]
 
 Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.\\
 Bon appétit !
@@ -125,6 +124,8 @@ CLOSED: [2024-01-29 Mon 23:13]
 :EXPORT_FILE_NAME: Brioche
 :end:
 
+#+NAME: Brioche
+#+CAPTION: Une belle brioche sans oeufs faite maison
 [[/images/cooking/brioche.jpeg]]
 *** TODO Infos
 | Préparation | 30 min avec robot, + si pétrissage à la main |
@@ -159,7 +160,7 @@ CLOSED: [2024-01-29 Mon 23:13]
 10. Cuire 30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.
 11. Laisser refroidir.
 Bon appétit !
-[[/images/cooking/brioche.jpeg]]
+
 ** DONE Cookies :boulangerie:
 CLOSED: [2024-12-08 Sun 00:21]
 :properties:
