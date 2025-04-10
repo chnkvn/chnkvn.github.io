@@ -1,6 +1,6 @@
 baseURL = 'https://chnkvn.github.io'
-DefaultContentLanguage = "fr-fr"
-title = 'Kevin Chan'
+DefaultContentLanguage = "fr"
+title = 'C. Kevin'
 theme = 'beautifulhugo'
 # Syntax highlighting
 pygmentsStyle = "trac"
