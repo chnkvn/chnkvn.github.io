@@ -30,7 +30,7 @@ pygmentscodefencesguesssyntax = true
 
   rtl = false
 
-
+  custom_css = ["css/style.css"]
  [params.author]
   email = "chan.kevin@proton.me"
   name = "Kevin Chan"
