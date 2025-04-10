@@ -1,7 +1,7 @@
 baseURL = 'https://chnkvn.github.io'
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr-fr"
 title = 'Kevin Chan'
-
+theme = 'beautifulhugo'
 # Syntax highlighting
 pygmentsStyle = "trac"
 pygmentsCodefences = true
@@ -30,24 +30,10 @@ pygmentscodefencesguesssyntax = true
 
   rtl = false
 
-#  [[params.author]]
-#    email = "chan.kevin@outlook.fr"
-#    name = "Kevin Chan"
 
-[module]
-  [[module.imports]]
-    path = "github.com/halogenica/beautifulhugo"
-
-[markup.goldmark.renderer]
-  unsafe = true
-
-
-# Social media
-[Author]
-  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  #name = "Kevin Chan"
- # website = "yourwebsite.com"
- email = "chan.kevin@outlook.fr"
+ [params.author]
+  email = "chan.kevin@proton.me"
+  name = "Kevin Chan"
   github = "chnkvn"
   linkedin = "chnkvn"
   # paypal = "username"
@@ -57,6 +43,13 @@ pygmentscodefencesguesssyntax = true
   #medium = "username"
   #discord = "invite code (https://discord.gg/XXXXXXX)"
   #strava = "userid"
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  #website = "mywebsite.com"
+
+
+[markup.goldmark.renderer]
+  unsafe = true
+
 
 [[menu.main]]
     name = "Posts"
@@ -81,3 +74,4 @@ pygmentscodefencesguesssyntax = true
     identifier = "search"
     weight = 5
     url = "/search/"
+

@@ -1,6 +1,6 @@
 +++
 title = "Pate feuilletée rapide"
-author = ["Kevin CHAN"]
+author = ["Kevin"]
 date = 2024-01-12T17:16:00+01:00
 tags = ["base", "boulangerie"]
 categories = ["cooking-boulangerie", "french"]
@@ -35,15 +35,12 @@ draft = false
 6.  Tourner la pâte à 90°. Fleurer le plan de travail si besoin. Refaire un tour. Réfrigérer 30 min si la pâte a chauffé.
 7.  Répéter l'étape 6 3 fois, afin d'effectuer **cinq tours** au total.
 
-{{< figure src="/images/cooking/pate-feuilletee.jpeg" >}}
+<!--listend-->
 
-<style>.org-center { margin-left: auto; margin-right: auto; text-align: center; }</style>
-
-<div class="org-center">
-
-Un tour de pâte feuilletée.
-
-</div>
+```org
+#+CAPTION: Un tour de pâte feuilletée.
+[[/images/cooking/pate-feuilletee.jpeg]]
+```
 
 Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.<br />
 Bon appétit !
