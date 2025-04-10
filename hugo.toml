@@ -8,13 +8,13 @@ pygmentsCodefences = true
 pygmentscodefencesguesssyntax = true
 
 [Params]
-#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  homeTitle = "C. Kevin" # Set a different text for the header on the home page
   showTags = true
-  subtitle = "Computer Science related blog posts et billets de blog à propos de mes violons d'Ingres"
+  subtitle = "Billets de blog à propos de mes violons d'Ingres"
   #mainSections = ["post","posts"]
   logo = "img/logo.png" # Expecting square dimensions
   favicon = "img/favicon-32x32.png"
-  dateFormat = "January 2, 2006"
+  dateFormat = "2 Janvier 2006"
   commit = false
   rss = true
   comments = true
@@ -26,11 +26,10 @@ pygmentscodefencesguesssyntax = true
   showRelatedPosts = true
   hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
-
+  disclaimerText = "Les expressions exprimées n'engagent strictement que moi et aucune autre personne pouvant avoir une relation avec moi."
   rtl = false
-
   custom_css = ["css/style.css"]
+
  [params.author]
   email = "chan.kevin@proton.me"
   name = "Kevin Chan"
@@ -56,22 +55,22 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     identifier = "posts"
     url = "/posts/"
-    [[menu.main]]
+[[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 3
-    [[menu.main]]
-    name = "Categories"
+[[menu.main]]
+    name = "Catégories"
     url = "categories/"
     weight = 3
 [[menu.main]]
-    name = "About me"
+    name = "Qui suis-je ?"
     identifier = "about"
     weight = 4
     url = "/posts/about-me"
 [[menu.main]]
-    name = "Search"
-    identifier = "search"
+    name = "Rechercher"
+    identifier = "Search"
     weight = 5
     url = "/search/"
 

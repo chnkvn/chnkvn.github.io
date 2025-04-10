@@ -1,7 +1,8 @@
 +++
 title = "Pate feuilletée rapide"
 author = ["Kevin"]
-date = 2024-01-12T17:16:00+01:00
+date = 2025-01-02T00:00:00+01:00
+publishDate = 2025-03-07T00:00:00+01:00
 tags = ["base", "boulangerie"]
 categories = ["cooking-boulangerie", "french"]
 draft = false
@@ -37,7 +38,7 @@ draft = false
 
 <a id="figure--Tour de pâte feuilletée"></a>
 
-{{< figure src="/images/cooking/pate-feuilletee.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Un tour de pâte feuilletée" link="/images/cooking/pate-feuilletee.jpeg" >}}
+{{< figure src="/images/cooking/pate-feuilletee.jpeg" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Un tour de pâte feuilletée" link="/images/cooking/pate-feuilletee.jpeg" >}}
 
 Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.<br />
 Bon appétit !

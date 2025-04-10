@@ -1,17 +1,20 @@
 #+hugo_base_dir: ../
 #+hugo_section: posts
 #+startup: overview
-#+options: num:nil
+#+Language: fr
 * Boulangerie
 :properties:
 :EXPORT_HUGO_SECTION: posts/hobbies/cooking
 :EXPORT_HUGO_CATEGORIES: cooking-boulangerie french
 :end:
 
-**  Pate feuilletée rapide :base:boulangerie:
-CLOSED: [2024-01-12 Fri 17:16]
+** DONE Pate feuilletée rapide :base:boulangerie:
+SCHEDULED: <2025-03-07 Fri> CLOSED: <2025-01-02 Thu>
 :PROPERTIES:
 :EXPORT_FILE_NAME: pate-feuilletee-rapide
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2025-04-11 Fri 01:20]
 :END:
 
 *** Infos
@@ -162,10 +165,15 @@ CLOSED: [2024-01-29 Mon 23:13]
 Bon appétit !
 
 ** DONE Cookies :boulangerie:
-CLOSED: [2024-12-08 Sun 00:21]
+CLOSED: [2025-04-11 Fri 01:28]
 :properties:
 :EXPORT_FILE_NAME: Cookies
 :end:
+:LOGBOOK:
+- State "DONE"       from              [2025-04-11 Fri 01:28]
+- State "DONE"       from "DONE"       [2025-04-11 Fri 01:27]
+- State "DONE"       from "DONE"       [2025-04-11 Fri 01:27]
+:END:
 #+NAME: Plein de cookies
 #+CAPTION: Un set de cookies pour un bon en-cas
 [[/images/cooking/cookie_full.jpeg]]
