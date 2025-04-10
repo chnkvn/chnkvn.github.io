@@ -166,6 +166,9 @@ CLOSED: [2024-12-08 Sun 00:21]
 :properties:
 :EXPORT_FILE_NAME: Cookies
 :end:
+#+NAME: Plein de cookies
+#+CAPTION: Un set de cookies pour un bon en-cas
+[[/images/cooking/cookie_full.jpeg]]
 *** Infos
 | Préparation | 15 min |
 | Cuisson    | 11 min                      |
@@ -185,8 +188,14 @@ CLOSED: [2024-12-08 Sun 00:21]
 3. Mélanger le sucre avec le beurre.
 4. Ajouter la farine, la levure et les amandes au beurre, puis mélanger.
 5. Ajouter le chocolat.
-6. Faire des petites boules de la taille d'environ 2.5 cm de diamètre et les poser sur une plaque.
-7. Enfourner pour 11 minutes, laisser sur la plaque en sortie de cuisson pour les cuire passivement.
+6. Faire des petites boules de pâte à cookies et les poser sur une plaque.
+#+NAME: Boules de cookie
+#+CAPTION: Les cookies avant cuisson
+[[/images/cooking/cookie_batch_uncooked.jpg]]
+7. Enfourner pour 10-11 minutes, laisser sur la plaque en sortie de cuisson pour les cuire passivement.
+#+NAME: Boules de cookie
+#+CAPTION: Les cookies en sortie de four
+[[/images/cooking/cookie_batch_cooked.jpg]]
 8. Vous pouvez les manger dès lors qu'ils auront refroidi, ils durciront en refroidissant.
 
 Bon appétit !
