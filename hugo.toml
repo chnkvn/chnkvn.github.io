@@ -2,33 +2,36 @@ baseURL = 'https://chnkvn.github.io'
 DefaultContentLanguage = "fr"
 title = 'C. Kevin'
 theme = 'beautifulhugo'
+
 # Syntax highlighting
 pygmentsStyle = "trac"
 pygmentsCodefences = true
 pygmentscodefencesguesssyntax = true
-
 [Params]
   homeTitle = "C. Kevin" # Set a different text for the header on the home page
   showTags = true
-  subtitle = "Billets de blog à propos de mes violons d'Ingres"
+  #subtitle = "Billets de blog à propos de mes violons d'Ingres"
   #mainSections = ["post","posts"]
   logo = "img/logo.png" # Expecting square dimensions
   favicon = "img/favicon-32x32.png"
-  dateFormat = "2 Janvier 2006"
-  commit = false
-  rss = true
-  comments = true
-  readingTime = true
-  wordCount = true
-  useHLJS = true
-  socialShare = true
-  delayDisqus = true
-  showRelatedPosts = true
-  hideAuthor = true
+  dateFormat = "2 janvier 2006"
+  # commit = false
+  # rss = true
+  # comments = true
+  # readingTime = true
+  # wordCount = true
+  # useHLJS = true
+  # socialShare = true
+  # delayDisqus = true
+  # showRelatedPosts = true
+  #hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
   disclaimerText = "Les expressions exprimées n'engagent strictement que moi et aucune autre personne pouvant avoir une relation avec moi."
   rtl = false
-  custom_css = ["css/style.css"]
+  
+ custom_css = ["css/main.css"]
+selfHosted = true
+
 
  [params.author]
   email = "chan.kevin@proton.me"
@@ -48,6 +51,11 @@ pygmentscodefencesguesssyntax = true
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
 
 
 # [[menu.main]]

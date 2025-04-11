@@ -38,7 +38,7 @@ draft = false
 
 <a id="figure--Tour de pâte feuilletée"></a>
 
-{{< figure src="/images/cooking/pate-feuilletee.jpeg" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Un tour de pâte feuilletée" link="/images/cooking/pate-feuilletee.jpeg" >}}
+{{< figure src="/images/cooking/pate-feuilletee.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Un tour de pâte feuilletée" link="/images/cooking/pate-feuilletee.jpeg" >}}
 
 Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.<br />
 Bon appétit !

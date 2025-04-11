@@ -1,7 +1,7 @@
 #+hugo_base_dir: ../
 #+hugo_section: posts
 #+startup: overview
-#+Language: fr
+
 * Boulangerie
 :properties:
 :EXPORT_HUGO_SECTION: posts/hobbies/cooking
@@ -130,13 +130,13 @@ CLOSED: [2024-01-29 Mon 23:13]
 #+NAME: Brioche
 #+CAPTION: Une belle brioche sans oeufs faite maison
 [[/images/cooking/brioche.jpeg]]
-*** TODO Infos
+*** Infos
 | Préparation | 30 min avec robot, + si pétrissage à la main |
 | Repos     | 2h30 mini                             |
 | Cuisson    | 30 min                               |
 - Recette de Christophe Michalak
 - Brioche congelable.
-*** TODO Ingrédients
+*** Ingrédients
 | Ingrédient                | Quantité  | Remarques                                     |
 |-------------------------+---------+-----------------------------------------------|
 | Lait                      | 185mL   |                                               |
@@ -148,7 +148,7 @@ CLOSED: [2024-01-29 Mon 23:13]
 | Sucre perlé, chocolat, vanille | Optionnel | Autres éléments d'aromatisation                    |
 | Fleur d'oranger            | Optionnel | Déduire du volume de lait le volume de fleur d'oranger |
 
-*** TODO Instructions
+*** Instructions
 1. Chauffer le lait à 35°C pour réactiver la levure. Compter à peu près 15 minutes pour la réactiver (bulles sur la surface)
 2. Mélanger la farine, le sucre et le sel.
 3. Ajouter l'huile au précédent mélange et remélanger.

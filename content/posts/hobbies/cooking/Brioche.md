@@ -12,7 +12,7 @@ draft = false
 {{< figure src="/images/cooking/brioche.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Une belle brioche sans oeufs faite maison" >}}
 
 
-## <span class="org-todo todo TODO">TODO</span> Infos {#infos}
+## Infos {#infos}
 
 | Préparation | 30 min avec robot, + si pétrissage à la main |
 |-------------|----------------------------------------------|
@@ -23,7 +23,7 @@ draft = false
 -   Brioche congelable.
 
 
-## <span class="org-todo todo TODO">TODO</span> Ingrédients {#ingrédients}
+## Ingrédients {#ingrédients}
 
 | Ingrédient                     | Quantité  | Remarques                                              |
 |--------------------------------|-----------|--------------------------------------------------------|
@@ -37,7 +37,7 @@ draft = false
 | Fleur d'oranger                | Optionnel | Déduire du volume de lait le volume de fleur d'oranger |
 
 
-## <span class="org-todo todo TODO">TODO</span> Instructions {#instructions}
+## Instructions {#instructions}
 
 1.  Chauffer le lait à 35°C pour réactiver la levure. Compter à peu près 15 minutes pour la réactiver (bulles sur la surface)
 2.  Mélanger la farine, le sucre et le sel.
