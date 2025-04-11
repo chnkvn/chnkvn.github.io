@@ -1,6 +1,6 @@
 +++
 title = "L'épargne en bref"
-author = ["Kevin CHAN"]
+author = ["Kevin"]
 date = 2024-01-12T18:04:00+01:00
 tags = ["pognon", "epargne", "en-bref"]
 categories = ["pognon", "french"]
@@ -151,7 +151,6 @@ Fonds majoritairement composé d'obligations, et pouvant contenir un peu d'actio
 -   Fonds obligataires: des fonds détenant des obligations
 -   Immobilier: sous forme de pierre papier (SCPI, SCI, OPCI)
 -   Autres supports: Private equity, fonds mixtes détenant des obligations et des actions, etc...
-
 -   On **ne peut donc pas parler de rendement de l'assurance-vie** à proprement parler, on peut cependant **comparer la performance de leurs fonds euro**.
 -   Avantages successoraux:
     -   Abattement de 152 500 euros par bénéficiare tous contrats confondus pour les versements avant 69 ans, 30 500 euros après 70 ans.

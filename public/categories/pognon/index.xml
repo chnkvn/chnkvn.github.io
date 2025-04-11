@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pognon on C. Kevin</title>
     <link>http://localhost:1313/categories/pognon/</link>
     <description>Recent content in Pognon on C. Kevin</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 12 Jan 2024 18:04:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/pognon/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,22 @@
       <link>http://localhost:1313/posts/hobbies/pognon/epargne/</link>
       <pubDate>Fri, 12 Jan 2024 18:04:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/hobbies/pognon/epargne/</guid>
-      <description>&lt;p&gt;NB : La version slides de ce billet de blog est dispo via &lt;a href=&#34;https://chankevin-drive.mycozy.cloud/public?sharecode=ikvFrvBiDvJB&#34;&gt;ce lien&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;pourquoi-ce-post&#34;&gt;Pourquoi ce post ?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;span class=&#34;underline&#34;&gt;Manque de temps&lt;/span&gt; et d&amp;rsquo;envie de s&amp;rsquo;investir pour investir&lt;/li&gt;&#xA;&lt;li&gt;Terminologie qui semble trop complexe&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ce qui a pour conséquence :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;De l&amp;rsquo;&lt;strong&gt;inaction&lt;/strong&gt; : perte de valeur monétaire à cause de l&amp;rsquo;inflation&lt;br /&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;On achetait plus de choses avec 100 euros en 2010 qu&amp;rsquo;en 2024.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ou de mauvais investissements, faits au hasard ou confié à un tiers (Conseiller en gestion de patrimoine ou gestion pilotée)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;mon-objectif&#34;&gt;Mon objectif:&lt;/h3&gt;&#xA;&lt;p&gt;Vous permettre d&amp;rsquo;investir en ne passant &lt;strong&gt;pas plus de 2 minutes par mois/trimestre&lt;/strong&gt;, en fonction de votre capacité d&amp;rsquo;épargne.&lt;/p&gt;</description>
+      <description>&lt;p&gt;NB : La version slides de ce billet de blog est dispo via &lt;a href=&#34;https://chankevin-drive.mycozy.cloud/public?sharecode=ikvFrvBiDvJB&#34;&gt;ce lien&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;pourquoi-ce-post&#34;&gt;Pourquoi ce post ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;underline&#34;&gt;Manque de temps&lt;/span&gt; et d&amp;rsquo;envie de s&amp;rsquo;investir pour investir&lt;/li&gt;
+&lt;li&gt;Terminologie qui semble trop complexe&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ce qui a pour conséquence :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;De l&amp;rsquo;&lt;strong&gt;inaction&lt;/strong&gt; : perte de valeur monétaire à cause de l&amp;rsquo;inflation&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On achetait plus de choses avec 100 euros en 2010 qu&amp;rsquo;en 2024.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ou de mauvais investissements, faits au hasard ou confié à un tiers (Conseiller en gestion de patrimoine ou gestion pilotée)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;mon-objectif&#34;&gt;Mon objectif:&lt;/h3&gt;
+&lt;p&gt;Vous permettre d&amp;rsquo;investir en ne passant &lt;strong&gt;pas plus de 2 minutes par mois/trimestre&lt;/strong&gt;, en fonction de votre capacité d&amp;rsquo;épargne.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

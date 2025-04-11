@@ -1,20 +1,30 @@
 baseURL = 'https://chnkvn.github.io'
 DefaultContentLanguage = "fr"
 title = 'C. Kevin'
-theme = 'beautifulhugo'
-
+theme = 'PaperMod'
+[pagination]
+pagerSize = "5"
 # Syntax highlighting
 pygmentsStyle = "trac"
 pygmentsCodefences = true
 pygmentscodefencesguesssyntax = true
 [Params]
-  homeTitle = "C. Kevin" # Set a different text for the header on the home page
+  Title = "C. Kevin" # Set a different text for the header on the home page
   showTags = true
+  keywords = ["Blog", "PaperMod"]
+  
   #subtitle = "Billets de blog à propos de mes violons d'Ingres"
   #mainSections = ["post","posts"]
-  logo = "img/logo.png" # Expecting square dimensions
-  favicon = "img/favicon-32x32.png"
+  
+  
   dateFormat = "2 janvier 2006"
+  ShowReadingTime= true
+  ShowShareButtons= true
+  ShowPostNavLinks= true
+  ShowBreadCrumbs= true
+  ShowCodeCopyButtons= false
+  ShowWordCount= true
+  ShowRssButtonInSectionTermList= true  
   # commit = false
   # rss = true
   # comments = true
@@ -29,11 +39,11 @@ pygmentscodefencesguesssyntax = true
   disclaimerText = "Les expressions exprimées n'engagent strictement que moi et aucune autre personne pouvant avoir une relation avec moi."
   rtl = false
   
- custom_css = ["css/main.css"]
-selfHosted = true
+ 
+ selfHosted = true
 
 
- [params.author]
+           [params.author]
   email = "chan.kevin@proton.me"
   name = "Kevin Chan"
   github = "chnkvn"
@@ -48,6 +58,18 @@ selfHosted = true
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   #website = "mywebsite.com"
 
+[Params.assets]
+favicon = "img/favicon-32x32.png"
+favicon16x16= "img/favicon-16x16.png"
+favicon32x32= "img/favicon-32x32.png"
+
+[Params.label]
+text='C. Kevin ' 
+icon = "img/logo.png" # Expecting square dimensions
+
+[Params.homeInfoParams]
+  Title = "C. Kevin le blog"
+  Content = "Des billets de blog par-ci, par-là sur mes violons d'Ingres"
 
 [markup.goldmark.renderer]
   unsafe = true

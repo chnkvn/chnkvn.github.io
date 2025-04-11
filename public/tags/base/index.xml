@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Base on C. Kevin</title>
     <link>http://localhost:1313/tags/base/</link>
     <description>Recent content in Base on C. Kevin</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/base/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,141 @@
       <link>http://localhost:1313/posts/hobbies/cooking/pate-feuilletee-rapide/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/hobbies/cooking/pate-feuilletee-rapide/</guid>
-      <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Quantité&lt;/th&gt;&#xA;          &lt;th&gt;2 pâtes&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Préparation&lt;/td&gt;&#xA;          &lt;td&gt;10 min&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Repos&lt;/td&gt;&#xA;          &lt;td&gt;30 min&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Ingrédient&lt;/th&gt;&#xA;          &lt;th&gt;Quantité&lt;/th&gt;&#xA;          &lt;th&gt;Remarques&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Farine&lt;/td&gt;&#xA;          &lt;td&gt;250g&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Beurre doux&lt;/td&gt;&#xA;          &lt;td&gt;220g&lt;/td&gt;&#xA;          &lt;td&gt;Très froid, idéalement de tourage ou plus de 80% de MG&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Eau&lt;/td&gt;&#xA;          &lt;td&gt;100g&lt;/td&gt;&#xA;          &lt;td&gt;Très froide&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sel&lt;/td&gt;&#xA;          &lt;td&gt;2g&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Dissoudre le sel dans l&amp;rsquo;eau&lt;/li&gt;&#xA;&lt;li&gt;Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.&lt;/li&gt;&#xA;&lt;li&gt;Ajouter l&amp;rsquo;eau, mélanger jusqu&amp;rsquo;à obtention d&amp;rsquo;une boule non homogène. Si le beurre est totalement incorporé à la pâte et forme une boule homogène, cela donnera une &lt;strong&gt;pâte sablée&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Laisser reposer 30 min au refrigérateur&lt;/li&gt;&#xA;&lt;li&gt;Fleurer le plan de travail. Aplatir la pâte sur le plan de travail pour former une longue bande. Plier la pâte en 3. C&amp;rsquo;est ce qu&amp;rsquo;on appelle un &lt;strong&gt;tour&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Tourner la pâte à 90°. Fleurer le plan de travail si besoin. Refaire un tour. Réfrigérer 30 min si la pâte a chauffé.&lt;/li&gt;&#xA;&lt;li&gt;Répéter l&amp;rsquo;étape 6 3 fois, afin d&amp;rsquo;effectuer &lt;strong&gt;cinq tours&lt;/strong&gt; au total.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a id=&#34;figure--Tour de pâte feuilletée&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;2 pâtes&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Préparation&lt;/td&gt;
+          &lt;td&gt;10 min&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Repos&lt;/td&gt;
+          &lt;td&gt;30 min&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine&lt;/td&gt;
+          &lt;td&gt;250g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beurre doux&lt;/td&gt;
+          &lt;td&gt;220g&lt;/td&gt;
+          &lt;td&gt;Très froid, idéalement de tourage ou plus de 80% de MG&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eau&lt;/td&gt;
+          &lt;td&gt;100g&lt;/td&gt;
+          &lt;td&gt;Très froide&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sel&lt;/td&gt;
+          &lt;td&gt;2g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Dissoudre le sel dans l&amp;rsquo;eau&lt;/li&gt;
+&lt;li&gt;Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.&lt;/li&gt;
+&lt;li&gt;Ajouter l&amp;rsquo;eau, mélanger jusqu&amp;rsquo;à obtention d&amp;rsquo;une boule non homogène. Si le beurre est totalement incorporé à la pâte et forme une boule homogène, cela donnera une &lt;strong&gt;pâte sablée&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Laisser reposer 30 min au refrigérateur&lt;/li&gt;
+&lt;li&gt;Fleurer le plan de travail. Aplatir la pâte sur le plan de travail pour former une longue bande. Plier la pâte en 3. C&amp;rsquo;est ce qu&amp;rsquo;on appelle un &lt;strong&gt;tour&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Tourner la pâte à 90°. Fleurer le plan de travail si besoin. Refaire un tour. Réfrigérer 30 min si la pâte a chauffé.&lt;/li&gt;
+&lt;li&gt;Répéter l&amp;rsquo;étape 6 3 fois, afin d&amp;rsquo;effectuer &lt;strong&gt;cinq tours&lt;/strong&gt; au total.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Tour de pâte feuilletée&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tortillas</title>
       <link>http://localhost:1313/posts/hobbies/cooking/tortillas/</link>
       <pubDate>Fri, 12 Jan 2024 17:33:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/hobbies/cooking/tortillas/</guid>
-      <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Quantité&lt;/th&gt;&#xA;          &lt;th&gt;12 tortillas de ø14 cm&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Préparation&lt;/td&gt;&#xA;          &lt;td&gt;12 min&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Repos&lt;/td&gt;&#xA;          &lt;td&gt;45 min&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Cuisson&lt;/td&gt;&#xA;          &lt;td&gt;12 min&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Ingrédient&lt;/th&gt;&#xA;          &lt;th&gt;Quantité&lt;/th&gt;&#xA;          &lt;th&gt;Remarques&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Farine&lt;/td&gt;&#xA;          &lt;td&gt;300g&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Eau&lt;/td&gt;&#xA;          &lt;td&gt;150g&lt;/td&gt;&#xA;          &lt;td&gt;Eau chaude: tortillas légères, eau froide: tortillas feuilletées&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Beurre doux&lt;/td&gt;&#xA;          &lt;td&gt;60g&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sel&lt;/td&gt;&#xA;          &lt;td&gt;1 cac&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Mélanger la farine et le sel.&lt;/li&gt;&#xA;&lt;li&gt;Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.&lt;/li&gt;&#xA;&lt;li&gt;Creuser un puits dans la préparation et ajouter l&amp;rsquo;eau. Mélanger jusqu&amp;rsquo;à obtention d&amp;rsquo;une boule homogène.&lt;/li&gt;&#xA;&lt;li&gt;Couvrir et laisser reposer 15-30 min.&lt;/li&gt;&#xA;&lt;li&gt;Diviser la pâte en 12 boules de taille similaire. Couvrir et laisser reposer 15 min.&lt;/li&gt;&#xA;&lt;li&gt;Bien chauffer la poêle. Faire le test de la goutte d&amp;rsquo;eau. Si elle tient sur la poêle chaude et ne s&amp;rsquo;évapore pas tout de suite, c&amp;rsquo;est bon.&lt;/li&gt;&#xA;&lt;li&gt;Fleurer le plan de travail. Étaler vos boules de pâte.&lt;/li&gt;&#xA;&lt;li&gt;Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.&lt;br /&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Bon appétit !&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;12 tortillas de ø14 cm&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Préparation&lt;/td&gt;
+          &lt;td&gt;12 min&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Repos&lt;/td&gt;
+          &lt;td&gt;45 min&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cuisson&lt;/td&gt;
+          &lt;td&gt;12 min&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine&lt;/td&gt;
+          &lt;td&gt;300g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eau&lt;/td&gt;
+          &lt;td&gt;150g&lt;/td&gt;
+          &lt;td&gt;Eau chaude: tortillas légères, eau froide: tortillas feuilletées&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beurre doux&lt;/td&gt;
+          &lt;td&gt;60g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sel&lt;/td&gt;
+          &lt;td&gt;1 cac&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Mélanger la farine et le sel.&lt;/li&gt;
+&lt;li&gt;Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.&lt;/li&gt;
+&lt;li&gt;Creuser un puits dans la préparation et ajouter l&amp;rsquo;eau. Mélanger jusqu&amp;rsquo;à obtention d&amp;rsquo;une boule homogène.&lt;/li&gt;
+&lt;li&gt;Couvrir et laisser reposer 15-30 min.&lt;/li&gt;
+&lt;li&gt;Diviser la pâte en 12 boules de taille similaire. Couvrir et laisser reposer 15 min.&lt;/li&gt;
+&lt;li&gt;Bien chauffer la poêle. Faire le test de la goutte d&amp;rsquo;eau. Si elle tient sur la poêle chaude et ne s&amp;rsquo;évapore pas tout de suite, c&amp;rsquo;est bon.&lt;/li&gt;
+&lt;li&gt;Fleurer le plan de travail. Étaler vos boules de pâte.&lt;/li&gt;
+&lt;li&gt;Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Bon appétit !&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
