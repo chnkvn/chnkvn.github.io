@@ -6,13 +6,15 @@
     <description>Recent content in Posts on C. Kevin</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>fr</language>
+    <managingEditor>chan.kevin@proton.me (Kevin)</managingEditor>
+    <webMaster>chan.kevin@proton.me (Kevin)</webMaster>
     <lastBuildDate>Fri, 11 Apr 2025 01:28:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cookies</title>
-      <link>http://localhost:1313/posts/hobbies/cooking/cookies/</link>
-      <pubDate>Fri, 11 Apr 2025 01:28:00 +0200</pubDate>
-      <guid>http://localhost:1313/posts/hobbies/cooking/cookies/</guid>
+      <link>http://localhost:1313/posts/hobbies/cuisine/cookies/</link>
+      <pubDate>Fri, 11 Apr 2025 01:28:00 +0200</pubDate><author>chan.kevin@proton.me (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/cookies/</guid>
       <description>&lt;p&gt;&lt;a id=&#34;figure--Plein de cookies&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/cookie_full.jpeg&#34;
@@ -94,9 +96,9 @@
     </item>
     <item>
       <title>Pate feuilletée rapide</title>
-      <link>http://localhost:1313/posts/hobbies/cooking/pate-feuilletee-rapide/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hobbies/cooking/pate-feuilletee-rapide/</guid>
+      <link>http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0100</pubDate><author>chan.kevin@proton.me (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/</guid>
       <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -162,9 +164,9 @@
     </item>
     <item>
       <title>Brioche</title>
-      <link>http://localhost:1313/posts/hobbies/cooking/brioche/</link>
-      <pubDate>Mon, 29 Jan 2024 23:13:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hobbies/cooking/brioche/</guid>
+      <link>http://localhost:1313/posts/hobbies/cuisine/brioche/</link>
+      <pubDate>Mon, 29 Jan 2024 23:13:00 +0100</pubDate><author>chan.kevin@proton.me (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/brioche/</guid>
       <description>&lt;p&gt;&lt;a id=&#34;figure--Brioche&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/brioche.jpeg&#34;
@@ -271,9 +273,9 @@
     </item>
     <item>
       <title>Galette des rois sans oeuf</title>
-      <link>http://localhost:1313/posts/hobbies/cooking/galette-des-rois/</link>
-      <pubDate>Sun, 14 Jan 2024 16:46:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hobbies/cooking/galette-des-rois/</guid>
+      <link>http://localhost:1313/posts/hobbies/cuisine/galette-des-rois/</link>
+      <pubDate>Sun, 14 Jan 2024 16:46:00 +0100</pubDate><author>chan.kevin@proton.me (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/galette-des-rois/</guid>
       <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -310,7 +312,7 @@
       &lt;tr&gt;
           &lt;td&gt;Pate feuilletée&lt;/td&gt;
           &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/hobbies/cooking/pate-feuilletee-rapide/&#34;&gt;Recette&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/&#34;&gt;Recette&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Amande en poudre&lt;/td&gt;
@@ -377,7 +379,7 @@
     <item>
       <title>L&#39;épargne en bref</title>
       <link>http://localhost:1313/posts/hobbies/pognon/epargne/</link>
-      <pubDate>Fri, 12 Jan 2024 18:04:00 +0100</pubDate>
+      <pubDate>Fri, 12 Jan 2024 18:04:00 +0100</pubDate><author>chan.kevin@proton.me (Kevin)</author>
       <guid>http://localhost:1313/posts/hobbies/pognon/epargne/</guid>
       <description>&lt;p&gt;NB : La version slides de ce billet de blog est dispo via &lt;a href=&#34;https://chankevin-drive.mycozy.cloud/public?sharecode=ikvFrvBiDvJB&#34;&gt;ce lien&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;pourquoi-ce-post&#34;&gt;Pourquoi ce post ?&lt;/h2&gt;
@@ -398,9 +400,9 @@
     </item>
     <item>
       <title>Tortillas</title>
-      <link>http://localhost:1313/posts/hobbies/cooking/tortillas/</link>
-      <pubDate>Fri, 12 Jan 2024 17:33:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hobbies/cooking/tortillas/</guid>
+      <link>http://localhost:1313/posts/hobbies/cuisine/tortillas/</link>
+      <pubDate>Fri, 12 Jan 2024 17:33:00 +0100</pubDate><author>chan.kevin@proton.me (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/tortillas/</guid>
       <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -472,7 +474,7 @@
     <item>
       <title>À propos de moi</title>
       <link>http://localhost:1313/posts/about-me/</link>
-      <pubDate>Fri, 12 Jan 2024 16:06:00 +0100</pubDate>
+      <pubDate>Fri, 12 Jan 2024 16:06:00 +0100</pubDate><author>chan.kevin@proton.me (Kevin)</author>
       <guid>http://localhost:1313/posts/about-me/</guid>
       <description>&lt;p&gt;Toutes mes salutations les plus sincères, &lt;br /&gt;
 Je m&amp;rsquo;appelle Kevin, et j&amp;rsquo;aime apprendre et expérimenter de nouvelles choses chaque jour, &lt;br /&gt;

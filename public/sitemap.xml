@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/boulangerie/</loc>
+    <lastmod>2025-04-11T01:28:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/boulangerie/</loc>
     <lastmod>2025-04-11T01:28:00+02:00</lastmod>
   </url><url>
@@ -11,13 +14,7 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-04-11T01:28:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hobbies/cooking/cookies/</loc>
-    <lastmod>2025-04-11T01:28:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/cooking-boulangerie/</loc>
-    <lastmod>2025-04-11T01:28:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/french/</loc>
+    <loc>http://localhost:1313/posts/hobbies/cuisine/cookies/</loc>
     <lastmod>2025-04-11T01:28:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -29,13 +26,13 @@
     <loc>http://localhost:1313/tags/base/</loc>
     <lastmod>2025-01-02T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hobbies/cooking/pate-feuilletee-rapide/</loc>
+    <loc>http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/</loc>
     <lastmod>2025-01-02T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hobbies/cooking/brioche/</loc>
+    <loc>http://localhost:1313/posts/hobbies/cuisine/brioche/</loc>
     <lastmod>2024-01-29T23:13:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hobbies/cooking/galette-des-rois/</loc>
+    <loc>http://localhost:1313/posts/hobbies/cuisine/galette-des-rois/</loc>
     <lastmod>2024-01-14T16:46:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/en-bref/</loc>
@@ -53,11 +50,13 @@
     <loc>http://localhost:1313/tags/pognon/</loc>
     <lastmod>2024-01-12T18:04:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hobbies/cooking/tortillas/</loc>
+    <loc>http://localhost:1313/posts/hobbies/cuisine/tortillas/</loc>
     <lastmod>2024-01-12T17:33:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/about-me/</loc>
     <lastmod>2024-01-12T16:06:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/search/search/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url>

@@ -43,9 +43,9 @@ pygmentscodefencesguesssyntax = true
  selfHosted = true
 
 
-           [params.author]
+[Params.author]
   email = "chan.kevin@proton.me"
-  name = "Kevin Chan"
+  name = "Kevin"
   github = "chnkvn"
   linkedin = "chnkvn"
   # paypal = "username"
@@ -70,6 +70,23 @@ icon = "img/logo.png" # Expecting square dimensions
 [Params.homeInfoParams]
   Title = "C. Kevin le blog"
   Content = "Des billets de blog par-ci, par-là sur mes violons d'Ingres"
+
+[[Params.socialIcons]]
+name = 'github'
+url = "https://github.com/chnkvn" 
+
+[[Params.socialIcons]]
+name = 'discord'
+url = "https://discordapp.com/users/narsyt" 
+
+[[Params.socialIcons]]
+name = 'cv'
+url = "https://drive.proton.me/urls/A74YD3AKN0#PPY9o8i69DH9" 
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
 
 [markup.goldmark.renderer]
   unsafe = true

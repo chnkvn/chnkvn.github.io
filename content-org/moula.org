@@ -4,7 +4,7 @@
 * Moula
 :properties:
 :EXPORT_HUGO_SECTION: posts/hobbies/pognon
-:EXPORT_HUGO_CATEGORIES: pognon french
+:EXPORT_HUGO_CATEGORIES: pognon 
 :end:
 
 ** DONE L'épargne en bref :pognon:epargne:en_bref:

@@ -3,7 +3,7 @@ title = "Brioche"
 author = ["Kevin"]
 date = 2024-01-29T23:13:00+01:00
 tags = ["boulangerie"]
-categories = ["cooking-boulangerie", "french"]
+categories = ["boulangerie"]
 draft = false
 +++
 

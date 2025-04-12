@@ -4,8 +4,8 @@
 
 * Boulangerie
 :properties:
-:EXPORT_HUGO_SECTION: posts/hobbies/cooking
-:EXPORT_HUGO_CATEGORIES: cooking-boulangerie french
+:EXPORT_HUGO_SECTION: posts/hobbies/cuisine
+:EXPORT_HUGO_CATEGORIES: boulangerie
 :end:
 
 ** DONE Pate feuilletée rapide :base:boulangerie:
