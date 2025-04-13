@@ -9,7 +9,7 @@ draft = false
 
 <a id="figure--Brioche"></a>
 
-{{< figure src="/images/cooking/brioche.jpeg" caption="<span class=\"figure-number\">Figure 1: </span>Une belle brioche sans oeufs faite maison" >}}
+{{< figure src="/images/cooking/brioche.png" caption="<span class=\"figure-number\">Figure 1: </span>Une belle brioche sans oeufs faite maison" >}}
 
 
 ## Infos {#infos}
@@ -50,7 +50,11 @@ draft = false
     -   Laisser pousser une nuit au frais.
 8.  La pâte a normalement gonflé. Dégazer la pâte, façonner la brioche (de simples boules collées côte-à-côte, ou tresses).
 9.  Laisser pousser 1h à 1h30. 30 minutes avant la fin de la pousse, chauffer le four à 180°C chaleur tournante ou 200°C chaleur traditionnelle.
-10. Cuire 30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.
+10. Cuire 25-30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.
 11. Laisser refroidir.
 
 Bon appétit !
+
+<a id="figure--Intérieur de la brioche"></a>
+
+{{< figure src="/images/cooking/brioche_in.png" caption="<span class=\"figure-number\">Figure 2: </span>Une photo de l'intérieur de la brioche" >}}

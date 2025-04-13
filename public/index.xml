@@ -169,7 +169,7 @@
       <guid>http://localhost:1313/posts/hobbies/cuisine/brioche/</guid>
       <description>&lt;p&gt;&lt;a id=&#34;figure--Brioche&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/brioche.jpeg&#34;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/brioche.png&#34;
          alt=&#34;Figure 1: Une belle brioche sans oeufs faite maison&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Une belle brioche sans oeufs faite maison&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -266,7 +266,7 @@
 &lt;/li&gt;
 &lt;li&gt;La pâte a normalement gonflé. Dégazer la pâte, façonner la brioche (de simples boules collées côte-à-côte, ou tresses).&lt;/li&gt;
 &lt;li&gt;Laisser pousser 1h à 1h30. 30 minutes avant la fin de la pousse, chauffer le four à 180°C chaleur tournante ou 200°C chaleur traditionnelle.&lt;/li&gt;
-&lt;li&gt;Cuire 30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.&lt;/li&gt;
+&lt;li&gt;Cuire 25-30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.&lt;/li&gt;
 &lt;li&gt;Laisser refroidir.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Bon appétit !&lt;/p&gt;</description>
