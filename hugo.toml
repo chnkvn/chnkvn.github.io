@@ -1,4 +1,4 @@
-baseURL = 'https://chnkvn.github.io'
+baseURL = 'https://ckevin.fr'
 DefaultContentLanguage = "fr"
 title = 'C. Kevin'
 theme = 'PaperMod'
@@ -44,7 +44,7 @@ pygmentscodefencesguesssyntax = true
 
 
 [Params.author]
-  email = "chan.kevin@proton.me"
+  email = "contact@ckevin.fr" 
   name = "Kevin"
   github = "chnkvn"
   linkedin = "chnkvn"
@@ -82,6 +82,10 @@ url = "https://discordapp.com/users/narsyt"
 [[Params.socialIcons]]
 name = 'cv'
 url = "https://drive.proton.me/urls/A74YD3AKN0#PPY9o8i69DH9" 
+
+[[Params.socialIcons]]
+name = 'email'
+url = "mailto:contact@ckevin.fr" 
 
 
 [outputs]

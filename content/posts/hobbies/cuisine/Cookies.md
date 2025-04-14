@@ -44,14 +44,14 @@ draft = false
 
 <a id="figure--Boules de cookie"></a>
 
-{{< figure src="/images/cooking/cookie_batch_uncooked.jpg" caption="<span class=\"figure-number\">Figure 2: </span>Les cookies avant cuisson" >}}
+{{< figure src="/images/cooking/cookie_batch_uncooked.jpg" caption="<span class=\"figure-number\">Figure 2: </span>Les cookies avant cuisson" link="/images/cooking/cookie_batch_uncooked.jpg" >}}
 
-1.  Enfourner pour 10-11 minutes, laisser sur la plaque en sortie de cuisson pour les cuire passivement.
+7.  Enfourner pour 10-11 minutes, laisser sur la plaque en sortie de cuisson pour les cuire passivement.
 
 <a id="figure--Boules de cookie"></a>
 
-{{< figure src="/images/cooking/cookie_batch_cooked.jpg" caption="<span class=\"figure-number\">Figure 3: </span>Les cookies en sortie de four" >}}
+{{< figure src="/images/cooking/cookie_batch_cooked.jpg" caption="<span class=\"figure-number\">Figure 3: </span>Les cookies en sortie de four" link="/images/cooking/cookie_batch_cooked.jpg" >}}
 
-1.  Vous pouvez les manger dès lors qu'ils auront refroidi, ils durciront en refroidissant.
+8.  Vous pouvez les manger dès lors qu'ils auront refroidi, ils durciront en refroidissant.
 
 Bon appétit !

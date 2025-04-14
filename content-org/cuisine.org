@@ -195,22 +195,25 @@ CLOSED: [2025-04-11 Fri 01:28]
 | Chocolat en morceaux/pépites | 100g     |                                       |
 | Amandes en poudre            | 50g      |                                       |
 *** Instructions
-1. Préchauffer le four à 180°C,
-2. Sortir le beurre à TA, le couper en morceaux et le laisser ramollir pour obtenir du beurre pommade .
-3. Mélanger le sucre avec le beurre.
-4. Ajouter la farine, la levure et les amandes au beurre, puis mélanger.
-5. Ajouter le chocolat.
-6. Faire des petites boules de pâte à cookies et les poser sur une plaque.
+1) Préchauffer le four à 180°C,
+2) Sortir le beurre à TA, le couper en morceaux et le laisser ramollir pour obtenir du beurre pommade .
+3) Mélanger le sucre avec le beurre.
+4) Ajouter la farine, la levure et les amandes au beurre, puis mélanger.
+5) Ajouter le chocolat.
+6) Faire des petites boules de pâte à cookies et les poser sur une plaque.
+
 #+NAME: Boules de cookie
 #+CAPTION: Les cookies avant cuisson
-[[/images/cooking/cookie_batch_uncooked.jpg]]
-7. Enfourner pour 10-11 minutes, laisser sur la plaque en sortie de cuisson pour les cuire passivement.
+[[/images/cooking/cookie_batch_uncooked.jpg][file:/images/cooking/cookie_batch_uncooked.jpg]]
+
+7) [@7] Enfourner pour 10-11 minutes, laisser sur la plaque en sortie de cuisson pour les cuire passivement.
 #+NAME: Boules de cookie
 #+CAPTION: Les cookies en sortie de four
-[[/images/cooking/cookie_batch_cooked.jpg]]
-8. Vous pouvez les manger dès lors qu'ils auront refroidi, ils durciront en refroidissant.
+[[/images/cooking/cookie_batch_cooked.jpg][file:/images/cooking/cookie_batch_cooked.jpg]]
+8. [@8] Vous pouvez les manger dès lors qu'ils auront refroidi, ils durciront en refroidissant.
 
 Bon appétit !
+
 ** TODO Pains pita maison :boulangerie:
 :properties:
 :EXPORT_FILE_NAME: pains pita
