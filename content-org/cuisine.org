@@ -180,7 +180,7 @@ CLOSED: [2025-04-11 Fri 01:28]
 :END:
 #+NAME: Plein de cookies
 #+CAPTION: Un set de cookies pour un bon en-cas
-[[/images/cooking/cookie_full.jpeg]]
+[[/images/cooking/cookie_full.png]]
 *** Infos
 | Préparation | 15 min |
 | Cuisson    | 11 min                      |
@@ -204,12 +204,12 @@ CLOSED: [2025-04-11 Fri 01:28]
 
 #+NAME: Boules de cookie
 #+CAPTION: Les cookies avant cuisson
-[[/images/cooking/cookie_batch_uncooked.jpg][file:/images/cooking/cookie_batch_uncooked.jpg]]
+[[/images/cooking/cookie_batch_uncooked.jpg][file:/images/cooking/cookie_batch_uncooked.png]]
 
 7) [@7] Enfourner pour 10-11 minutes, laisser sur la plaque en sortie de cuisson pour les cuire passivement.
 #+NAME: Boules de cookie
 #+CAPTION: Les cookies en sortie de four
-[[/images/cooking/cookie_batch_cooked.jpg][file:/images/cooking/cookie_batch_cooked.jpg]]
+[[/images/cooking/cookie_batch_cooked.jpg][file:/images/cooking/cookie_batch_cooked.png]]
 8. [@8] Vous pouvez les manger dès lors qu'ils auront refroidi, ils durciront en refroidissant.
 
 Bon appétit !
