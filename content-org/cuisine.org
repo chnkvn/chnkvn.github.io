@@ -221,7 +221,7 @@ CLOSED: [2025-04-11 Fri 01:28]
 
 Bon appétit !
 
-** DONE Flan maison sans oeufs
+** DONE Flan maison sans oeufs :boulangerie:patisserie:
 CLOSED: [2025-04-21 Mon 16:47]
 :properties:
 :EXPORT_FILE_NAME: flan maison
