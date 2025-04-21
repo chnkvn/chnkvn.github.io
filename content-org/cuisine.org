@@ -46,6 +46,11 @@ SCHEDULED: <2025-03-07 Fri> CLOSED: <2025-01-02 Thu>
 Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.\\
 Bon appétit !
 
+#+name: Pâte feuilletée étalée
+#+Caption: Pâte feuilletée étalée
+[[/images/cooking/pate feuilletee etalee.png][file:/images/cooking/pate_feuilletee_etalee.png]]
+
+
 ** DONE Tortillas :base:boulangerie:
 CLOSED: [2024-01-12 Fri 17:33]
 :PROPERTIES:
@@ -213,6 +218,63 @@ CLOSED: [2025-04-11 Fri 01:28]
 8. [@8] Vous pouvez les manger dès lors qu'ils auront refroidi, ils durciront en refroidissant.
 
 Bon appétit !
+
+** DONE Flan maison sans oeufs
+CLOSED: [2025-04-21 Mon 16:47]
+:properties:
+:EXPORT_FILE_NAME: flan maison
+:end:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-04-21 Mon 16:47]
+:END:
+
+#+NAME: Flan maison sans oeufs
+#+CAPTION: Flan maison sans oeuf, avec du sucre de canne roux
+[[/images/cooking/flan_maison_entier.png][file:/images/cooking/flan_maison_entier.png]]
+
+*** Infos
+
+| Préparation | 15 min |
+| Cuisson     | 1:30 |
+
+- Recette inspirée de celle de Cyril Lignac
+
+*** Ingrédients
+
+| Ingrédient      | Quantité | Remarques                                                                                  |
+|-----------------+----------+--------------------------------------------------------------------------------------------|
+| Lait entier     | 75cL     |                                                                                            |
+| Sucre           | 110g     | Peut être un mélange de sucres                                                             |
+| Fécule de Maïs  | 55g      | Aussi connu sous le nom de Maïzena ; Possibilité d'utiliser de la fécule de pomme de terre |
+| Vanille         | 1 gousse | Ou deux cuillères d'extrait ou d'arôme si pas de vanille                                   |
+| Pate feuilletée | 1        | [[*Pate feuilletée rapide][Recette]]                                                                                    |
+
+*** Instructions
+**** La veille, si vous avez une gousse de vanille
+1. Portez le lait à ébullition, et faire infuser la gousse de vanille une nuit dans le lait.
+2. Le lendemain, filtrer le lait 
+**** Le jour J
+0. [@0] Si vous n'avez pas de gousse de vanille, melangez la vanille liquide au lait. 
+1. Mélanger le sucre avec la fécule.
+2. Sur le feu, ajouter le mélange de fécule-sucre petit à petit au lait et mélanger. 
+3. Quand tout le mélange est incorporé dans le lait, l'appareil doit s'épaissir. Continuer à mélanger jusqu'à 3 minutes après ébullition. 
+
+#+NAME: Appareil à flan
+#+CAPTION: Appareil à flan, avec utilisation de sucre de canne brun
+[[/images/cooking/appareil_flan.png][file:/images/cooking/appareil_flan.png]]
+
+4. [@4]Préchauffer le four à 170°C. Laisser refroidir l'appareil à TA.
+5. Étaler la pâte feuilletée dans un moule.
+6. Verser l'appareil dans le moule. Passer le four en mode pâtisserie (ou Sole + Chaleur tournante). Cuire pendant 75-90 minutes en surveillant la cuisson.
+7. Laisser refroidir en sortie de four, vous pourrez manger dès que le dessert sera à température ambiante. 
+8. Vous pouvez les manger dès lors qu'ils auront refroidi, ils durciront en refroidissant.
+Bon appétit !
+
+#+NAME: Part de Flan
+#+CAPTION: Part de flan
+[[/images/cooking/flan_maison_part.png][file:/images/cooking/flan_maison_part.png]]
+
+
 
 ** TODO Pains pita maison :boulangerie:
 :properties:

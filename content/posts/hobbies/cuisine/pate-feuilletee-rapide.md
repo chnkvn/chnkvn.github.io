@@ -42,3 +42,7 @@ draft = false
 
 Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.<br />
 Bon appétit !
+
+<a id="figure--Pâte feuilletée étalée"></a>
+
+{{< figure src="/images/cooking/pate_feuilletee_etalee.png" caption="<span class=\"figure-number\">Figure 2: </span>Pâte feuilletée étalée" link="/images/cooking/pate feuilletee etalee.png" >}}
