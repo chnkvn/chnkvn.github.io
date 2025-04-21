@@ -51,6 +51,8 @@ Bon appétit !
 [[/images/cooking/pate feuilletee etalee.png][file:/images/cooking/pate_feuilletee_etalee.png]]
 
 
+*** Quelques recettes qui utilisent une pâte feuilletée avec images
+- [[*Flan maison sans oeufs][Flan maison sans oeufs]]
 ** DONE Tortillas :base:boulangerie:
 CLOSED: [2024-01-12 Fri 17:33]
 :PROPERTIES:

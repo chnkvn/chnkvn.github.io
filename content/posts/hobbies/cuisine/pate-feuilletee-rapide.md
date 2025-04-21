@@ -46,3 +46,8 @@ Bon appétit !
 <a id="figure--Pâte feuilletée étalée"></a>
 
 {{< figure src="/images/cooking/pate_feuilletee_etalee.png" caption="<span class=\"figure-number\">Figure 2: </span>Pâte feuilletée étalée" link="/images/cooking/pate feuilletee etalee.png" >}}
+
+
+## Quelques recettes qui utilisent une pâte feuilletée avec images {#quelques-recettes-qui-utilisent-une-pâte-feuilletée-avec-images}
+
+-   [Flan maison sans oeufs]({{< relref "flan maison" >}})
