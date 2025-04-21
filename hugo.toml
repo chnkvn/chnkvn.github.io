@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
   #mainSections = ["post","posts"]
   
   
-  dateFormat = "2 janvier 2006"
+  dateFormat = "2 Jan 2006"
   ShowReadingTime= true
   ShowShareButtons= true
   ShowPostNavLinks= true

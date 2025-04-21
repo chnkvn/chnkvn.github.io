@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Patisserie on C. Kevin</title>
+    <link>http://localhost:1313/tags/patisserie/</link>
+    <description>Recent content in Patisserie on C. Kevin</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>fr</language>
+    <managingEditor>contact@ckevin.fr (Kevin)</managingEditor>
+    <webMaster>contact@ckevin.fr (Kevin)</webMaster>
+    <lastBuildDate>Mon, 21 Apr 2025 16:47:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/patisserie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flan maison sans oeufs</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/flan-maison/</link>
+      <pubDate>Mon, 21 Apr 2025 16:47:00 +0200</pubDate><author>contact@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/flan-maison/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Flan maison sans oeufs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;
+         alt=&#34;Figure 1: Flan maison sans oeuf, avec du sucre de canne roux&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Flan maison sans oeuf, avec du sucre de canne roux&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;15 min&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cuisson&lt;/td&gt;
+          &lt;td&gt;1:30&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Recette inspirée de celle de Cyril Lignac&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lait entier&lt;/td&gt;
+          &lt;td&gt;75cL&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sucre&lt;/td&gt;
+          &lt;td&gt;110g&lt;/td&gt;
+          &lt;td&gt;Peut être un mélange de sucres&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fécule de Maïs&lt;/td&gt;
+          &lt;td&gt;55g&lt;/td&gt;
+          &lt;td&gt;Aussi connu sous le nom de Maïzena ; Possibilité d&amp;rsquo;utiliser de la fécule de pomme de terre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Vanille&lt;/td&gt;
+          &lt;td&gt;1 gousse&lt;/td&gt;
+          &lt;td&gt;Ou deux cuillères d&amp;rsquo;extrait ou d&amp;rsquo;arôme si pas de vanille&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pate feuilletée&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/&#34;&gt;Recette&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;h3 id=&#34;la-veille-si-vous-avez-une-gousse-de-vanille&#34;&gt;La veille, si vous avez une gousse de vanille&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Portez le lait à ébullition, et faire infuser la gousse de vanille une nuit dans le lait.&lt;/li&gt;
+&lt;li&gt;Le lendemain, filtrer le lait&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;le-jour-j&#34;&gt;Le jour J&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;Si vous n&amp;rsquo;avez pas de gousse de vanille, melangez la vanille liquide au lait.&lt;/li&gt;
+&lt;li&gt;Mélanger le sucre avec la fécule.&lt;/li&gt;
+&lt;li&gt;Sur le feu, ajouter le mélange de fécule-sucre petit à petit au lait et mélanger.&lt;/li&gt;
+&lt;li&gt;Quand tout le mélange est incorporé dans le lait, l&amp;rsquo;appareil doit s&amp;rsquo;épaissir. Continuer à mélanger jusqu&amp;rsquo;à 3 minutes après ébullition.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Appareil à flan&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
