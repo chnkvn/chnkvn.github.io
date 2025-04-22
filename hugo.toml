@@ -44,7 +44,7 @@ pygmentscodefencesguesssyntax = true
 
 
 [Params.author]
-  email = "contact@ckevin.fr" 
+  email = "blog@ckevin.fr" 
   name = "Kevin"
   github = "chnkvn"
   linkedin = "chnkvn"
@@ -69,7 +69,7 @@ icon = "img/logo.png" # Expecting square dimensions
 
 [Params.homeInfoParams]
   Title = "C. Kevin le blog"
-  Content = "Des billets de blog par-ci, par-là sur mes violons d'Ingres"
+  Content = "Des billets de blog par-ci, par-là sur mes violons d'Ingres, sans prise de tête."
 
 [[Params.socialIcons]]
 name = 'github'
