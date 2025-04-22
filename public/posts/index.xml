@@ -6,14 +6,14 @@
     <description>Recent content in Posts on C. Kevin</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>fr</language>
-    <managingEditor>contact@ckevin.fr (Kevin)</managingEditor>
-    <webMaster>contact@ckevin.fr (Kevin)</webMaster>
+    <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
+    <webMaster>blog@ckevin.fr (Kevin)</webMaster>
     <lastBuildDate>Mon, 21 Apr 2025 16:47:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flan maison sans oeufs</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/flan-maison/</link>
-      <pubDate>Mon, 21 Apr 2025 16:47:00 +0200</pubDate><author>contact@ckevin.fr (Kevin)</author>
+      <pubDate>Mon, 21 Apr 2025 16:47:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
       <guid>http://localhost:1313/posts/hobbies/cuisine/flan-maison/</guid>
       <description>&lt;p&gt;&lt;a id=&#34;figure--Flan maison sans oeufs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;&gt;
@@ -96,7 +96,7 @@
     <item>
       <title>Cookies</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/cookies/</link>
-      <pubDate>Fri, 11 Apr 2025 01:28:00 +0200</pubDate><author>contact@ckevin.fr (Kevin)</author>
+      <pubDate>Fri, 11 Apr 2025 01:28:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
       <guid>http://localhost:1313/posts/hobbies/cuisine/cookies/</guid>
       <description>&lt;p&gt;&lt;a id=&#34;figure--Plein de cookies&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
@@ -180,7 +180,7 @@
     <item>
       <title>Pate feuilletée rapide</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0100</pubDate><author>contact@ckevin.fr (Kevin)</author>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0100</pubDate><author>blog@ckevin.fr (Kevin)</author>
       <guid>http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/</guid>
       <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
 &lt;table&gt;
@@ -248,7 +248,7 @@
     <item>
       <title>Brioche</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/brioche/</link>
-      <pubDate>Mon, 29 Jan 2024 23:13:00 +0100</pubDate><author>contact@ckevin.fr (Kevin)</author>
+      <pubDate>Mon, 29 Jan 2024 23:13:00 +0100</pubDate><author>blog@ckevin.fr (Kevin)</author>
       <guid>http://localhost:1313/posts/hobbies/cuisine/brioche/</guid>
       <description>&lt;p&gt;&lt;a id=&#34;figure--Brioche&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
@@ -357,7 +357,7 @@
     <item>
       <title>Galette des rois sans oeuf</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/galette-des-rois/</link>
-      <pubDate>Sun, 14 Jan 2024 16:46:00 +0100</pubDate><author>contact@ckevin.fr (Kevin)</author>
+      <pubDate>Sun, 14 Jan 2024 16:46:00 +0100</pubDate><author>blog@ckevin.fr (Kevin)</author>
       <guid>http://localhost:1313/posts/hobbies/cuisine/galette-des-rois/</guid>
       <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
 &lt;table&gt;
@@ -462,7 +462,7 @@
     <item>
       <title>L&#39;épargne en bref</title>
       <link>http://localhost:1313/posts/hobbies/pognon/epargne/</link>
-      <pubDate>Fri, 12 Jan 2024 18:04:00 +0100</pubDate><author>contact@ckevin.fr (Kevin)</author>
+      <pubDate>Fri, 12 Jan 2024 18:04:00 +0100</pubDate><author>blog@ckevin.fr (Kevin)</author>
       <guid>http://localhost:1313/posts/hobbies/pognon/epargne/</guid>
       <description>&lt;p&gt;NB : La version slides de ce billet de blog est dispo via &lt;a href=&#34;https://chankevin-drive.mycozy.cloud/public?sharecode=ikvFrvBiDvJB&#34;&gt;ce lien&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;pourquoi-ce-post&#34;&gt;Pourquoi ce post ?&lt;/h2&gt;
@@ -484,9 +484,17 @@
     <item>
       <title>Tortillas</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/tortillas/</link>
-      <pubDate>Fri, 12 Jan 2024 17:33:00 +0100</pubDate><author>contact@ckevin.fr (Kevin)</author>
+      <pubDate>Fri, 12 Jan 2024 17:33:00 +0100</pubDate><author>blog@ckevin.fr (Kevin)</author>
       <guid>http://localhost:1313/posts/hobbies/cuisine/tortillas/</guid>
-      <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Tortillas maison&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/tortillas.jpg&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/tortillas.jpg&#34;
+         alt=&#34;Figure 1: Tortillas maison&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Tortillas maison&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -547,17 +555,14 @@
 &lt;li&gt;Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.&lt;/li&gt;
 &lt;li&gt;Creuser un puits dans la préparation et ajouter l&amp;rsquo;eau. Mélanger jusqu&amp;rsquo;à obtention d&amp;rsquo;une boule homogène.&lt;/li&gt;
 &lt;li&gt;Couvrir et laisser reposer 15-30 min.&lt;/li&gt;
-&lt;li&gt;Diviser la pâte en 12 boules de taille similaire. Couvrir et laisser reposer 15 min.&lt;/li&gt;
-&lt;li&gt;Bien chauffer la poêle. Faire le test de la goutte d&amp;rsquo;eau. Si elle tient sur la poêle chaude et ne s&amp;rsquo;évapore pas tout de suite, c&amp;rsquo;est bon.&lt;/li&gt;
-&lt;li&gt;Fleurer le plan de travail. Étaler vos boules de pâte.&lt;/li&gt;
-&lt;li&gt;Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Diviser la pâte en 10-12 boules de taille similaire. Couvrir et laisser reposer 15 min.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Bon appétit !&lt;/p&gt;</description>
+&lt;p&gt;&lt;a id=&#34;figure--Boules de tortillas&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>À propos de moi</title>
       <link>http://localhost:1313/posts/about-me/</link>
-      <pubDate>Fri, 12 Jan 2024 16:06:00 +0100</pubDate><author>contact@ckevin.fr (Kevin)</author>
+      <pubDate>Fri, 12 Jan 2024 16:06:00 +0100</pubDate><author>blog@ckevin.fr (Kevin)</author>
       <guid>http://localhost:1313/posts/about-me/</guid>
       <description>&lt;p&gt;Toutes mes salutations les plus sincères, &lt;br /&gt;
 Je m&amp;rsquo;appelle Kevin, et j&amp;rsquo;aime apprendre et expérimenter de nouvelles choses chaque jour, &lt;br /&gt;
