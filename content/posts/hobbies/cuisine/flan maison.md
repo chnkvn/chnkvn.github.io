@@ -14,9 +14,9 @@ draft = false
 
 ## Infos {#infos}
 
-| Préparation | 15 min |
-|-------------|--------|
-| Cuisson     | 1:30   |
+| Quantité      | Préparation | Cuisson   |
+|---------------|-------------|-----------|
+| 6-8 Personnes | 0:15        | &gt; 1:15 |
 
 -   Recette inspirée de celle de Cyril Lignac
 

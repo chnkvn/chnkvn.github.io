@@ -17,10 +17,15 @@ SCHEDULED: <2025-03-07 Fri> CLOSED: <2025-01-02 Thu>
 - State "DONE"       from              [2025-04-11 Fri 01:20]
 :END:
 
+#+name: Pâte feuilletée étalée
+#+Caption: Pâte feuilletée étalée
+[[/images/cooking/pate feuilletee etalee.png][file:/images/cooking/pate_feuilletee_etalee.png]]
+
 *** Infos
-| Quantité    | 2 pâtes |
-| Préparation | 10 min |
-| Repos     | 30 min |
+
+| Quantité | Préparation | Repos  |
+|----------+-------------+--------|
+| 2 pâtes  | 0:10   | 0:30 |
 
 *** Ingrédients
 | Ingrédient   | Quantité | Remarques                                      |
@@ -46,9 +51,6 @@ SCHEDULED: <2025-03-07 Fri> CLOSED: <2025-01-02 Thu>
 Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.\\
 Bon appétit !
 
-#+name: Pâte feuilletée étalée
-#+Caption: Pâte feuilletée étalée
-[[/images/cooking/pate feuilletee etalee.png][file:/images/cooking/pate_feuilletee_etalee.png]]
 
 
 *** Quelques recettes qui utilisent une pâte feuilletée avec images
@@ -64,10 +66,11 @@ CLOSED: [2024-01-12 Fri 17:33]
 [[/images/cooking/tortillas.png][file:/images/cooking/tortillas.png]]
 
 *** Infos
-| Quantité    | 10-12 tortillas de ø14 cm|
-| Préparation | 12 min    |
-| Repos     | 45 min    |
-| Cuisson    | 12 min |
+
+| Quantité                  | Préparation | Repos  | Cuisson |
+|---------------------------+-------------+--------+---------|
+| 10-12 tortillas de ø14 cm | 0:12    | 0:45 | 0:12 |
+
 
 *** Ingrédients
 | Ingrédient   | Quantité | Remarques                                        |
@@ -103,11 +106,10 @@ CLOSED: [2024-01-14 Sun 16:46]
 :END:
 
 *** Infos
-| Quantité    | 6-8 pers |
-| Préparation | 25 min  cumulées |
-| Repos     | 1 h      |
-| Cuisson    | mini 35 min |
 
+| Quantité      | Préparation     | Repos | Cuisson |
+|---------------+-----------------+-------+---------|
+| 6-8 Personnes | 0:25 cumulées | 1:00 | > 0:35 |
 *** Ingrédients
 | Ingrédient             | Quantité  | Remarques                  |
 |----------------------+---------+----------------------------|
@@ -151,9 +153,10 @@ CLOSED: [2024-01-29 Mon 23:13]
 #+CAPTION: Une belle brioche sans oeufs faite maison
 [[/images/cooking/brioche.png]]
 *** Infos
-| Préparation | 30 min avec robot, + si pétrissage à la main |
-| Repos     | 2h30 mini                             |
-| Cuisson    | 30 min                               |
+
+| Préparation                                  | Repos | Cuisson      |
+|----------------------------------------------+-------+--------------|
+| 30 min avec robot, + si pétrissage à la main | > 2:00 | > 0:22  |
 - Recette de Christophe Michalak
 - Brioche congelable.
 *** Ingrédients
@@ -179,8 +182,8 @@ CLOSED: [2024-01-29 Mon 23:13]
    - Laisser pousser entre 1h30 et 3h à température ambiante
    - Laisser pousser une nuit au frais.
 8. La pâte a normalement gonflé. Dégazer la pâte, façonner la brioche (de simples boules collées côte-à-côte, ou tresses).
-9. Laisser pousser 1h à 1h30. 30 minutes avant la fin de la pousse, chauffer le four à 180°C chaleur tournante ou 200°C chaleur traditionnelle.
-10. Cuire 25-30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.
+9. Laisser pousser 30 minutes - 1 heures. 30 minutes avant la fin de la pousse, chauffer le four à 180°C chaleur tournante ou 200°C chaleur traditionnelle.
+10. Cuire 22-30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.
 11. Laisser refroidir.
 Bon appétit !
 #+NAME: Intérieur de la brioche
@@ -202,8 +205,9 @@ CLOSED: [2025-04-11 Fri 01:28]
 #+CAPTION: Un set de cookies pour un bon en-cas
 [[/images/cooking/cookie_full.png]]
 *** Infos
-| Préparation | 15 min |
-| Cuisson    | 11 min                      |
+| Quantité    | Préparation | Cuisson |
+|-------------+-------------+---------|
+| ~17 cookies | 0:15  | 0:11 |
 - Recette du blog [[https://www.iletaitunefoislapatisserie.com/2015/09/cookies-sans-oeufs.html][Il était une fois la pâtisserie]].
 *** Ingrédients
 | Ingrédient                   | Quantité | Remarques                             |
@@ -249,9 +253,9 @@ CLOSED: [2025-04-21 Mon 16:47]
 
 *** Infos
 
-| Préparation | 15 min |
-| Cuisson     | 1:30 |
-
+| Quantité      | Préparation | Cuisson |
+|---------------+-------------+---------|
+| 6-8 Personnes | 0:15  | > 1:15 |
 - Recette inspirée de celle de Cyril Lignac
 
 *** Ingrédients
@@ -291,16 +295,16 @@ Bon appétit !
 
 
 
-** TODO Pains pita maison :boulangerie:
+** TODO Crêpes sans oeuf :boulangerie:
 :properties:
-:EXPORT_FILE_NAME: pains pita
+:EXPORT_FILE_NAME: Crêpes sans oeufs
 :end:
 *** Infos
 *** Ingrédients
 *** Instructions
-** TODO Crêpes sans oeuf :boulangerie:
+** TODO Pains pita maison :boulangerie:
 :properties:
-:EXPORT_FILE_NAME: Crêpes sans oeufs
+:EXPORT_FILE_NAME: pains pita
 :end:
 *** Infos
 *** Ingrédients

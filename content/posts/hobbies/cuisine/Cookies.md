@@ -14,9 +14,9 @@ draft = false
 
 ## Infos {#infos}
 
-| Préparation | 15 min |
-|-------------|--------|
-| Cuisson     | 11 min |
+| Quantité    | Préparation | Cuisson |
+|-------------|-------------|---------|
+| ~17 cookies | 0:15        | 0:11    |
 
 -   Recette du blog [Il était une fois la pâtisserie](https://www.iletaitunefoislapatisserie.com/2015/09/cookies-sans-oeufs.html).
 

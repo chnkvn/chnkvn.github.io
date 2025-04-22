@@ -9,11 +9,9 @@ draft = false
 
 ## Infos {#infos}
 
-| Quantité    | 6-8 pers         |
-|-------------|------------------|
-| Préparation | 25 min  cumulées |
-| Repos       | 1 h              |
-| Cuisson     | mini 35 min      |
+| Quantité      | Préparation   | Repos | Cuisson   |
+|---------------|---------------|-------|-----------|
+| 6-8 Personnes | 0:25 cumulées | 1:00  | &gt; 0:35 |
 
 
 ## Ingrédients {#ingrédients}

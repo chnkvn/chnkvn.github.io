@@ -14,10 +14,9 @@ draft = false
 
 ## Infos {#infos}
 
-| Préparation | 30 min avec robot, + si pétrissage à la main |
-|-------------|----------------------------------------------|
-| Repos       | 2h30 mini                                    |
-| Cuisson     | 30 min                                       |
+| Préparation                                  | Repos     | Cuisson   |
+|----------------------------------------------|-----------|-----------|
+| 30 min avec robot, + si pétrissage à la main | &gt; 2:00 | &gt; 0:22 |
 
 -   Recette de Christophe Michalak
 -   Brioche congelable.
@@ -49,8 +48,8 @@ draft = false
     -   Laisser pousser entre 1h30 et 3h à température ambiante
     -   Laisser pousser une nuit au frais.
 8.  La pâte a normalement gonflé. Dégazer la pâte, façonner la brioche (de simples boules collées côte-à-côte, ou tresses).
-9.  Laisser pousser 1h à 1h30. 30 minutes avant la fin de la pousse, chauffer le four à 180°C chaleur tournante ou 200°C chaleur traditionnelle.
-10. Cuire 25-30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.
+9.  Laisser pousser 30 minutes - 1 heures. 30 minutes avant la fin de la pousse, chauffer le four à 180°C chaleur tournante ou 200°C chaleur traditionnelle.
+10. Cuire 22-30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.
 11. Laisser refroidir.
 
 Bon appétit !

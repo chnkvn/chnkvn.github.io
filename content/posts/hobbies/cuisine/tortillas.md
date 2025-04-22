@@ -14,11 +14,9 @@ draft = false
 
 ## Infos {#infos}
 
-| Quantité    | 10-12 tortillas de ø14 cm |
-|-------------|---------------------------|
-| Préparation | 12 min                    |
-| Repos       | 45 min                    |
-| Cuisson     | 12 min                    |
+| Quantité                  | Préparation | Repos | Cuisson |
+|---------------------------|-------------|-------|---------|
+| 10-12 tortillas de ø14 cm | 0:12        | 0:45  | 0:12    |
 
 
 ## Ingrédients {#ingrédients}
@@ -47,7 +45,7 @@ draft = false
 7.  Fleurer le plan de travail. Étaler vos boules de pâte.
 8.  Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.<br />
 
-<a id="org24967b4"></a>
+<a id="orgca79850"></a>
 
 [![](/images/cooking/tortilla_cuisson.jpg)](/images/cooking/tortilla_cuisson.jpg)
 Bon appétit !
