@@ -87,6 +87,9 @@ url = "https://drive.proton.me/urls/A74YD3AKN0#PPY9o8i69DH9"
 name = 'email'
 url = "mailto:blog@ckevin.fr" 
 
+[[Params.socialIcons]]
+name = 'buymeacoffee'
+url = "https://buymeacoffee.com/ckevin" 
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
