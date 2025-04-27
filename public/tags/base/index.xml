@@ -8,8 +8,83 @@
     <language>fr</language>
     <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
     <webMaster>blog@ckevin.fr (Kevin)</webMaster>
-    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 19:19:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/base/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crêpes sans oeuf</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/cr%C3%AApes-sans-oeufs/</link>
+      <pubDate>Sun, 27 Apr 2025 19:19:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/cr%C3%AApes-sans-oeufs/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Un batch de crêpes sans oeufs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/crepes_full.png&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/crepes_full.png&#34;
+         alt=&#34;Figure 1: Crêpes après cuisson&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Crêpes après cuisson&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+          &lt;th&gt;Repos&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7-8 Crêpes&lt;/td&gt;
+          &lt;td&gt;0:05&lt;/td&gt;
+          &lt;td&gt;0:10&lt;/td&gt;
+          &lt;td&gt;0:30 mini&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine&lt;/td&gt;
+          &lt;td&gt;150g&lt;/td&gt;
+          &lt;td&gt;Tamisée&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lait&lt;/td&gt;
+          &lt;td&gt;30cL&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beurre&lt;/td&gt;
+          &lt;td&gt;30g&lt;/td&gt;
+          &lt;td&gt;Doux ou demi-sel, peu importe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;De manière générale, retenir les ratios suivant :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;50% de la quantité de lait en farine,&lt;/li&gt;
+&lt;li&gt;10% de la quantité de lait en beurre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Chauffer le lait pour le tiédir (~40°C)&lt;/li&gt;
+&lt;li&gt;Couper le beurre en petits morceaux et le réserver dans un saladier&lt;/li&gt;
+&lt;li&gt;Verser le lait dans le beurre pour le faire fondre&lt;/li&gt;
+&lt;li&gt;Incorporer la farine tamisée petit à petit dans la farine.&lt;/li&gt;
+&lt;li&gt;Laisser reposer au moins 30 minutes&lt;/li&gt;
+&lt;li&gt;Chauffer la crêpière. J&amp;rsquo;utilise une crêpière en acier carbone culottée, pour éviter de manger des questions de santé.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Température de la crêpière avant huilage&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pate feuilletée rapide</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/</link>

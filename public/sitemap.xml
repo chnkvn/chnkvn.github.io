@@ -2,17 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/base/</loc>
+    <lastmod>2025-04-27T19:19:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/boulangerie/</loc>
-    <lastmod>2025-04-21T16:47:00+02:00</lastmod>
+    <lastmod>2025-04-27T19:19:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/boulangerie/</loc>
-    <lastmod>2025-04-21T16:47:00+02:00</lastmod>
+    <lastmod>2025-04-27T19:19:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-21T16:47:00+02:00</lastmod>
+    <lastmod>2025-04-27T19:19:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-04-21T16:47:00+02:00</lastmod>
+    <lastmod>2025-04-27T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hobbies/cuisine/cr%C3%AApes-sans-oeufs/</loc>
+    <lastmod>2025-04-27T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-27T19:19:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-27T19:19:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hobbies/cuisine/flan-maison/</loc>
     <lastmod>2025-04-21T16:47:00+02:00</lastmod>
@@ -20,17 +32,8 @@
     <loc>http://localhost:1313/tags/patisserie/</loc>
     <lastmod>2025-04-21T16:47:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-21T16:47:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-21T16:47:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/hobbies/cuisine/cookies/</loc>
     <lastmod>2025-04-11T01:28:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/base/</loc>
-    <lastmod>2025-01-02T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/</loc>
     <lastmod>2025-01-02T00:00:00+01:00</lastmod>
