@@ -4,13 +4,13 @@ author = ["Kevin"]
 date = 2025-01-02T00:00:00+01:00
 publishDate = 2025-03-07T00:00:00+01:00
 tags = ["base", "boulangerie"]
-categories = ["boulangerie"]
+categories = ["Cuisine"]
 draft = false
 +++
 
 <a id="figure--Pâte feuilletée étalée"></a>
 
-{{< figure src="/images/cooking/pate_feuilletee_etalee.png" caption="<span class=\"figure-number\">Figure 1: </span>Pâte feuilletée étalée" link="/images/cooking/pate feuilletee etalee.png" >}}
+{{< figure src="/images/cooking/pate_feuilletee_etalee.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Pâte feuilletée étalée" link="/images/cooking/pate feuilletee etalee.png" >}}
 
 
 ## Infos {#infos}
@@ -42,7 +42,7 @@ draft = false
 
 <a id="figure--Tour de pâte feuilletée"></a>
 
-{{< figure src="/images/cooking/pate-feuilletee.jpeg" caption="<span class=\"figure-number\">Figure 2: </span>Un tour de pâte feuilletée" link="/images/cooking/pate-feuilletee.jpeg" >}}
+{{< figure src="/images/cooking/pate-feuilletee.jpeg" caption="<span class=\"figure-number\">Figure&nbsp;2&nbsp;: </span>Un tour de pâte feuilletée" link="/images/cooking/pate-feuilletee.jpeg" >}}
 
 Vous avez maintenant votre pâte feuilletée pour vos autres recettes. N'hésitez pas à la précuire si besoin à basse température (ma préférence: 20 min à 150°C ) pour éviter une sur-cuisson.<br />
 Bon appétit !

@@ -1,9 +1,10 @@
 +++
 title = "Le matos de cuisine"
 author = ["Kevin"]
+date = 2025-05-02T02:16:00+02:00
 publishDate = 2025-04-30T00:00:00+02:00
-tags = ["ustensile"]
-categories = ["Général"]
+tags = ["ustensile", "base", "en-bref"]
+categories = ["Cuisine"]
 draft = false
 +++
 

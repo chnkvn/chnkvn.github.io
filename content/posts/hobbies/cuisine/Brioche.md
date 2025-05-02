@@ -3,13 +3,13 @@ title = "Brioche"
 author = ["Kevin"]
 date = 2024-01-29T23:13:00+01:00
 tags = ["boulangerie"]
-categories = ["boulangerie"]
+categories = ["Cuisine"]
 draft = false
 +++
 
 <a id="figure--Brioche"></a>
 
-{{< figure src="/images/cooking/brioche.png" caption="<span class=\"figure-number\">Figure 1: </span>Une belle brioche sans oeufs faite maison" >}}
+{{< figure src="/images/cooking/brioche.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Une belle brioche sans oeufs faite maison" >}}
 
 
 ## Infos {#infos}
@@ -56,4 +56,4 @@ Bon appétit !
 
 <a id="figure--Intérieur de la brioche"></a>
 
-{{< figure src="/images/cooking/brioche_in.png" caption="<span class=\"figure-number\">Figure 2: </span>Une photo de l'intérieur de la brioche" >}}
+{{< figure src="/images/cooking/brioche_in.png" caption="<span class=\"figure-number\">Figure&nbsp;2&nbsp;: </span>Une photo de l'intérieur de la brioche" >}}

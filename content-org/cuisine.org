@@ -3,10 +3,10 @@
 #+startup: overview
 #+language: fr
 
-* Boulangerie
+* Cuisine
 :properties:
 :EXPORT_HUGO_SECTION: posts/hobbies/cuisine
-:EXPORT_HUGO_CATEGORIES: boulangerie
+:EXPORT_HUGO_CATEGORIES: Cuisine
 :end:
 
 ** DONE Pate feuilletée rapide :base:boulangerie:
@@ -369,13 +369,8 @@ Bon appétit !
 *** Ingrédients
 *** Instructions
 
-* Général
-:properties:
-:EXPORT_HUGO_SECTION: posts/hobbies/cuisine
-:EXPORT_HUGO_CATEGORIES: Général
-:end:
 
-** DONE Le matos de cuisine :ustensile:
+** DONE Le matos de cuisine :ustensile:base:en_bref:
 CLOSED: [2025-05-02 Fri 02:16] SCHEDULED: <2025-04-30 Wed>
 :properties:
 :EXPORT_FILE_NAME: MatosCuisine 

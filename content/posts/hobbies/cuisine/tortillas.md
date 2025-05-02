@@ -3,13 +3,13 @@ title = "Tortillas"
 author = ["Kevin"]
 date = 2024-01-12T17:33:00+01:00
 tags = ["base", "boulangerie"]
-categories = ["boulangerie"]
+categories = ["Cuisine"]
 draft = false
 +++
 
 <a id="figure--Tortillas maison"></a>
 
-{{< figure src="/images/cooking/tortillas.png" caption="<span class=\"figure-number\">Figure 1: </span>Tortillas maison" link="/images/cooking/tortillas.png" >}}
+{{< figure src="/images/cooking/tortillas.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Tortillas maison" link="/images/cooking/tortillas.png" >}}
 
 
 ## Infos {#infos}
@@ -39,13 +39,13 @@ draft = false
 
 <a id="figure--Boules de tortillas"></a>
 
-{{< figure src="/images/cooking/tortilla_boules.jpg" caption="<span class=\"figure-number\">Figure 2: </span>Boules de tortillas à laisser reposer puis étaler" link="/images/cooking/tortilla_boules.jpg" >}}
+{{< figure src="/images/cooking/tortilla_boules.jpg" caption="<span class=\"figure-number\">Figure&nbsp;2&nbsp;: </span>Boules de tortillas à laisser reposer puis étaler" link="/images/cooking/tortilla_boules.jpg" >}}
 
 6.  Bien chauffer la poêle. Faire le test de la goutte d'eau. Si elle tient sur la poêle chaude et ne s'évapore pas tout de suite, c'est bon.
 7.  Fleurer le plan de travail. Étaler vos boules de pâte.
 8.  Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.<br />
 
-<a id="orgca79850"></a>
+<a id="org555d176"></a>
 
 [![](/images/cooking/tortilla_cuisson.jpg)](/images/cooking/tortilla_cuisson.jpg)
 Bon appétit !

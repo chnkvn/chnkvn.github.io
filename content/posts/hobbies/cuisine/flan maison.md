@@ -3,13 +3,13 @@ title = "Flan maison sans oeufs"
 author = ["Kevin"]
 date = 2025-04-21T16:47:00+02:00
 tags = ["boulangerie", "patisserie"]
-categories = ["boulangerie"]
+categories = ["Cuisine"]
 draft = false
 +++
 
 <a id="figure--Flan maison sans oeufs"></a>
 
-{{< figure src="/images/cooking/flan_maison_entier.png" caption="<span class=\"figure-number\">Figure 1: </span>Flan maison sans oeuf, avec du sucre de canne roux" link="/images/cooking/flan_maison_entier.png" >}}
+{{< figure src="/images/cooking/flan_maison_entier.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Flan maison sans oeuf, avec du sucre de canne roux" link="/images/cooking/flan_maison_entier.png" >}}
 
 
 ## Infos {#infos}
@@ -50,7 +50,7 @@ draft = false
 
 <a id="figure--Appareil à flan"></a>
 
-{{< figure src="/images/cooking/appareil_flan.png" caption="<span class=\"figure-number\">Figure 2: </span>Appareil à flan, avec utilisation de sucre de canne brun" link="/images/cooking/appareil_flan.png" >}}
+{{< figure src="/images/cooking/appareil_flan.png" caption="<span class=\"figure-number\">Figure&nbsp;2&nbsp;: </span>Appareil à flan, avec utilisation de sucre de canne brun" link="/images/cooking/appareil_flan.png" >}}
 
 4.  Préchauffer le four à 170°C. Laisser refroidir l'appareil à TA.
 5.  Étaler la pâte feuilletée dans un moule.
@@ -62,4 +62,4 @@ Bon appétit !
 
 <a id="figure--Part de Flan"></a>
 
-{{< figure src="/images/cooking/flan_maison_part.png" caption="<span class=\"figure-number\">Figure 3: </span>Part de flan" link="/images/cooking/flan_maison_part.png" >}}
+{{< figure src="/images/cooking/flan_maison_part.png" caption="<span class=\"figure-number\">Figure&nbsp;3&nbsp;: </span>Part de flan" link="/images/cooking/flan_maison_part.png" >}}

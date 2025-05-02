@@ -3,7 +3,7 @@ title = "Galette des rois sans oeuf"
 author = ["Kevin"]
 date = 2024-01-14T16:46:00+01:00
 tags = ["boulangerie"]
-categories = ["boulangerie"]
+categories = ["Cuisine"]
 draft = false
 +++
 
