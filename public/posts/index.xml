@@ -4,12 +4,25 @@
     <title>Posts on C. Kevin</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on C. Kevin</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>fr</language>
     <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
     <webMaster>blog@ckevin.fr (Kevin)</webMaster>
-    <lastBuildDate>Sun, 27 Apr 2025 19:19:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 02:16:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le matos de cuisine</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/matoscuisine/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/matoscuisine/</guid>
+      <description>&lt;p&gt;Aujourd&amp;rsquo;hui, on a du pain sur la planche. Je vais vous présenter le matériel de cuisine que je considère comme essentiel pour cuisiner et pâtisser, en les classant en deux catégories :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ceux qui sont indispensables&lt;/li&gt;
+&lt;li&gt;ceux qui sont facultatifs, mais qui font gagner beaucoup de temps.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ces listes représentent ce que je possède, et ne présentent que &lt;strong&gt;mon avis personnel&lt;/strong&gt;.
+Les liens qui suivent ne sont pas sponsorisés, mais si vous souhaitez me soutenir et que vous en avez les moyens, vous pouvez me soutenir sur &lt;a href=&#34;https://buymeacoffee.com/ckevin&#34;&gt;buymeacoffee&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Crêpes sans oeuf</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/cr%C3%AApes-sans-oeufs/</link>
@@ -18,8 +31,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Un batch de crêpes sans oeufs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/crepes_full.png&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/crepes_full.png&#34;
-         alt=&#34;Figure 1: Crêpes après cuisson&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Crêpes après cuisson&lt;/p&gt;
+         alt=&#34;Figure 1 : Crêpes après cuisson&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Crêpes après cuisson&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -93,8 +106,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Flan maison sans oeufs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;
-         alt=&#34;Figure 1: Flan maison sans oeuf, avec du sucre de canne roux&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Flan maison sans oeuf, avec du sucre de canne roux&lt;/p&gt;
+         alt=&#34;Figure 1 : Flan maison sans oeuf, avec du sucre de canne roux&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Flan maison sans oeuf, avec du sucre de canne roux&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -178,8 +191,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Plein de cookies&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/cookie_full.png&#34;
-         alt=&#34;Figure 1: Un set de cookies pour un bon en-cas&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Un set de cookies pour un bon en-cas&lt;/p&gt;
+         alt=&#34;Figure 1 : Un set de cookies pour un bon en-cas&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Un set de cookies pour un bon en-cas&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -264,8 +277,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Pâte feuilletée étalée&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/pate%c2%a0feuilletee%c2%a0etalee.png&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/pate_feuilletee_etalee.png&#34;
-         alt=&#34;Figure 1: Pâte feuilletée étalée&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Pâte feuilletée étalée&lt;/p&gt;
+         alt=&#34;Figure 1 : Pâte feuilletée étalée&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Pâte feuilletée étalée&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -338,8 +351,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Brioche&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/brioche.png&#34;
-         alt=&#34;Figure 1: Une belle brioche sans oeufs faite maison&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Une belle brioche sans oeufs faite maison&lt;/p&gt;
+         alt=&#34;Figure 1 : Une belle brioche sans oeufs faite maison&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Une belle brioche sans oeufs faite maison&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -568,8 +581,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Tortillas maison&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/tortillas.png&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/tortillas.png&#34;
-         alt=&#34;Figure 1: Tortillas maison&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Tortillas maison&lt;/p&gt;
+         alt=&#34;Figure 1 : Tortillas maison&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Tortillas maison&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -650,17 +663,18 @@ Je traiterai de manière irrégulière de pas mal de sujet (liste non exhaustive
 &lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Le matos de cuisine</title>
-      <link>http://localhost:1313/posts/hobbies/cuisine/matoscuisine/</link>
+      <title>Consommer responsable</title>
+      <link>http://localhost:1313/posts/hobbies/everydaylife/consommerlocal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>blog@ckevin.fr (Kevin)</author>
-      <guid>http://localhost:1313/posts/hobbies/cuisine/matoscuisine/</guid>
-      <description>&lt;p&gt;Aujourd&amp;rsquo;hui, on a du pain sur la planche. Je vais vous présenter le matériel de cuisine que je considère comme essentiel pour cuisiner et pâtisser, en les classant en deux catégories :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ceux qui sont indispensables&lt;/li&gt;
-&lt;li&gt;ceux qui sont facultatifs, mais qui font gagner beaucoup de temps.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ces listes représentent ce que je possède, et ne présentent que &lt;strong&gt;mon avis personnel&lt;/strong&gt;.
-Les liens qui suivent ne sont pas sponsorisés, mais si vous souhaitez me soutenir et que vous en avez les moyens, vous pouvez me soutenir sur &lt;a href=&#34;https://buymeacoffee.com/ckevin&#34;&gt;buymeacoffee&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/hobbies/everydaylife/consommerlocal/</guid>
+      <description>&lt;p&gt;Dans un monde où l&amp;rsquo;écologie est une thématique qui prend de plus en plus d&amp;rsquo;importance, il est important de réduire l&amp;rsquo;impact environnemental des produits consommés. Bien entendu d&amp;rsquo;un point de vue environnemental, le plus vertueux est de ne pas consommer tout court, mais dans certains cas, il est pratique et utile d&amp;rsquo;acquérir un nouvel objet, généralement par besoin.&lt;/p&gt;
+&lt;h2 id=&#34;production&#34;&gt;Production&lt;/h2&gt;
+&lt;h2 id=&#34;livraison&#34;&gt;Livraison&lt;/h2&gt;
+&lt;h3 id=&#34;acheminement&#34;&gt;Acheminement&lt;/h3&gt;
+&lt;h3 id=&#34;dernier-km&#34;&gt;Dernier Km&lt;/h3&gt;
+&lt;script name=&#34;impact-co2&#34; src=&#34;https://impactco2.fr/iframe.js&#34; data-type=&#34;/livraison&#34; data-search=&#34;?&amp;withFabrication=true&amp;theme=default&amp;language=fr&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;consommer-européen&#34;&gt;Consommer européen&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Cette partie, comme l&amp;rsquo;indique son titre, concernera essentiellement la France et l&amp;rsquo;Europe dans une moindre mesure. Elle n&amp;rsquo;est donc pas adapté aux potentiels lecteurs vivant dans des pays non-européens, mais je vous invite quand même à essayer de consommer local si vous vivez dans ce genre de lieux. Enfin, je ne suis pas parfait, je possède également des produits de marques non-européennes, mais j&amp;rsquo;essaie tout de même de consommer européen en priorité.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

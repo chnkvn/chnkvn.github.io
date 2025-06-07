@@ -58,7 +58,7 @@ Bon appétit !
 - [[*Flan maison sans oeufs][Flan maison sans oeufs]]
 ** DONE Tortillas :base:boulangerie:
 CLOSED: [2024-01-12 Fri 17:33]
-:PROPERTIES:
+:Properties:
 :EXPORT_FILE_NAME: tortillas
 :END:
 
@@ -528,3 +528,46 @@ NB : La plupart des ustensiles seront en matière métallique, car meilleures po
 [[/images/cooking/matos_tapis_cuisson.jpg][file:/images/cooking/matos_tapis_cuisson.jpg]]
 - Utilisation :: Diffuser de la chaleur uniformément et de manière constante pour la cuisson de pâtisseries
 - Exemple de tapis de cuisson :: [[https://fr.silpat.com/pages/toiles][Silpat (FR)]]
+  
+** TODO Sauce Barbecue maison :sauce:
+:Properties:
+:EXPORT_FILE_NAME: sauce-barbecue
+:END:
+
+#+NAME: Sauce barbecue maison
+#+caption: Sauce barbecue maison
+[[/images/cooking/tortillas.png][file:/images/cooking/tortillas.png]]
+
+*** Infos
+
+| Quantité | Préparation | Cuisson |
+|----------+-------------+---------|
+| 1 bocal  |        0:05 |    0:20 |
+
+
+*** Ingrédients
+| Ingrédient           | Quantité  | Remarques          |
+|----------------------+-----------+--------------------|
+| Huile végétale       | 15 mL     | 1 cuillère à soupe |
+| Oignon               | 1         | Taille moyenne     |
+| Paprika fumé         | 45mL      |    3 cuillères à soupe              |
+| Piment en poudre     | 1 pincée  |                    |
+| Aïl                  | 2 gousses |                    |
+| Concentré de tomates | 120g      |                    |
+| Eau                  | 240mL     |                    |
+| vinaigre de cidre    | 15mL      |     1 cuillère à soupe               |
+| Sirop d'érable       | 60mL      |       4 cuillères à soupe           |
+| Vinaigre balsamique  | 15mL      |  1 cuillère à soupe                  |
+| Sauce soja           | 15 mL     |   1 cuillère à soupe                 |
+
+*** Instructions
+1. Émincer l'oignon et l'ail. 
+2. Faire suer les oignons dans l'huile dans une casserole
+3. Ajouter l'ail et les épices en remuant dans la casserole
+4. Ajouter l'eau et le concentré de tomate dans la casserole puis mélanger 
+5. Ajouter les autres liquides puis laisser mijoter une dizaine de minutes à petit feu.  
+6. Mixer la sauce et servir. La sauce se conserve au frais une semaine. 
+
+
+Bon appétit !
+

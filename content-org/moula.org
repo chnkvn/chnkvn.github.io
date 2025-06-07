@@ -9,7 +9,7 @@
 
 ** DONE L'épargne en bref :pognon:epargne:en_bref:
 CLOSED: [2024-01-12 Fri 18:04]
-:PROPERTIES:
+:Properties:
 :EXPORT_FILE_NAME: epargne
 :END:
 

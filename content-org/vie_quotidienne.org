@@ -1,0 +1,84 @@
+#+hugo_base_dir: ../
+#+hugo_section: posts
+#+startup: overview
+#+language: fr
+
+* VieQuotidienne
+:properties:
+:EXPORT_HUGO_SECTION: posts/hobbies/vie-quotidienne
+:EXPORT_HUGO_CATEGORIES: VieQuotidienne
+:end:
+** DONE Pourquoi faut-il réduire les émissions de CO2 ? :ecologie:consommation:
+CLOSED: [2025-06-08 Sun 00:33]
+:Properties:
+:EXPORT_FILE_NAME: effet-de-serre-co2
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-08 Sun 00:33]
+:END:
+La chaleur de la planète est issue d'une partie de l'énergie du Soleil, qui n'est pas réfléchie par l'atmosphère. Cette chaleur va chauffer la surface terrestre, qui va émettre du *rayonnement infrarouge* redirigé vers l'atmosphère. Toutefois, une partie de ce rayonnement est retenu sur la planète, par les gaz à effet de serre, qui vont agir comme une serre pour retenir ces rayonnements infrarouges qui vont /ricocher/ sur cette serre et la surface terrestre, ce qui a pour conséquence de maintenir une température terrestre d'environ 15°C.
+#+NAME: Principe de l'effet de serre
+#+caption: Schéma représentant l'effet de serre. En pratique, les gaz à effet de serre vont jouer le rôle de la vitre sur le schéma
+[[/images/epargne/vie_quotidienne/principe_effet_serre.jpg][file:/images/epargne/vie_quotidienne/principe_effet_serre.jpg]]
+
+L'effet de serre est donc un phénomène *naturel*, mais qui peut être amplifié par une augmentation de ces gaz. Quelques exemples de ces gaz sont la vapeur d'eau, dont la quantité se régule toute seule, ou encore le dioxyde de carbone, connu sous le nom de CO2, avec le 2 en indice car il y a 2 atomes d'oxygène dans la molécule.
+
+
+
+Cependant, la quantité de CO2 ne se régule pas de manière systématique, elle fait intervenir les végétaux, qui par le phénomène de *photosynthèse*, va transformer le CO2 en dioxygène (O2). Mais la quantité de végétaux sur Terre n'a pas augmenté de la même vitesse que les émissions de CO2, /elle a même diminué suite à la déforestation connue ces dernières décennies/, causant une augmentation de CO2 dans l'atmosphère, ce qui retient plus de rayonnements infrarouges, et de manière plus longue, et augmentant la température moyenne terrestre, ce qui a un impact sur notre environnement (sécheresses, diminution de la biodiversité, inondations...), et à terme, aura un impact sur nos sociétés. C'est pourquoi il est important de réduire nos émissions de CO2, car c'est le gaz à effet de serre sur lequel nous avons le plus de contrôle sur la quantité rejetée dans l'atmosphère.
+
+** TODO Consommer responsable :VieQuotidienne:ecologie:
+:Properties:
+:EXPORT_FILE_NAME: consommer-local
+:END:
+
+Dans un monde où l'écologie est une thématique qui prend de plus en plus d'importance, il est important de réduire l'impact environnemental des produits consommés. Bien entendu d'un point de vue environnemental, le plus vertueux est de ne pas consommer tout court, mais dans certains cas, il est pratique et utile d'acquérir un nouvel objet, généralement par besoin. Nous considérerons pour la suite l'impact écologique lié au dioxyde de carbone (CO2).
+*** Production
+- conditions de production
+- emballage
+*** Livraison
+**** Acheminement
+blabla
+**** Dernier Km
+#+begin_export html
+<script name="impact-co2" src="https://impactco2.fr/iframe.js" data-type="/livraison" data-search="?&withFabrication=true&theme=default&language=fr"></script>
+#+end_export
+*** Consommer européen
+/Cette partie, comme l'indique son titre, concernera essentiellement la France et l'Europe dans une moindre mesure. Elle n'est donc pas adapté aux potentiels lecteurs vivant dans des pays non-européens, mais je vous invite quand même à essayer de consommer local si vous vivez dans ce genre de lieux. Enfin, je ne suis pas parfait, je possède également des produits de marques non-européennes, mais j'essaie tout de même de consommer européen en priorité./
+
+Ce qui suit présente une liste de marques non alimentaires européennes non exhaustive *dont je suis client*, proposant des produits que je considère durables et efficaces. Les produits n'ont toutefois pas nécessairement été fabriqués en Europe. Aucun partenariat n'a été noué avec ces marques, ce n'est que de la publicité gratuite.
+
+**** Cuisine
+- [[https://www.cristel.com/][Cristel]] (FR) :: Pôeles en Inox
+- [[https://www.debuyer.com/fr/][DeBuyer]] (FR) :: Pôeles et ustensiles de cuisson
+- [[https://www.moulinex.fr/][Moulinex]] (FR) :: Petit électroménager
+- [[https://www.terraillon.com/fr][Terraillon]] (FR) :: Balances de cuisine
+- [[https://frifri-shop.fr/][Frifri]] (BE) :: Friteuse
+- [[https://www.esge-shop.eu/][ESGE Zauberstab]] (CH) :: Mixeurs plongeants, même groupe que [[https://www.bamix.fr/][Bamix]]
+- [[https://www.victorinox.com/en-FR/][VictorInox]] (CH) :: Couteaux et planches à découper
+- [[https://www.bosch.com/products-and-services/at-home/][Bosch (DE)]] :: Petit et gros électroménager
+- [[https://www.roesle.com/][Rösle]] (DE) :: Ustensiles de cuisine
+- [[https://www.cafelat.co.uk/][Cafelat]] (UK) :: Machine à espresso à levier
+
+**** Vêtements et Chaussures
+- [[https://www.loom.fr/][Loom]] (FR) :: Vêtements homme et femme, accessoires, chaussures
+- [[https://www.paraboot.com/][Paraboot]] (FR) :: Chaussures habillées, de ville
+- [[https://fr.saint-james.com/][Saint James]] (FR) :: Grosses mailles
+- [[https://sns-herning.com/][SNS Herning]] (DK) :: Grosses mailles
+- [[https://www.kestin.co/][Kestin]] (GB-SCT) :: Vêtements homme
+- [[https://williamlockie.com/][William Lockie]] (GB-SCT) :: Mailles
+- [[https://www.portugueseflannel.com/][Portuguese Flannel]] (PR) :: Chemises
+- [[https://www.asket.com/][Asket]] (SE) :: Vêtements homme et femme
+**** Maison 
+- [[https://www.couette-castex.com/][Castex]] (FR) :: Oreillers, couettes
+- [[https://www.jalla.com/][Jalla]] (FR) :: Linge de lit, linge de maison
+- [[https://www.bosch-professional.com/fr/fr/][Bosch Professional]] (DE) :: Outils de bricolage
+- [[https://www.knipex.com/fr-fr][Knipex]] (DE) :: Outils de bricolage
+- [[https://www.rowenta.fr/][Rowenta]] (DE) :: Petit électroménager de maison
+- [[https://www-de.wera.de/fr/][Wera]] (DE) :: Outils de bricolage
+- [[https://www.numatic.fr/][Numatic]] (UK) :: Aspirateur
+**** Numérique / Boutiques en ligne
+- [[https://www.manomano.fr/][Manomano]] (FR) :: Marketplace spécialisé dans le matériel de bricolage et jardinage
+- [[https://mail.proton.me/][Protonmail]] (CH) :: Client mail, possible de le coupler avec [[https://simplelogin.io/][SimpleLogin]] pour créer un nombre illimité d'alias.
+- [[https://www.conrad.fr/][Conrad]] (DE) :: Matériel électronique
+** TODO Quelques questions à se poser avant un achat 

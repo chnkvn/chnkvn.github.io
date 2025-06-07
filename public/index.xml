@@ -4,12 +4,32 @@
     <title>C. Kevin</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on C. Kevin</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>fr</language>
     <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
     <webMaster>blog@ckevin.fr (Kevin)</webMaster>
-    <lastBuildDate>Sun, 27 Apr 2025 19:19:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 00:33:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pourquoi faut-il réduire les émissions de CO2 ?</title>
+      <link>http://localhost:1313/posts/hobbies/vie-quotidienne/effet-de-serre-co2/</link>
+      <pubDate>Sun, 08 Jun 2025 00:33:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/vie-quotidienne/effet-de-serre-co2/</guid>
+      <description>&lt;p&gt;La chaleur de la planète est issue d&amp;rsquo;une partie de l&amp;rsquo;énergie du Soleil, qui n&amp;rsquo;est pas réfléchie par l&amp;rsquo;atmosphère. Cette chaleur va chauffer la surface terrestre, qui va émettre du &lt;strong&gt;rayonnement infrarouge&lt;/strong&gt; redirigé vers l&amp;rsquo;atmosphère. Toutefois, une partie de ce rayonnement est retenu sur la planète, par les gaz à effet de serre, qui vont agir comme une serre pour retenir ces rayonnements infrarouges qui vont &lt;em&gt;ricocher&lt;/em&gt; sur cette serre et la surface terrestre, ce qui a pour conséquence de maintenir une température terrestre d&amp;rsquo;environ 15°C.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Le matos de cuisine</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/matoscuisine/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/matoscuisine/</guid>
+      <description>&lt;p&gt;Aujourd&amp;rsquo;hui, on a du pain sur la planche. Je vais vous présenter le matériel de cuisine que je considère comme essentiel pour cuisiner et pâtisser, en les classant en deux catégories :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ceux qui sont indispensables&lt;/li&gt;
+&lt;li&gt;ceux qui sont facultatifs, mais qui font gagner beaucoup de temps.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ces listes représentent ce que je possède, et ne présentent que &lt;strong&gt;mon avis personnel&lt;/strong&gt;.
+Les liens qui suivent ne sont pas sponsorisés, mais si vous souhaitez me soutenir et que vous en avez les moyens, vous pouvez me soutenir sur &lt;a href=&#34;https://buymeacoffee.com/ckevin&#34;&gt;buymeacoffee&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Crêpes sans oeuf</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/cr%C3%AApes-sans-oeufs/</link>
@@ -18,8 +38,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Un batch de crêpes sans oeufs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/crepes_full.png&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/crepes_full.png&#34;
-         alt=&#34;Figure 1: Crêpes après cuisson&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Crêpes après cuisson&lt;/p&gt;
+         alt=&#34;Figure 1 : Crêpes après cuisson&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Crêpes après cuisson&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -93,8 +113,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Flan maison sans oeufs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;
-         alt=&#34;Figure 1: Flan maison sans oeuf, avec du sucre de canne roux&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Flan maison sans oeuf, avec du sucre de canne roux&lt;/p&gt;
+         alt=&#34;Figure 1 : Flan maison sans oeuf, avec du sucre de canne roux&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Flan maison sans oeuf, avec du sucre de canne roux&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -178,8 +198,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Plein de cookies&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/cookie_full.png&#34;
-         alt=&#34;Figure 1: Un set de cookies pour un bon en-cas&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Un set de cookies pour un bon en-cas&lt;/p&gt;
+         alt=&#34;Figure 1 : Un set de cookies pour un bon en-cas&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Un set de cookies pour un bon en-cas&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -264,8 +284,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Pâte feuilletée étalée&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/pate%c2%a0feuilletee%c2%a0etalee.png&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/pate_feuilletee_etalee.png&#34;
-         alt=&#34;Figure 1: Pâte feuilletée étalée&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Pâte feuilletée étalée&lt;/p&gt;
+         alt=&#34;Figure 1 : Pâte feuilletée étalée&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Pâte feuilletée étalée&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -338,8 +358,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Brioche&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/brioche.png&#34;
-         alt=&#34;Figure 1: Une belle brioche sans oeufs faite maison&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Une belle brioche sans oeufs faite maison&lt;/p&gt;
+         alt=&#34;Figure 1 : Une belle brioche sans oeufs faite maison&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Une belle brioche sans oeufs faite maison&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -568,8 +588,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Tortillas maison&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/tortillas.png&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/tortillas.png&#34;
-         alt=&#34;Figure 1: Tortillas maison&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Tortillas maison&lt;/p&gt;
+         alt=&#34;Figure 1 : Tortillas maison&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Tortillas maison&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 

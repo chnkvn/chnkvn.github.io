@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cuisine on C. Kevin</title>
+    <link>http://localhost:1313/categories/cuisine/</link>
+    <description>Recent content in Cuisine on C. Kevin</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>fr</language>
+    <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
+    <webMaster>blog@ckevin.fr (Kevin)</webMaster>
+    <lastBuildDate>Fri, 02 May 2025 02:16:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le matos de cuisine</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/matoscuisine/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/matoscuisine/</guid>
+      <description>&lt;p&gt;Aujourd&amp;rsquo;hui, on a du pain sur la planche. Je vais vous présenter le matériel de cuisine que je considère comme essentiel pour cuisiner et pâtisser, en les classant en deux catégories :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ceux qui sont indispensables&lt;/li&gt;
+&lt;li&gt;ceux qui sont facultatifs, mais qui font gagner beaucoup de temps.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ces listes représentent ce que je possède, et ne présentent que &lt;strong&gt;mon avis personnel&lt;/strong&gt;.
+Les liens qui suivent ne sont pas sponsorisés, mais si vous souhaitez me soutenir et que vous en avez les moyens, vous pouvez me soutenir sur &lt;a href=&#34;https://buymeacoffee.com/ckevin&#34;&gt;buymeacoffee&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crêpes sans oeuf</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/cr%C3%AApes-sans-oeufs/</link>
+      <pubDate>Sun, 27 Apr 2025 19:19:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/cr%C3%AApes-sans-oeufs/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Un batch de crêpes sans oeufs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/crepes_full.png&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/crepes_full.png&#34;
+         alt=&#34;Figure 1 : Crêpes après cuisson&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Crêpes après cuisson&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+          &lt;th&gt;Repos&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7-8 Crêpes&lt;/td&gt;
+          &lt;td&gt;0:05&lt;/td&gt;
+          &lt;td&gt;0:10&lt;/td&gt;
+          &lt;td&gt;0:30 mini&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine&lt;/td&gt;
+          &lt;td&gt;150g&lt;/td&gt;
+          &lt;td&gt;Tamisée&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lait&lt;/td&gt;
+          &lt;td&gt;30cL&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beurre&lt;/td&gt;
+          &lt;td&gt;30g&lt;/td&gt;
+          &lt;td&gt;Doux ou demi-sel, peu importe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;De manière générale, retenir les ratios suivant :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;50% de la quantité de lait en farine,&lt;/li&gt;
+&lt;li&gt;10% de la quantité de lait en beurre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Chauffer le lait pour le tiédir (~40°C)&lt;/li&gt;
+&lt;li&gt;Couper le beurre en petits morceaux et le réserver dans un saladier&lt;/li&gt;
+&lt;li&gt;Verser le lait dans le beurre pour le faire fondre&lt;/li&gt;
+&lt;li&gt;Incorporer la farine tamisée petit à petit dans la farine.&lt;/li&gt;
+&lt;li&gt;Laisser reposer au moins 30 minutes&lt;/li&gt;
+&lt;li&gt;Chauffer la crêpière. J&amp;rsquo;utilise une crêpière en acier carbone culottée, pour éviter de manger des questions de santé.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Température de la crêpière avant huilage&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flan maison sans oeufs</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/flan-maison/</link>
+      <pubDate>Mon, 21 Apr 2025 16:47:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/flan-maison/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Flan maison sans oeufs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;
+         alt=&#34;Figure 1 : Flan maison sans oeuf, avec du sucre de canne roux&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Flan maison sans oeuf, avec du sucre de canne roux&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6-8 Personnes&lt;/td&gt;
+          &lt;td&gt;0:15&lt;/td&gt;
+          &lt;td&gt;&amp;gt; 1:15&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Recette inspirée de celle de Cyril Lignac&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lait entier&lt;/td&gt;
+          &lt;td&gt;75cL&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sucre&lt;/td&gt;
+          &lt;td&gt;110g&lt;/td&gt;
+          &lt;td&gt;Peut être un mélange de sucres&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fécule de Maïs&lt;/td&gt;
+          &lt;td&gt;55g&lt;/td&gt;
+          &lt;td&gt;Aussi connu sous le nom de Maïzena ; Possibilité d&amp;rsquo;utiliser de la fécule de pomme de terre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Vanille&lt;/td&gt;
+          &lt;td&gt;1 gousse&lt;/td&gt;
+          &lt;td&gt;Ou deux cuillères d&amp;rsquo;extrait ou d&amp;rsquo;arôme si pas de vanille&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pate feuilletée&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/&#34;&gt;Recette&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;h3 id=&#34;la-veille-si-vous-avez-une-gousse-de-vanille&#34;&gt;La veille, si vous avez une gousse de vanille&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Portez le lait à ébullition, et faire infuser la gousse de vanille une nuit dans le lait.&lt;/li&gt;
+&lt;li&gt;Le lendemain, filtrer le lait&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;le-jour-j&#34;&gt;Le jour J&lt;/h3&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;Si vous n&amp;rsquo;avez pas de gousse de vanille, melangez la vanille liquide au lait.&lt;/li&gt;
+&lt;li&gt;Mélanger le sucre avec la fécule.&lt;/li&gt;
+&lt;li&gt;Sur le feu, ajouter le mélange de fécule-sucre petit à petit au lait et mélanger.&lt;/li&gt;
+&lt;li&gt;Quand tout le mélange est incorporé dans le lait, l&amp;rsquo;appareil doit s&amp;rsquo;épaissir. Continuer à mélanger jusqu&amp;rsquo;à 3 minutes après ébullition.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Appareil à flan&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cookies</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/cookies/</link>
+      <pubDate>Fri, 11 Apr 2025 01:28:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/cookies/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Plein de cookies&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/cookie_full.png&#34;
+         alt=&#34;Figure 1 : Un set de cookies pour un bon en-cas&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Un set de cookies pour un bon en-cas&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;~17 cookies&lt;/td&gt;
+          &lt;td&gt;0:15&lt;/td&gt;
+          &lt;td&gt;0:11&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Recette du blog &lt;a href=&#34;https://www.iletaitunefoislapatisserie.com/2015/09/cookies-sans-oeufs.html&#34;&gt;Il était une fois la pâtisserie&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beurre demi-sel&lt;/td&gt;
+          &lt;td&gt;100g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sucre&lt;/td&gt;
+          &lt;td&gt;80g&lt;/td&gt;
+          &lt;td&gt;Peut être un mélange de sucres&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Levure chimique&lt;/td&gt;
+          &lt;td&gt;5g&lt;/td&gt;
+          &lt;td&gt;Quantité équivalente à un demi sachet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine de blé&lt;/td&gt;
+          &lt;td&gt;80g&lt;/td&gt;
+          &lt;td&gt;t45/t55&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Chocolat en morceaux/pépites&lt;/td&gt;
+          &lt;td&gt;100g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Amandes en poudre&lt;/td&gt;
+          &lt;td&gt;50g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Préchauffer le four à 180°C,&lt;/li&gt;
+&lt;li&gt;Sortir le beurre à TA, le couper en morceaux et le laisser ramollir pour obtenir du beurre pommade .&lt;/li&gt;
+&lt;li&gt;Mélanger le sucre avec le beurre.&lt;/li&gt;
+&lt;li&gt;Ajouter la farine, la levure et les amandes au beurre, puis mélanger.&lt;/li&gt;
+&lt;li&gt;Ajouter le chocolat.&lt;/li&gt;
+&lt;li&gt;Faire des petites boules de pâte à cookies et les poser sur une plaque.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Boules de cookie&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pate feuilletée rapide</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0100</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Pâte feuilletée étalée&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/pate%c2%a0feuilletee%c2%a0etalee.png&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/pate_feuilletee_etalee.png&#34;
+         alt=&#34;Figure 1 : Pâte feuilletée étalée&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Pâte feuilletée étalée&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Repos&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2 pâtes&lt;/td&gt;
+          &lt;td&gt;0:10&lt;/td&gt;
+          &lt;td&gt;0:30&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine&lt;/td&gt;
+          &lt;td&gt;250g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beurre doux&lt;/td&gt;
+          &lt;td&gt;220g&lt;/td&gt;
+          &lt;td&gt;Très froid, idéalement de tourage ou plus de 80% de MG&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eau&lt;/td&gt;
+          &lt;td&gt;100g&lt;/td&gt;
+          &lt;td&gt;Très froide&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sel&lt;/td&gt;
+          &lt;td&gt;2g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Dissoudre le sel dans l&amp;rsquo;eau&lt;/li&gt;
+&lt;li&gt;Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.&lt;/li&gt;
+&lt;li&gt;Ajouter l&amp;rsquo;eau, mélanger jusqu&amp;rsquo;à obtention d&amp;rsquo;une boule non homogène. Si le beurre est totalement incorporé à la pâte et forme une boule homogène, cela donnera une &lt;strong&gt;pâte sablée&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Laisser reposer 30 min au refrigérateur&lt;/li&gt;
+&lt;li&gt;Fleurer le plan de travail. Aplatir la pâte sur le plan de travail pour former une longue bande. Plier la pâte en 3. C&amp;rsquo;est ce qu&amp;rsquo;on appelle un &lt;strong&gt;tour&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Tourner la pâte à 90°. Fleurer le plan de travail si besoin. Refaire un tour. Réfrigérer 30 min si la pâte a chauffé.&lt;/li&gt;
+&lt;li&gt;Répéter l&amp;rsquo;étape 6 3 fois, afin d&amp;rsquo;effectuer &lt;strong&gt;cinq tours&lt;/strong&gt; au total.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Tour de pâte feuilletée&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brioche</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/brioche/</link>
+      <pubDate>Mon, 29 Jan 2024 23:13:00 +0100</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/brioche/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Brioche&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/brioche.png&#34;
+         alt=&#34;Figure 1 : Une belle brioche sans oeufs faite maison&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Une belle brioche sans oeufs faite maison&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Repos&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;30 min avec robot, + si pétrissage à la main&lt;/td&gt;
+          &lt;td&gt;&amp;gt; 2:00&lt;/td&gt;
+          &lt;td&gt;&amp;gt; 0:22&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Recette de Christophe Michalak&lt;/li&gt;
+&lt;li&gt;Brioche congelable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lait&lt;/td&gt;
+          &lt;td&gt;185mL&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Levure boulangère sèche&lt;/td&gt;
+          &lt;td&gt;5g&lt;/td&gt;
+          &lt;td&gt;Souvent équivalent à 1 sachet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sucre&lt;/td&gt;
+          &lt;td&gt;43g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine&lt;/td&gt;
+          &lt;td&gt;272g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sel&lt;/td&gt;
+          &lt;td&gt;3.5g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Huile neutre ou d&amp;rsquo;olive&lt;/td&gt;
+          &lt;td&gt;50mL&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sucre perlé, chocolat, vanille&lt;/td&gt;
+          &lt;td&gt;Optionnel&lt;/td&gt;
+          &lt;td&gt;Autres éléments d&amp;rsquo;aromatisation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fleur d&amp;rsquo;oranger&lt;/td&gt;
+          &lt;td&gt;Optionnel&lt;/td&gt;
+          &lt;td&gt;Déduire du volume de lait le volume de fleur d&amp;rsquo;oranger&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Chauffer le lait à 35°C pour réactiver la levure. Compter à peu près 15 minutes pour la réactiver (bulles sur la surface)&lt;/li&gt;
+&lt;li&gt;Mélanger la farine, le sucre et le sel.&lt;/li&gt;
+&lt;li&gt;Ajouter l&amp;rsquo;huile au précédent mélange et remélanger.&lt;/li&gt;
+&lt;li&gt;Pétrir à faible vitesse en ajoutant le lait petit à petit.&lt;/li&gt;
+&lt;li&gt;Pétrir jusqu&amp;rsquo;au décollage facile de la pâte. Ne pas hésiter à racler les bords de temps en temps. La pâte restera collante à la fin du pétrissage.&lt;/li&gt;
+&lt;li&gt;Former une boule avec la pâte, fariner sa surface et filmer le récipient contenant la pâte.&lt;/li&gt;
+&lt;li&gt;Un choix parmi:
+&lt;ul&gt;
+&lt;li&gt;Laisser pousser entre 1h30 et 3h à température ambiante&lt;/li&gt;
+&lt;li&gt;Laisser pousser une nuit au frais.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;La pâte a normalement gonflé. Dégazer la pâte, façonner la brioche (de simples boules collées côte-à-côte, ou tresses).&lt;/li&gt;
+&lt;li&gt;Laisser pousser 30 minutes - 1 heures. 30 minutes avant la fin de la pousse, chauffer le four à 180°C chaleur tournante ou 200°C chaleur traditionnelle.&lt;/li&gt;
+&lt;li&gt;Cuire 22-30 minutes. Si la brioche dore trop vite, couvrir la brioche avec du papier alu.&lt;/li&gt;
+&lt;li&gt;Laisser refroidir.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Bon appétit !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Galette des rois sans oeuf</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/galette-des-rois/</link>
+      <pubDate>Sun, 14 Jan 2024 16:46:00 +0100</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/galette-des-rois/</guid>
+      <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Repos&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6-8 Personnes&lt;/td&gt;
+          &lt;td&gt;0:25 cumulées&lt;/td&gt;
+          &lt;td&gt;1:00&lt;/td&gt;
+          &lt;td&gt;&amp;gt; 0:35&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pate feuilletée&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/posts/hobbies/cuisine/pate-feuilletee-rapide/&#34;&gt;Recette&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Amande en poudre&lt;/td&gt;
+          &lt;td&gt;150g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sucre&lt;/td&gt;
+          &lt;td&gt;80g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beurre&lt;/td&gt;
+          &lt;td&gt;80g&lt;/td&gt;
+          &lt;td&gt;Ramolli&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Yaourt à la vanille&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fleur d&amp;rsquo;oranger&lt;/td&gt;
+          &lt;td&gt;1 cas&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Rhum, marsala&lt;/td&gt;
+          &lt;td&gt;Optionnel&lt;/td&gt;
+          &lt;td&gt;Autres éléments d&amp;rsquo;aromatisation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sirop de sucre de canne&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Pour la dorure&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;h3 id=&#34;préparation-de-la-frangipane&#34;&gt;Préparation de la frangipane&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Mélanger le beurre avec le sucre&lt;/li&gt;
+&lt;li&gt;Ajouter la poudre d&amp;rsquo;amande et mélanger&lt;/li&gt;
+&lt;li&gt;Incorporer le yaourt à la vanille et mélanger&lt;/li&gt;
+&lt;li&gt;Ajouter vos ingrédients d&amp;rsquo;aromatisation et mélanger&lt;/li&gt;
+&lt;li&gt;Laisser reposer une heure au frais&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;montage&#34;&gt;Montage&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Préchauffer votre four à 180°C.&lt;/li&gt;
+&lt;li&gt;Après avoir fleuré votre plan de travail, étaler la pâte feuilletée et découper deux morceaux de pâte de même forme et taille.&lt;/li&gt;
+&lt;li&gt;Mettre la frangipane sur un des morceaux de pâte feuilletée, en laissant un peu plus de 1 cm avec le bord de la pâte. On peut s&amp;rsquo;aider d&amp;rsquo;une poche à douilles en faisant une spirale pour répartir la frangipane sur la pâte, mais une maryse peut suffire. Ajouter la fève si vous le souhaitez.&lt;/li&gt;
+&lt;li&gt;Humidifier les bords du même morceau de pâte feuilletée à l&amp;rsquo;aide d&amp;rsquo;un pinceau ou de votre doigt.&lt;/li&gt;
+&lt;li&gt;Saupoudrer un peu de farine sur les bords du même morceau de pâte feuilletée.&lt;/li&gt;
+&lt;li&gt;Recouvrir la pâte feuilletée avec l&amp;rsquo;autre morceau de pâte feuilletée.&lt;/li&gt;
+&lt;li&gt;Sceller les bords à l&amp;rsquo;aide d&amp;rsquo;une fourchette.&lt;/li&gt;
+&lt;li&gt;Réaliser la dorure avec le sirop de sucre de canne à l&amp;rsquo;aide d&amp;rsquo;un pinceau.&lt;/li&gt;
+&lt;li&gt;Grigner et faire quelques trous sur la pâte du dessus.&lt;/li&gt;
+&lt;li&gt;Enfourner pendant 35 min. N&amp;rsquo;hésitez pas à laisser plus longtemps si vous estimez que ce n&amp;rsquo;est pas assez cuit.&lt;/li&gt;
+&lt;li&gt;Réappliquer une couche de dorure et laisser refroidir.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Bon appétit !&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tortillas</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/tortillas/</link>
+      <pubDate>Fri, 12 Jan 2024 17:33:00 +0100</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/tortillas/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Tortillas maison&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/tortillas.png&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/tortillas.png&#34;
+         alt=&#34;Figure 1 : Tortillas maison&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Tortillas maison&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Repos&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10-12 tortillas de ø14 cm&lt;/td&gt;
+          &lt;td&gt;0:12&lt;/td&gt;
+          &lt;td&gt;0:45&lt;/td&gt;
+          &lt;td&gt;0:12&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine&lt;/td&gt;
+          &lt;td&gt;300g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eau&lt;/td&gt;
+          &lt;td&gt;150g&lt;/td&gt;
+          &lt;td&gt;Eau chaude: tortillas légères, eau froide: tortillas feuilletées&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beurre doux&lt;/td&gt;
+          &lt;td&gt;60g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sel&lt;/td&gt;
+          &lt;td&gt;1 cac&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Mélanger la farine et le sel.&lt;/li&gt;
+&lt;li&gt;Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.&lt;/li&gt;
+&lt;li&gt;Creuser un puits dans la préparation et ajouter l&amp;rsquo;eau. Mélanger jusqu&amp;rsquo;à obtention d&amp;rsquo;une boule homogène.&lt;/li&gt;
+&lt;li&gt;Couvrir et laisser reposer 15-30 min.&lt;/li&gt;
+&lt;li&gt;Diviser la pâte en 10-12 boules de taille similaire. Couvrir et laisser reposer 15 min.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Boules de tortillas&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

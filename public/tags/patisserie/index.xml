@@ -4,7 +4,7 @@
     <title>Patisserie on C. Kevin</title>
     <link>http://localhost:1313/tags/patisserie/</link>
     <description>Recent content in Patisserie on C. Kevin</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>fr</language>
     <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
     <webMaster>blog@ckevin.fr (Kevin)</webMaster>
@@ -18,8 +18,8 @@
       <description>&lt;p&gt;&lt;a id=&#34;figure--Flan maison sans oeufs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;&gt;
     &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/flan_maison_entier.png&#34;
-         alt=&#34;Figure 1: Flan maison sans oeuf, avec du sucre de canne roux&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;Flan maison sans oeuf, avec du sucre de canne roux&lt;/p&gt;
+         alt=&#34;Figure 1 : Flan maison sans oeuf, avec du sucre de canne roux&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Flan maison sans oeuf, avec du sucre de canne roux&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
