@@ -1,5 +1,5 @@
 +++
-title = "Pourquoi faut-il réduire les émissions de CO2 ?"
+title = "Pourquoi insiste-on sur la réduction des émissions de CO2 ?"
 author = ["Kevin"]
 date = 2025-06-08T00:33:00+02:00
 tags = ["ecologie", "consommation"]

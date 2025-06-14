@@ -8,8 +8,15 @@
     <language>fr</language>
     <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
     <webMaster>blog@ckevin.fr (Kevin)</webMaster>
-    <lastBuildDate>Fri, 02 May 2025 02:16:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 00:33:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pourquoi insiste-on sur la réduction des émissions de CO2 ?</title>
+      <link>http://localhost:1313/posts/hobbies/vie-quotidienne/effet-de-serre-co2/</link>
+      <pubDate>Sun, 08 Jun 2025 00:33:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/vie-quotidienne/effet-de-serre-co2/</guid>
+      <description>&lt;p&gt;La chaleur de la planète est issue d&amp;rsquo;une partie de l&amp;rsquo;énergie du Soleil, qui n&amp;rsquo;est pas réfléchie par l&amp;rsquo;atmosphère. Cette chaleur va chauffer la surface terrestre, qui va émettre du &lt;strong&gt;rayonnement infrarouge&lt;/strong&gt; redirigé vers l&amp;rsquo;atmosphère. Toutefois, une partie de ce rayonnement est retenu sur la planète, par les gaz à effet de serre, qui vont agir comme une serre pour retenir ces rayonnements infrarouges qui vont &lt;em&gt;ricocher&lt;/em&gt; sur cette serre et la surface terrestre, ce qui a pour conséquence de maintenir une température terrestre d&amp;rsquo;environ 15°C.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Le matos de cuisine</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/matoscuisine/</link>
@@ -661,20 +668,6 @@ Je traiterai de manière irrégulière de pas mal de sujet (liste non exhaustive
 &lt;li&gt;Vie quotidienne&lt;/li&gt;
 &lt;li&gt;Informatique&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Consommer responsable</title>
-      <link>http://localhost:1313/posts/hobbies/everydaylife/consommerlocal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>blog@ckevin.fr (Kevin)</author>
-      <guid>http://localhost:1313/posts/hobbies/everydaylife/consommerlocal/</guid>
-      <description>&lt;p&gt;Dans un monde où l&amp;rsquo;écologie est une thématique qui prend de plus en plus d&amp;rsquo;importance, il est important de réduire l&amp;rsquo;impact environnemental des produits consommés. Bien entendu d&amp;rsquo;un point de vue environnemental, le plus vertueux est de ne pas consommer tout court, mais dans certains cas, il est pratique et utile d&amp;rsquo;acquérir un nouvel objet, généralement par besoin.&lt;/p&gt;
-&lt;h2 id=&#34;production&#34;&gt;Production&lt;/h2&gt;
-&lt;h2 id=&#34;livraison&#34;&gt;Livraison&lt;/h2&gt;
-&lt;h3 id=&#34;acheminement&#34;&gt;Acheminement&lt;/h3&gt;
-&lt;h3 id=&#34;dernier-km&#34;&gt;Dernier Km&lt;/h3&gt;
-&lt;script name=&#34;impact-co2&#34; src=&#34;https://impactco2.fr/iframe.js&#34; data-type=&#34;/livraison&#34; data-search=&#34;?&amp;withFabrication=true&amp;theme=default&amp;language=fr&#34;&gt;&lt;/script&gt;
-&lt;h2 id=&#34;consommer-européen&#34;&gt;Consommer européen&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Cette partie, comme l&amp;rsquo;indique son titre, concernera essentiellement la France et l&amp;rsquo;Europe dans une moindre mesure. Elle n&amp;rsquo;est donc pas adapté aux potentiels lecteurs vivant dans des pays non-européens, mais je vous invite quand même à essayer de consommer local si vous vivez dans ce genre de lieux. Enfin, je ne suis pas parfait, je possède également des produits de marques non-européennes, mais j&amp;rsquo;essaie tout de même de consommer européen en priorité.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

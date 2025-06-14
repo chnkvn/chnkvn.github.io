@@ -8,7 +8,7 @@
 :EXPORT_HUGO_SECTION: posts/hobbies/vie-quotidienne
 :EXPORT_HUGO_CATEGORIES: VieQuotidienne
 :end:
-** DONE Pourquoi faut-il réduire les émissions de CO2 ? :ecologie:consommation:
+** DONE Pourquoi insiste-on sur la réduction des émissions de CO2 ? :ecologie:consommation:
 CLOSED: [2025-06-08 Sun 00:33]
 :Properties:
 :EXPORT_FILE_NAME: effet-de-serre-co2
@@ -32,7 +32,7 @@ Cependant, la quantité de CO2 ne se régule pas de manière systématique, elle
 :EXPORT_FILE_NAME: consommer-local
 :END:
 
-Dans un monde où l'écologie est une thématique qui prend de plus en plus d'importance, il est important de réduire l'impact environnemental des produits consommés. Bien entendu d'un point de vue environnemental, le plus vertueux est de ne pas consommer tout court, mais dans certains cas, il est pratique et utile d'acquérir un nouvel objet, généralement par besoin. Nous considérerons pour la suite l'impact écologique lié au dioxyde de carbone (CO2).
+Dans un monde où l'écologie est une thématique qui prend de plus en plus d'importance, il est important de réduire l'impact environnemental des produits consommés. Bien entendu d'un point de vue environnemental, le plus vertueux est de ne pas consommer tout court, mais dans certains cas, il est pratique et utile d'acquérir un nouvel objet, généralement par besoin. Nous considérerons pour la suite [[*  Pourquoi insiste-on sur la réduction des émissions de CO2 ?][l'impact écologique lié au dioxyde de carbone (CO2)]].
 *** Production
 - conditions de production
 - emballage

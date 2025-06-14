@@ -8,10 +8,118 @@
     <language>fr</language>
     <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
     <webMaster>blog@ckevin.fr (Kevin)</webMaster>
-    <lastBuildDate>Sun, 08 Jun 2025 00:33:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 22:21:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pourquoi faut-il réduire les émissions de CO2 ?</title>
+      <title>Sauce Barbecue maison</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/sauce-barbecue/</link>
+      <pubDate>Sat, 14 Jun 2025 22:21:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/sauce-barbecue/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Sauce barbecue maison&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/sauce_bbq_mixee.jpg&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/sauce_bbq_mixee.jpg&#34;
+         alt=&#34;Figure 1 : Sauce barbecue maison&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Sauce barbecue maison&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1 bocal&lt;/td&gt;
+          &lt;td&gt;0:05&lt;/td&gt;
+          &lt;td&gt;0:20&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;p&gt;NB : Pour les épices, ne pas hésiter à en mettre un peu plus que nécessaire, contrairement au sel, la courbe de goût est logarithmique. Faire toutefois attention au piment !&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Huile végétale&lt;/td&gt;
+          &lt;td&gt;~15 mL&lt;/td&gt;
+          &lt;td&gt;~1 cuillère à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Oignon&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;Taille moyenne&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Paprika fumé&lt;/td&gt;
+          &lt;td&gt;~45mL&lt;/td&gt;
+          &lt;td&gt;~3 cuillères à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Piment en poudre&lt;/td&gt;
+          &lt;td&gt;1 pincée&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Aïl&lt;/td&gt;
+          &lt;td&gt;2 gousses&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Concentré de tomates&lt;/td&gt;
+          &lt;td&gt;140g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eau&lt;/td&gt;
+          &lt;td&gt;280mL&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;vinaigre de cidre&lt;/td&gt;
+          &lt;td&gt;~15mL&lt;/td&gt;
+          &lt;td&gt;~1 cuillère à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sirop d&amp;rsquo;érable&lt;/td&gt;
+          &lt;td&gt;~60mL&lt;/td&gt;
+          &lt;td&gt;~4 cuillères à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Vinaigre balsamique&lt;/td&gt;
+          &lt;td&gt;~15mL&lt;/td&gt;
+          &lt;td&gt;~1 cuillère à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sauce soja&lt;/td&gt;
+          &lt;td&gt;~15 mL&lt;/td&gt;
+          &lt;td&gt;~1 cuillère à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Émincer l&amp;rsquo;oignon et l&amp;rsquo;ail.&lt;/li&gt;
+&lt;li&gt;Faire suer les oignons dans l&amp;rsquo;huile dans une casserole&lt;/li&gt;
+&lt;li&gt;Ajouter l&amp;rsquo;ail et les épices en remuant dans la casserole&lt;/li&gt;
+&lt;li&gt;Ajouter l&amp;rsquo;eau et le concentré de tomate dans la casserole puis mélanger&lt;/li&gt;
+&lt;li&gt;Ajouter les autres liquides puis laisser mijoter une dizaine de minutes à petit feu.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Après la fin de la cuisson de la sauce&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pourquoi insiste-on sur la réduction des émissions de CO2 ?</title>
       <link>http://localhost:1313/posts/hobbies/vie-quotidienne/effet-de-serre-co2/</link>
       <pubDate>Sun, 08 Jun 2025 00:33:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
       <guid>http://localhost:1313/posts/hobbies/vie-quotidienne/effet-de-serre-co2/</guid>
