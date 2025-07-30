@@ -23,19 +23,19 @@ draft = false
 
 NB : Pour les épices, ne pas hésiter à en mettre un peu plus que nécessaire, contrairement au sel, la courbe de goût est logarithmique. Faire toutefois attention au piment !
 
-| Ingrédient           | Quantité  | Remarques            |
-|----------------------|-----------|----------------------|
-| Huile végétale       | ~15 mL    | ~1 cuillère à soupe  |
-| Oignon               | 1         | Taille moyenne       |
-| Paprika fumé         | ~45mL     | ~3 cuillères à soupe |
-| Piment en poudre     | 1 pincée  |                      |
-| Aïl                  | 2 gousses |                      |
-| Concentré de tomates | 140g      |                      |
-| Eau                  | 280mL     |                      |
-| vinaigre de cidre    | ~15mL     | ~1 cuillère à soupe  |
-| Sirop d'érable       | ~60mL     | ~4 cuillères à soupe |
-| Vinaigre balsamique  | ~15mL     | ~1 cuillère à soupe  |
-| Sauce soja           | ~15 mL    | ~1 cuillère à soupe  |
+| Ingrédient           | Quantité  | Remarques                                                         |
+|----------------------|-----------|-------------------------------------------------------------------|
+| Huile végétale       | ~15 mL    | ~1 cuillère à soupe                                               |
+| Oignon               | 1         | Taille moyenne                                                    |
+| Paprika fumé         | ~45mL     | ~3 cuillères à soupe                                              |
+| Piment en poudre     | 1 pincée  |                                                                   |
+| Aïl                  | 2 gousses |                                                                   |
+| Concentré de tomates | 140g      |                                                                   |
+| Eau                  | 210mL     |                                                                   |
+| vinaigre de cidre    | ~15mL     | ~1 cuillère à soupe                                               |
+| Sirop d'érable       | ~60mL     | ~4 cuillères à soupe                                              |
+| Vinaigre balsamique  | ~15mL     | ~1 cuillère à soupe, optionnel si vous n'aimez pas trop l'acidité |
+| Sauce soja           | ~15 mL    | ~1 cuillère à soupe                                               |
 
 
 ## Instructions {#instructions}

@@ -559,10 +559,10 @@ CLOSED: [2025-06-14 Sat 22:21]
 | Piment en poudre     | 1 pincée  |                    |
 | Aïl                  | 2 gousses |                    |
 | Concentré de tomates | 140g     |                    |
-| Eau                  | 280mL    |                    |
+| Eau                  | 210mL  |                    |
 | vinaigre de cidre    | ~15mL     |     ~1 cuillère à soupe              |
 | Sirop d'érable       | ~60mL     |       ~4 cuillères à soupe          |
-| Vinaigre balsamique  | ~15mL     |  ~1 cuillère à soupe                 |
+| Vinaigre balsamique  | ~15mL     |  ~1 cuillère à soupe, optionnel si vous n'aimez pas trop l'acidité |
 | Sauce soja           | ~15 mL    |   ~1 cuillère à soupe                |
 
 *** Instructions
