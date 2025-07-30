@@ -4,12 +4,120 @@
     <title>Cuisine on C. Kevin</title>
     <link>http://localhost:1313/categories/cuisine/</link>
     <description>Recent content in Cuisine on C. Kevin</description>
-    <generator>Hugo -- 0.147.7</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>fr</language>
     <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
     <webMaster>blog@ckevin.fr (Kevin)</webMaster>
-    <lastBuildDate>Fri, 02 May 2025 02:16:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 22:21:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sauce Barbecue maison</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/sauce-barbecue/</link>
+      <pubDate>Sat, 14 Jun 2025 22:21:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/sauce-barbecue/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Sauce barbecue maison&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/sauce_bbq_mixee.jpg&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/sauce_bbq_mixee.jpg&#34;
+         alt=&#34;Figure 1 : Sauce barbecue maison&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Sauce barbecue maison&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1 bocal&lt;/td&gt;
+          &lt;td&gt;0:05&lt;/td&gt;
+          &lt;td&gt;0:20&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;p&gt;NB : Pour les épices, ne pas hésiter à en mettre un peu plus que nécessaire, contrairement au sel, la courbe de goût est logarithmique. Faire toutefois attention au piment !&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Huile végétale&lt;/td&gt;
+          &lt;td&gt;~15 mL&lt;/td&gt;
+          &lt;td&gt;~1 cuillère à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Oignon&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;Taille moyenne&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Paprika fumé&lt;/td&gt;
+          &lt;td&gt;~45mL&lt;/td&gt;
+          &lt;td&gt;~3 cuillères à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Piment en poudre&lt;/td&gt;
+          &lt;td&gt;1 pincée&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Aïl&lt;/td&gt;
+          &lt;td&gt;2 gousses&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Concentré de tomates&lt;/td&gt;
+          &lt;td&gt;140g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eau&lt;/td&gt;
+          &lt;td&gt;210mL&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;vinaigre de cidre&lt;/td&gt;
+          &lt;td&gt;~15mL&lt;/td&gt;
+          &lt;td&gt;~1 cuillère à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sirop d&amp;rsquo;érable&lt;/td&gt;
+          &lt;td&gt;~60mL&lt;/td&gt;
+          &lt;td&gt;~4 cuillères à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Vinaigre balsamique&lt;/td&gt;
+          &lt;td&gt;~15mL&lt;/td&gt;
+          &lt;td&gt;~1 cuillère à soupe, optionnel si vous n&amp;rsquo;aimez pas trop l&amp;rsquo;acidité&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sauce soja&lt;/td&gt;
+          &lt;td&gt;~15 mL&lt;/td&gt;
+          &lt;td&gt;~1 cuillère à soupe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Émincer l&amp;rsquo;oignon et l&amp;rsquo;ail.&lt;/li&gt;
+&lt;li&gt;Faire suer les oignons dans l&amp;rsquo;huile dans une casserole&lt;/li&gt;
+&lt;li&gt;Ajouter l&amp;rsquo;ail et les épices en remuant dans la casserole&lt;/li&gt;
+&lt;li&gt;Ajouter l&amp;rsquo;eau et le concentré de tomate dans la casserole puis mélanger&lt;/li&gt;
+&lt;li&gt;Ajouter les autres liquides puis laisser mijoter une dizaine de minutes à petit feu.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Après la fin de la cuisson de la sauce&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Le matos de cuisine</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/matoscuisine/</link>
@@ -622,6 +730,99 @@ Les liens qui suivent ne sont pas sponsorisés, mais si vous souhaitez me souten
 &lt;li&gt;Creuser un puits dans la préparation et ajouter l&amp;rsquo;eau. Mélanger jusqu&amp;rsquo;à obtention d&amp;rsquo;une boule homogène.&lt;/li&gt;
 &lt;li&gt;Couvrir et laisser reposer 15-30 min.&lt;/li&gt;
 &lt;li&gt;Diviser la pâte en 10-12 boules de taille similaire. Couvrir et laisser reposer 15 min.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Boules de tortillas&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Baguettes au levain</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/baguette-levain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/baguette-levain/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Baguettes au levain&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/tortillas.png&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/tortillas.png&#34;
+         alt=&#34;Figure 1 : Baguettes au levain&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Baguettes au levain&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Repos&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2 baguettes&lt;/td&gt;
+          &lt;td&gt;6:05&lt;/td&gt;
+          &lt;td&gt;Une nuit&lt;/td&gt;
+          &lt;td&gt;0:22&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Pas besoin de rester 6h devant, seulement 30 secondes par heure après pétrissage&lt;/li&gt;
+&lt;li&gt;Inspiré de la vidéo de &lt;a href=&#34;https://youtu.be/p0rXjjgJO1w&#34;&gt;Tom Cooks&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine T65&lt;/td&gt;
+          &lt;td&gt;360g&lt;/td&gt;
+          &lt;td&gt;Je fais personnellement des traditions, j&amp;rsquo;utilise donc des farines Label Rouge&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eau&lt;/td&gt;
+          &lt;td&gt;250g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Levain&lt;/td&gt;
+          &lt;td&gt;70g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sel&lt;/td&gt;
+          &lt;td&gt;7g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Taux d&amp;rsquo;hydratation : 72 %&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Après avoir rafraîchi le levain, mélanger dans un récipient la farine, l&amp;rsquo;eau, le levain, le sel, jusqu&amp;rsquo;à obtention d&amp;rsquo;une pâte homogène.&lt;/li&gt;
+&lt;li&gt;Répéter 4 fois :
+&lt;ul&gt;
+&lt;li&gt;Couvrir et laisser reposer 1 heure à TA&lt;/li&gt;
+&lt;li&gt;Faire 4 rabats : Tirer la pâte d&amp;rsquo;un côté pour la ramener par dessus l&amp;rsquo;autre côté : cela donnera de la force à la pâte, puis pivoter le récipient de 45°.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Laisser reposer 2 heures à TA, en couvrant le récipient.&lt;/li&gt;
+&lt;li&gt;Fariner un récipient long et le pâton, et mettre le pâton dans le récipient fariné.&lt;/li&gt;
+&lt;li&gt;Couvrir et réserver au moins une nuit au réfrigérateur.&lt;/li&gt;
+&lt;li&gt;Préchauffer le four à 240°C, avec un petit ramequin qui supporte les hautes températures à l&amp;rsquo;intérieur. Sortir le pâton.&lt;/li&gt;
+&lt;li&gt;Sur un plan de travail fariné, démouler le pâton, le couper en deux dans le sens longitudinal.&lt;/li&gt;
+&lt;li&gt;Étirer chaque pâton de baguette pour leur donner la forme de baguette.&lt;/li&gt;
+&lt;li&gt;Juste avant d&amp;rsquo;enfourner, faire des entailles sur le dessus de la baguette avec un couteau aiguisé. On appelle cette action &lt;strong&gt;grigner&lt;/strong&gt;, et ça permettra à la baguette de gonfler lors de la cuisson.&lt;/li&gt;
+&lt;li&gt;Enfourner entre 20 et 25 minutes, et mettre de l&amp;rsquo;eau dans le ramequin, dans le but de faire de la vapeur pour favoriser les réactions de Maillard et obtenir une belle croûte.&lt;/li&gt;
+&lt;li&gt;Surveiller la coloration de la baguette, et sortir du four quand la coloration vous semble bonne.&lt;/li&gt;
+&lt;li&gt;Réserver sur une grille.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;a id=&#34;figure--Boules de tortillas&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
