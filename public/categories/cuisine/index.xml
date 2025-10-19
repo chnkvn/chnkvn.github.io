@@ -8,8 +8,88 @@
     <language>fr</language>
     <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
     <webMaster>blog@ckevin.fr (Kevin)</webMaster>
-    <lastBuildDate>Sat, 14 Jun 2025 22:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 16:19:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Röstis</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/rostis/</link>
+      <pubDate>Sun, 19 Oct 2025 16:19:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/rostis/</guid>
+      <description>&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Repos&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3 röstis&lt;/td&gt;
+          &lt;td&gt;0:10&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;0:08&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Pommes de terre&lt;/td&gt;
+          &lt;td&gt;500g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eau&lt;/td&gt;
+          &lt;td&gt;50g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine de blé&lt;/td&gt;
+          &lt;td&gt;30g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Poivre&lt;/td&gt;
+          &lt;td&gt;1 pincée&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sel&lt;/td&gt;
+          &lt;td&gt;1 pincée&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Paprika&lt;/td&gt;
+          &lt;td&gt;3 pincées&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Huile de friture&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Pour la cuisson&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Nettoyer et éplucher les pommes de terre&lt;/li&gt;
+&lt;li&gt;Mélanger les autres ingrédients dans un bol&lt;/li&gt;
+&lt;li&gt;Râper les pommes de terre dans le bol, puis mélanger son contenu&lt;/li&gt;
+&lt;li&gt;Faire chauffer l&amp;rsquo;huile. Pendant ce temps, former les galettes en les écrasant un peu.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a id=&#34;figure--Formation des röstis&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sauce Barbecue maison</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/sauce-barbecue/</link>
@@ -730,99 +810,6 @@ Les liens qui suivent ne sont pas sponsorisés, mais si vous souhaitez me souten
 &lt;li&gt;Creuser un puits dans la préparation et ajouter l&amp;rsquo;eau. Mélanger jusqu&amp;rsquo;à obtention d&amp;rsquo;une boule homogène.&lt;/li&gt;
 &lt;li&gt;Couvrir et laisser reposer 15-30 min.&lt;/li&gt;
 &lt;li&gt;Diviser la pâte en 10-12 boules de taille similaire. Couvrir et laisser reposer 15 min.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a id=&#34;figure--Boules de tortillas&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Baguettes au levain</title>
-      <link>http://localhost:1313/posts/hobbies/cuisine/baguette-levain/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>blog@ckevin.fr (Kevin)</author>
-      <guid>http://localhost:1313/posts/hobbies/cuisine/baguette-levain/</guid>
-      <description>&lt;p&gt;&lt;a id=&#34;figure--Baguettes au levain&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/tortillas.png&#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/tortillas.png&#34;
-         alt=&#34;Figure 1 : Baguettes au levain&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
-            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Baguettes au levain&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Quantité&lt;/th&gt;
-          &lt;th&gt;Préparation&lt;/th&gt;
-          &lt;th&gt;Repos&lt;/th&gt;
-          &lt;th&gt;Cuisson&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2 baguettes&lt;/td&gt;
-          &lt;td&gt;6:05&lt;/td&gt;
-          &lt;td&gt;Une nuit&lt;/td&gt;
-          &lt;td&gt;0:22&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;ul&gt;
-&lt;li&gt;Pas besoin de rester 6h devant, seulement 30 secondes par heure après pétrissage&lt;/li&gt;
-&lt;li&gt;Inspiré de la vidéo de &lt;a href=&#34;https://youtu.be/p0rXjjgJO1w&#34;&gt;Tom Cooks&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Ingrédient&lt;/th&gt;
-          &lt;th&gt;Quantité&lt;/th&gt;
-          &lt;th&gt;Remarques&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Farine T65&lt;/td&gt;
-          &lt;td&gt;360g&lt;/td&gt;
-          &lt;td&gt;Je fais personnellement des traditions, j&amp;rsquo;utilise donc des farines Label Rouge&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Eau&lt;/td&gt;
-          &lt;td&gt;250g&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Levain&lt;/td&gt;
-          &lt;td&gt;70g&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Sel&lt;/td&gt;
-          &lt;td&gt;7g&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;ul&gt;
-&lt;li&gt;Taux d&amp;rsquo;hydratation : 72 %&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Après avoir rafraîchi le levain, mélanger dans un récipient la farine, l&amp;rsquo;eau, le levain, le sel, jusqu&amp;rsquo;à obtention d&amp;rsquo;une pâte homogène.&lt;/li&gt;
-&lt;li&gt;Répéter 4 fois :
-&lt;ul&gt;
-&lt;li&gt;Couvrir et laisser reposer 1 heure à TA&lt;/li&gt;
-&lt;li&gt;Faire 4 rabats : Tirer la pâte d&amp;rsquo;un côté pour la ramener par dessus l&amp;rsquo;autre côté : cela donnera de la force à la pâte, puis pivoter le récipient de 45°.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Laisser reposer 2 heures à TA, en couvrant le récipient.&lt;/li&gt;
-&lt;li&gt;Fariner un récipient long et le pâton, et mettre le pâton dans le récipient fariné.&lt;/li&gt;
-&lt;li&gt;Couvrir et réserver au moins une nuit au réfrigérateur.&lt;/li&gt;
-&lt;li&gt;Préchauffer le four à 240°C, avec un petit ramequin qui supporte les hautes températures à l&amp;rsquo;intérieur. Sortir le pâton.&lt;/li&gt;
-&lt;li&gt;Sur un plan de travail fariné, démouler le pâton, le couper en deux dans le sens longitudinal.&lt;/li&gt;
-&lt;li&gt;Étirer chaque pâton de baguette pour leur donner la forme de baguette.&lt;/li&gt;
-&lt;li&gt;Juste avant d&amp;rsquo;enfourner, faire des entailles sur le dessus de la baguette avec un couteau aiguisé. On appelle cette action &lt;strong&gt;grigner&lt;/strong&gt;, et ça permettra à la baguette de gonfler lors de la cuisson.&lt;/li&gt;
-&lt;li&gt;Enfourner entre 20 et 25 minutes, et mettre de l&amp;rsquo;eau dans le ramequin, dans le but de faire de la vapeur pour favoriser les réactions de Maillard et obtenir une belle croûte.&lt;/li&gt;
-&lt;li&gt;Surveiller la coloration de la baguette, et sortir du four quand la coloration vous semble bonne.&lt;/li&gt;
-&lt;li&gt;Réserver sur une grille.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;a id=&#34;figure--Boules de tortillas&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>

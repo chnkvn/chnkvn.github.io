@@ -3,24 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-14T22:21:00+02:00</lastmod>
+    <lastmod>2025-10-19T16:19:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-14T22:21:00+02:00</lastmod>
+    <lastmod>2025-10-19T16:19:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/cuisine/</loc>
-    <lastmod>2025-06-14T22:21:00+02:00</lastmod>
+    <lastmod>2025-10-19T16:19:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plat/</loc>
+    <lastmod>2025-10-19T16:19:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-14T22:21:00+02:00</lastmod>
+    <lastmod>2025-10-19T16:19:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hobbies/cuisine/rostis/</loc>
+    <lastmod>2025-10-19T16:19:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-19T16:19:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sauce/</loc>
     <lastmod>2025-06-14T22:21:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hobbies/cuisine/sauce-barbecue/</loc>
-    <lastmod>2025-06-14T22:21:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-14T22:21:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/consommation/</loc>
@@ -89,14 +95,8 @@
     <loc>http://localhost:1313/posts/about-me/</loc>
     <lastmod>2024-01-12T16:06:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hobbies/cuisine/baguette-levain/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/hobbies/vie-quotidienne/consommer-local/</loc>
-  </url><url>
     <loc>http://localhost:1313/search/search/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/viequotidienne/</loc>
   </url>
 </urlset>

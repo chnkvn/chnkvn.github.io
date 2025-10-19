@@ -576,6 +576,48 @@ La sauce se conserve au frais une semaine.
 
 Bon appétit !
 
+** DONE Röstis :plat:
+CLOSED: [2025-10-19 Sun 16:19]
+:Properties:
+:EXPORT_FILE_NAME: rostis
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2025-10-19 Sun 16:19]
+:END:
+
+*** Infos
+
+| Quantité | Préparation | Repos | Cuisson |
+|----------+-------------+-------+---------|
+| 3 röstis |        0:10 |       |    0:08 |
+
+*** Ingrédients
+| Ingrédient       | Quantité  | Remarques |
+|------------------+-----------+-----------|
+| Pommes de terre  | 500g      |           |
+| Eau              | 50g       |           |
+| Farine de blé    | 30g       |           |
+| Poivre           | 1 pincée  |           |
+| Sel              | 1 pincée  |           |
+| Paprika          | 3 pincées |           |
+| Huile de friture |           | Pour la cuisson |
+
+*** Instructions
+1. Nettoyer et éplucher les pommes de terre
+2. Mélanger les autres ingrédients dans un bol
+3. Râper les pommes de terre dans le bol, puis mélanger son contenu
+4. Faire chauffer l'huile. Pendant ce temps, former les galettes en les écrasant un peu.
+
+#+NAME: Formation des röstis
+#+Caption: Röstis pendant la montée en température de l'huile
+[[file:/images/cooking/rosti_cru.jpg][file:/images/cooking/rosti_cru.jpg]]
+
+5. [@5] Frire les galettes pendant 6 à 8 minutes, en les retournant pendant la cuisson, jusqu'à qu'elles dorent et croustillent
+6. Absorber l'huile avec une feuille d'essuie-tout.
+#+CAPTION: Après la cuisson des röstis
+[[file:/images/cooking/rosti_cuit.jpg][file:/images/cooking/rosti_cuit.jpg]]
+
+Bon appétit ! 
 ** TODO Baguettes au levain :boulangerie:
 :properties:
 :EXPORT_FILE_NAME:  baguette levain
@@ -625,6 +667,44 @@ Bon appétit !
 #+caption: Cuisson d'une tortilla à la poêle
 [[/images/cooking/tortilla_cuisson.jpg][file:/images/cooking/tortilla_cuisson.jpg]]
 Bon appétit !
+
+** TODO Pain de mie maison au levain
+*** Infos
+
+| Quantité    | Préparation | Repos    | Cuisson |
+|-------------+-------------+----------+---------|
+| 1 Pain de mie |        6:00 | Une nuit (optionnel) |    0:50 |
+
+- Pas besoin de matériel particulier
+- Inspiré de la vidéo de [[https://www.youtube.com/watch?v=SWX5djbYYzs][Tom Cooks]].
+*** Ingrédients
+| Ingrédient    | Quantité | Remarques                                                                                              |
+|---------------+----------+--------------------------------------------------------------------------------------------------------|
+| Farine        | 500g     | À fort taux de protéine, j'utilise personnellement de la farine fluide T45 /carrouf/  à 12% de protéines |
+| Eau           | 140g     |                                                                                                        |
+| Lait          | 140g     | Préférer le lait entier, vos créations auront toujours plus de goût                                    |
+| Levain        | 100g     | Préalablement rafraîchi, le mien a une proportion équitable de farine et d'eau                         |
+| Beurre        | 50g      | Demi-sel ; Si beurre doux, rajouter 1g de sel pour un total de 9g de sel dans la recette               |
+| Sel           | 8g       |                                                                                                        |
+| Sucre         | 20g      |                                                                                                        |
+| Crème Fraiche | 30g      |                                                                                                        |
+*** Instructions
+1. Ramollir le beurre quelques heures avant le début de la préparation.
+2. Mélanger tous les ingrédients, sauf le beurre et la farine. 
+3. Ajouter la farine au mélange liquide.
+4. Laisser reposer 30 minutes pour le début de la formation du réseau de gluten.
+5. Incorporer le beurre ramolli à la préparation, mélanger et laisser reposer 30 minutes.
+6. Pendant 2:30, laisser reposer, en faisant une série de 4 rabats toutes les 30 minutes.
+7. Beurrer un moule à cake, séparer le pâton en 2, et les mettre dans le moule, puis laisser reposer 3:00. Après ces 3 heures, on peut réserver le moule au frais pendant la nuit pour une levée lente.
+8. Préchauffer le four à 180°C.
+9. Cuire pendant 50 minutes, avec un couvercle pour une forme carrée ou sans couvercle pour une forme un peu moins régulière.
+10. Démouler et laisser refroidir.
+
+Bon appétit ! 
+
+
+** TODO Gâteau au yaourt
+
 ** TODO Bolognaise aux lentilles
 
 ** TODO Pains pita maison :boulangerie:
