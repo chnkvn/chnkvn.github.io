@@ -668,7 +668,17 @@ Bon appétit !
 [[/images/cooking/tortilla_cuisson.jpg][file:/images/cooking/tortilla_cuisson.jpg]]
 Bon appétit !
 
-** TODO Pain de mie maison au levain
+** DONE Pain de mie maison au levain
+CLOSED: [2025-10-19 Sun 17:48]
+:properties:
+:EXPORT_FILE_NAME:  pain-de-mie
+:end:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-10-19 Sun 17:48]
+:END:
+#+NAME: Pain de mie au levain
+#+CAPTION: Pain de mie au levain, vue interne et externe
+[[file:/images/cooking/pain_de_mie.jpg][file:/images/cooking/pain_de_mie.jpg]]
 *** Infos
 
 | Quantité    | Préparation | Repos    | Cuisson |
@@ -687,7 +697,7 @@ Bon appétit !
 | Beurre        | 50g      | Demi-sel ; Si beurre doux, rajouter 1g de sel pour un total de 9g de sel dans la recette               |
 | Sel           | 8g       |                                                                                                        |
 | Sucre         | 20g      |                                                                                                        |
-| Crème Fraiche | 30g      |                                                                                                        |
+| Crème Fraiche | 30g      | Aide à la pousse                                                                                       |
 *** Instructions
 1. Ramollir le beurre quelques heures avant le début de la préparation.
 2. Mélanger tous les ingrédients, sauf le beurre et la farine. 

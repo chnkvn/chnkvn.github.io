@@ -8,8 +8,111 @@
     <language>fr</language>
     <managingEditor>blog@ckevin.fr (Kevin)</managingEditor>
     <webMaster>blog@ckevin.fr (Kevin)</webMaster>
-    <lastBuildDate>Sun, 19 Oct 2025 16:19:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 17:48:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pain de mie maison au levain</title>
+      <link>http://localhost:1313/posts/hobbies/cuisine/pain-de-mie/</link>
+      <pubDate>Sun, 19 Oct 2025 17:48:00 +0200</pubDate><author>blog@ckevin.fr (Kevin)</author>
+      <guid>http://localhost:1313/posts/hobbies/cuisine/pain-de-mie/</guid>
+      <description>&lt;p&gt;&lt;a id=&#34;figure--Pain de mie au levain&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;a href=&#34;http://localhost:1313/images/cooking/pain_de_mie.jpg&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/cooking/pain_de_mie.jpg&#34;
+         alt=&#34;Figure 1 : Pain de mie au levain, vue interne et externe&#34;/&gt; &lt;/a&gt;&lt;figcaption&gt;
+            &lt;p&gt;&lt;span class=&#34;figure-number&#34;&gt;Figure 1 : &lt;/span&gt;Pain de mie au levain, vue interne et externe&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;infos&#34;&gt;Infos&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Préparation&lt;/th&gt;
+          &lt;th&gt;Repos&lt;/th&gt;
+          &lt;th&gt;Cuisson&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1 Pain de mie&lt;/td&gt;
+          &lt;td&gt;6:00&lt;/td&gt;
+          &lt;td&gt;Une nuit (optionnel)&lt;/td&gt;
+          &lt;td&gt;0:50&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Pas besoin de matériel particulier&lt;/li&gt;
+&lt;li&gt;Inspiré de la vidéo de &lt;a href=&#34;https://www.youtube.com/watch?v=SWX5djbYYzs&#34;&gt;Tom Cooks&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ingrédients&#34;&gt;Ingrédients&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Ingrédient&lt;/th&gt;
+          &lt;th&gt;Quantité&lt;/th&gt;
+          &lt;th&gt;Remarques&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Farine&lt;/td&gt;
+          &lt;td&gt;500g&lt;/td&gt;
+          &lt;td&gt;À fort taux de protéine, j&amp;rsquo;utilise personnellement de la farine fluide T45 &lt;em&gt;carrouf&lt;/em&gt;  à 12% de protéines&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eau&lt;/td&gt;
+          &lt;td&gt;140g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lait&lt;/td&gt;
+          &lt;td&gt;140g&lt;/td&gt;
+          &lt;td&gt;Préférer le lait entier, vos créations auront toujours plus de goût&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Levain&lt;/td&gt;
+          &lt;td&gt;100g&lt;/td&gt;
+          &lt;td&gt;Préalablement rafraîchi, le mien a une proportion équitable de farine et d&amp;rsquo;eau&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beurre&lt;/td&gt;
+          &lt;td&gt;50g&lt;/td&gt;
+          &lt;td&gt;Demi-sel ; Si beurre doux, rajouter 1g de sel pour un total de 9g de sel dans la recette&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sel&lt;/td&gt;
+          &lt;td&gt;8g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sucre&lt;/td&gt;
+          &lt;td&gt;20g&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Crème Fraiche&lt;/td&gt;
+          &lt;td&gt;30g&lt;/td&gt;
+          &lt;td&gt;Aide à la pousse&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Ramollir le beurre quelques heures avant le début de la préparation.&lt;/li&gt;
+&lt;li&gt;Mélanger tous les ingrédients, sauf le beurre et la farine.&lt;/li&gt;
+&lt;li&gt;Ajouter la farine au mélange liquide.&lt;/li&gt;
+&lt;li&gt;Laisser reposer 30 minutes pour le début de la formation du réseau de gluten.&lt;/li&gt;
+&lt;li&gt;Incorporer le beurre ramolli à la préparation, mélanger et laisser reposer 30 minutes.&lt;/li&gt;
+&lt;li&gt;Pendant 2:30, laisser reposer, en faisant une série de 4 rabats toutes les 30 minutes.&lt;/li&gt;
+&lt;li&gt;Beurrer un moule à cake, séparer le pâton en 2, et les mettre dans le moule, puis laisser reposer 3:00. Après ces 3 heures, on peut réserver le moule au frais pendant la nuit pour une levée lente.&lt;/li&gt;
+&lt;li&gt;Préchauffer le four à 180°C.&lt;/li&gt;
+&lt;li&gt;Cuire pendant 50 minutes, avec un couvercle pour une forme carrée ou sans couvercle pour une forme un peu moins régulière.&lt;/li&gt;
+&lt;li&gt;Démouler et laisser refroidir.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Bon appétit !&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Röstis</title>
       <link>http://localhost:1313/posts/hobbies/cuisine/rostis/</link>
