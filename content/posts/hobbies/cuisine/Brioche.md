@@ -57,3 +57,7 @@ Bon appétit !
 <a id="figure--Intérieur de la brioche"></a>
 
 {{< figure src="/images/cooking/brioche_in.png" caption="<span class=\"figure-number\">Figure&nbsp;2&nbsp;: </span>Une photo de l'intérieur de la brioche" >}}
+
+<a id="figure--Double brioche"></a>
+
+{{< figure src="/images/cooking/brioche.jpg" caption="<span class=\"figure-number\">Figure&nbsp;3&nbsp;: </span>Une autre fournée de brioche" >}}

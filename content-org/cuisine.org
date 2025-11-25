@@ -149,6 +149,9 @@ CLOSED: [2024-01-29 Mon 23:13]
 :properties:
 :EXPORT_FILE_NAME: Brioche
 :end:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2025-11-25 Tue 21:42]
+:END:
 
 #+NAME: Brioche
 #+CAPTION: Une belle brioche sans oeufs faite maison
@@ -191,6 +194,9 @@ Bon appétit !
 #+CAPTION: Une photo de l'intérieur de la brioche
 [[/images/cooking/brioche_in.png]]
 
+#+NAME: Double brioche
+#+CAPTION: Une autre fournée de brioche
+[[/images/cooking/brioche.jpg]]
 
 ** DONE Cookies :boulangerie:
 CLOSED: [2025-04-11 Fri 01:28]
@@ -664,10 +670,10 @@ Bon appétit !
 
 
 ** NEXT Baguettes au levain :boulangerie:base:
+SCHEDULED: <2025-11-25 Tue>
 :properties:
-:EXPORT_FILE_NAME:  baguette levain
+:EXPORT_FILE_NAME:  baguette-levain
 :end:
-
 #+NAME: Baguettes au levain
 #+caption: Baguettes au levain
 [[/images/cooking/tortillas.png][file:/images/cooking/tortillas.png]]
@@ -721,16 +727,16 @@ Bon appétit !
 
 
 *** Ingrédients
-| Ingrédient          | Quantité | Remarques                                    |
-|---------------------+----------+----------------------------------------------|
-| Farine              | 180g     | Tamisée                                      |
-| Lait                | 250g     |                                              |
-| Huile               | 75g      | Neutre, en prévoir également pour la cuisson |
-| Levure chimique    | 5g       | Souvent équivalent à un demi-sachet          |
-| Sucre               | 50g      |  Peut être un mélange de sucres (cassonade...) |
-| Fécule              | 20g      |                                              |
-| Sel                 | 1 pincée |                                              |
-| Élément aromatiques |          | Vanille, fleur d'oranger...        |
+| Ingrédient          | Quantité | Remarques                                     |
+|---------------------+----------+-----------------------------------------------|
+| Farine              | 180g     | Tamisée                                       |
+| Lait                | 250g     | Entier de préférence                          |
+| Huile               | 75g      | Neutre, en prévoir également pour la cuisson  |
+| Levure chimique     | 5g       | Souvent équivalent à un demi-sachet           |
+| Sucre               | 50g      | Peut être un mélange de sucres (cassonade...) |
+| Fécule              | 20g      |                                               |
+| Sel                 | 1 pincée |                                               |
+| Élément aromatiques |          | Vanille, fleur d'oranger...                   |
 
 
 
