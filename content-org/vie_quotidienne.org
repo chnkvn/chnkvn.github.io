@@ -82,3 +82,7 @@ Ce qui suit présente une liste de marques non alimentaires européennes non exh
 - [[https://mail.proton.me/][Protonmail]] (CH) :: Client mail, possible de le coupler avec [[https://simplelogin.io/][SimpleLogin]] pour créer un nombre illimité d'alias.
 - [[https://www.conrad.fr/][Conrad]] (DE) :: Matériel électronique
 ** TODO Quelques questions à se poser avant un achat 
+** TODO Quelques outils numériques utiles
+Ce billet de blog présente quelques outils numériques que j'utilise au quotidien. 
+J'aborderai chaque logiciel ou service numérique utilisé sur mes divers appareils, un pc portable sous linux et un autre pc sous Mac OS. Deux outils seront mentionnées si un même logiciel n'est pas compatible sur les deux plateformes.  
+*** 

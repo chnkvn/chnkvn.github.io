@@ -618,7 +618,52 @@ CLOSED: [2025-10-19 Sun 16:19]
 [[file:/images/cooking/rosti_cuit.jpg][file:/images/cooking/rosti_cuit.jpg]]
 
 Bon appétit ! 
-** TODO Baguettes au levain :boulangerie:
+** DONE Pain de mie maison au levain
+CLOSED: [2025-10-19 Sun 17:48]
+:properties:
+:EXPORT_FILE_NAME:  pain-de-mie
+:end:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-10-19 Sun 17:48]
+:END:
+#+NAME: Pain de mie au levain
+#+CAPTION: Pain de mie au levain, vue interne et externe
+[[file:/images/cooking/pain_de_mie.jpg][file:/images/cooking/pain_de_mie.jpg]]
+*** Infos
+
+| Quantité    | Préparation | Repos    | Cuisson |
+|-------------+-------------+----------+---------|
+| 1 Pain de mie |        6:00 | Une nuit (optionnel) |    0:50 |
+
+- Pas besoin de matériel particulier
+- Inspiré de la vidéo de [[https://www.youtube.com/watch?v=SWX5djbYYzs][Tom Cooks]].
+*** Ingrédients
+| Ingrédient    | Quantité | Remarques                                                                                              |
+|---------------+----------+--------------------------------------------------------------------------------------------------------|
+| Farine        | 500g     | À fort taux de protéine, j'utilise personnellement de la farine fluide T45 /carrouf/  à 12% de protéines |
+| Eau           | 140g     |                                                                                                        |
+| Lait          | 140g     | Préférer le lait entier, vos créations auront toujours plus de goût                                    |
+| Levain        | 100g     | Préalablement rafraîchi, le mien a une proportion équitable de farine et d'eau                         |
+| Beurre        | 50g      | Demi-sel ; Si beurre doux, rajouter 1g de sel pour un total de 9g de sel dans la recette               |
+| Sel           | 8g       |                                                                                                        |
+| Sucre         | 20g      |                                                                                                        |
+| Crème Fraiche | 30g      | Aide à la pousse                                                                                       |
+*** Instructions
+1. Ramollir le beurre quelques heures avant le début de la préparation.
+2. Mélanger tous les ingrédients, sauf le beurre et la farine. 
+3. Ajouter la farine au mélange liquide.
+4. Laisser reposer 30 minutes pour le début de la formation du réseau de gluten.
+5. Incorporer le beurre ramolli à la préparation, mélanger et laisser reposer 30 minutes.
+6. Pendant 2:30, laisser reposer, en faisant une série de 4 rabats toutes les 30 minutes.
+7. Beurrer un moule à cake, séparer le pâton en 2, et les mettre dans le moule, puis laisser reposer 3:00. Après ces 3 heures, on peut réserver le moule au frais pendant la nuit pour une levée lente.
+8. Préchauffer le four à 180°C.
+9. Cuire pendant 50 minutes, avec un couvercle pour une forme carrée ou sans couvercle pour une forme un peu moins régulière.
+10. Démouler et laisser refroidir.
+
+Bon appétit ! 
+
+
+** NEXT Baguettes au levain :boulangerie:base:
 :properties:
 :EXPORT_FILE_NAME:  baguette levain
 :end:
@@ -668,56 +713,81 @@ Bon appétit !
 [[/images/cooking/tortilla_cuisson.jpg][file:/images/cooking/tortilla_cuisson.jpg]]
 Bon appétit !
 
-** DONE Pain de mie maison au levain
-CLOSED: [2025-10-19 Sun 17:48]
-:properties:
-:EXPORT_FILE_NAME:  pain-de-mie
-:end:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2025-10-19 Sun 17:48]
-:END:
-#+NAME: Pain de mie au levain
-#+CAPTION: Pain de mie au levain, vue interne et externe
-[[file:/images/cooking/pain_de_mie.jpg][file:/images/cooking/pain_de_mie.jpg]]
+** NEXT Gaufres :boulangerie:base:
 *** Infos
+| Quantité  | Préparation | Cuisson | Repos |
+|-----------+-------------+---------+-------|
+| 7 gaufres |        0:05 |    0:04 par gaufre |       |
 
-| Quantité    | Préparation | Repos    | Cuisson |
-|-------------+-------------+----------+---------|
-| 1 Pain de mie |        6:00 | Une nuit (optionnel) |    0:50 |
 
-- Pas besoin de matériel particulier
-- Inspiré de la vidéo de [[https://www.youtube.com/watch?v=SWX5djbYYzs][Tom Cooks]].
 *** Ingrédients
-| Ingrédient    | Quantité | Remarques                                                                                              |
-|---------------+----------+--------------------------------------------------------------------------------------------------------|
-| Farine        | 500g     | À fort taux de protéine, j'utilise personnellement de la farine fluide T45 /carrouf/  à 12% de protéines |
-| Eau           | 140g     |                                                                                                        |
-| Lait          | 140g     | Préférer le lait entier, vos créations auront toujours plus de goût                                    |
-| Levain        | 100g     | Préalablement rafraîchi, le mien a une proportion équitable de farine et d'eau                         |
-| Beurre        | 50g      | Demi-sel ; Si beurre doux, rajouter 1g de sel pour un total de 9g de sel dans la recette               |
-| Sel           | 8g       |                                                                                                        |
-| Sucre         | 20g      |                                                                                                        |
-| Crème Fraiche | 30g      | Aide à la pousse                                                                                       |
+| Ingrédient          | Quantité | Remarques                                    |
+|---------------------+----------+----------------------------------------------|
+| Farine              | 180g     | Tamisée                                      |
+| Lait                | 250g     |                                              |
+| Huile               | 75g      | Neutre, en prévoir également pour la cuisson |
+| Levure chimique    | 5g       | Souvent équivalent à un demi-sachet          |
+| Sucre               | 50g      |  Peut être un mélange de sucres (cassonade...) |
+| Fécule              | 20g      |                                              |
+| Sel                 | 1 pincée |                                              |
+| Élément aromatiques |          | Vanille, fleur d'oranger...        |
+
+
+
 *** Instructions
-1. Ramollir le beurre quelques heures avant le début de la préparation.
-2. Mélanger tous les ingrédients, sauf le beurre et la farine. 
-3. Ajouter la farine au mélange liquide.
-4. Laisser reposer 30 minutes pour le début de la formation du réseau de gluten.
-5. Incorporer le beurre ramolli à la préparation, mélanger et laisser reposer 30 minutes.
-6. Pendant 2:30, laisser reposer, en faisant une série de 4 rabats toutes les 30 minutes.
-7. Beurrer un moule à cake, séparer le pâton en 2, et les mettre dans le moule, puis laisser reposer 3:00. Après ces 3 heures, on peut réserver le moule au frais pendant la nuit pour une levée lente.
-8. Préchauffer le four à 180°C.
-9. Cuire pendant 50 minutes, avec un couvercle pour une forme carrée ou sans couvercle pour une forme un peu moins régulière.
-10. Démouler et laisser refroidir.
 
-Bon appétit ! 
+1. Brancher et préchauffer le gaufrier.
+2. Mélanger les poudres dans un saladier.
+3. Incorporer le lait progressivement et mélanger
+4. Ajouter l'huile
+5. Ajouter les éventuels éléments aromatiques.
+6. Huiler les plaques du gaufrier et mettre une louche de pâte dans chaque emplacement du gaufrier
+7. Enchaîner la cuisson des gaufres. En fonction de votre gaufrier, il faudra entre 2 et 6 minutes par gaufre, qui doivent être dorées.
+8. Manger vos gaufres, idéalement tièdes, accompagnées de sucre glace ou de tout autre garniture. 
+
+Bon appétit !
+
+** NEXT Viande de Kebab
+*** Infos
+| Quantité               | Préparation | Cuisson | Repos                     |
+|------------------------+-------------+---------+---------------------------|
+| un tup carré de viande |        0:10 |    0:05 | une nuit au congélateur |
 
 
-** TODO Gâteau au yaourt
 
-** TODO Bolognaise aux lentilles
+*** Ingrédients
+| Ingrédient    | Quantité                                                  | Remarques                                                        |
+|---------------+-----------------------------------------------------------+------------------------------------------------------------------|
+| Agneau        | Quantité égale au veau                                    | Privilégier partie tendre, avec un peu de graisse, e.g. poitrine |
+| Veau          | Quantité égale a l'agneau                                 | Privilégier partie tendre, avec un peu de graisse, e.g. gigot    |
+| Yaourt grec   | Suffisamment pour en mettre entre chaque couche de viande |                                                                  |
+| Thym          | En bonne quantité                                         | Possible de prendre du Zaatar filtré des graines de sésame       |
+| Sumac         | En bonne quantité                                         | Possible de prendre du Zaatar filtré des graines de sésame       |
+| Autres herbes | Quantité moindre                                          | Facultatif                                                       |
+| Sel           | 1% de la masse de la viande                               |                                                                  |
+| Oignon        | Au moins 2                                                |                                                                  |
+| Poivre        |                                                         |                                                                  |
 
-** TODO Pains pita maison :boulangerie:
+*** Instructions
+
+1. Couper les oignons en brunoise 
+2. Sécher les oignons dans un torchon ou de l'essuie tout
+3. Ajouter le sel et le poivre noir, puis le yaourt grec, puis corriger l'assaisonnement
+4. Ajouter le thym et le sumac.
+5. Couper la viande en fines tranches et récuperer la graisse d'agneau.
+6. Faire des /lasagnes/ en alternant chaque couche de viande avec une couche de marinade, puis congeler les lasagnes et la graisse d'agneau.
+7. Préparer le contenant de la viande de kebab (durum, pain), et les éventuels accompagnements (légumes, sauce...)
+8. Avant la cuisson, couper de fines tranches de /lasagnes/ de viande. Elles ne doivent pas être trop fines sous peine d'être sèches à la cuisson
+9. Dans une poêle, chauffer la graisse d'agneau.
+10. Faire revenir les tranches de viande coupées dans la poêle
+11. Garnir votre kebab.
+
+Bon appétit !
+** TODO Moffles
+
+
+
+** TODO Pains pita maison :boulangerie:base:
 :properties:
 :EXPORT_FILE_NAME: pains pita
 :end:
@@ -726,3 +796,31 @@ Bon appétit !
 *** Instructions
 
 
+** NEXT Risotto :base:
+*** Infos
+
+
+| Quantité    | Préparation | Repos    | Cuisson |
+|-------------+-------------+----------+---------|
+| 4 personnes |        0:03 | 0 |    0:20 |
+
+- Inclure également le temps de préparation de la garniture (e.g poulet, champignons, oignons...)
+*** Ingrédients
+| Ingrédient | Quantité | Remarques                        |
+|------------+----------+----------------------------------|
+| Riz rond   | 400g     | Riz à risotto idéalement         |
+| Bouillon   | 900mL    | Peut être de n'importe quel type |
+| Vin blanc  | 20cL     |                                  |
+| Beurre     | 30g      |                                  |
+| Parmesan   | 40g      |                                  |
+
+*** Instructions
+1. Rincer le riz dans un saladier et conserver l'eau de rinçage, que vous ajouterez au bouillon
+2. Toaster les grains de riz à la poêle, jusqu'à qu'ils soient légèrement chauds au toucher.
+3. Ajouter le vin blanc au riz et laisser l'alcool s'évaporer (30 secondes - 1 minutes)
+4. Ajouter le bouillon au riz et maintenir une petite ébullition en remuant. Ajouter de l'eau s'il manque du liquide, et laisser cuire 15 minutes
+5. Ajouter le beurre froid, puis le fromage dans la poêle.
+6. Faire une /mantecatura/, qui consiste à remuer la poêle et son contenu pour créer une émulsion, et incorporer de l'air, pour lier une sauce qui ne tient pas à son accompagnement.
+7. Ajouter l'éventuelle garniture et servir. 
+
+Bon appétit !
