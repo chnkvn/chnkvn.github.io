@@ -624,7 +624,7 @@ CLOSED: [2025-10-19 Sun 16:19]
 [[file:/images/cooking/rosti_cuit.jpg][file:/images/cooking/rosti_cuit.jpg]]
 
 Bon appétit ! 
-** DONE Pain de mie maison au levain
+** DONE Pain de mie maison au levain :boulangerie:base:
 CLOSED: [2025-10-19 Sun 17:48]
 :properties:
 :EXPORT_FILE_NAME:  pain-de-mie
@@ -668,6 +668,53 @@ CLOSED: [2025-10-19 Sun 17:48]
 
 Bon appétit ! 
 
+
+
+** DONE Gaufres :boulangerie:base:
+CLOSED: [2025-11-26 Wed 11:10]
+:properties:
+:EXPORT_FILE_NAME: gaufres
+:end:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2025-11-26 Wed 11:10]
+:END:
+
+#+NAME: Gaufres sans oeufs
+#+CAPTION: Gaufres sans oeufs, faites au gaufrier
+[[file:/images/cooking/gaufres.png][file:/images/cooking/gaufres.png]]
+
+*** Infos
+| Quantité  | Préparation | Cuisson         | Repos |
+|-----------+-------------+-----------------+-------|
+| 7 gaufres |        0:05 | 0:04 par gaufre |       |
+
+
+*** Ingrédients
+| Ingrédient          | Quantité | Remarques                                     |
+|---------------------+----------+-----------------------------------------------|
+| Farine              | 180g     | Tamisée                                       |
+| Lait                | 250g     | Entier de préférence                          |
+| Huile               | 75g      | Neutre, en prévoir également pour la cuisson  |
+| Levure chimique     | 5g       | Souvent équivalent à un demi-sachet           |
+| Sucre               | 50g      | Peut être un mélange de sucres (cassonade...) |
+| Fécule              | 20g      |                                               |
+| Sel                 | 1 pincée |                                               |
+| Élément aromatiques |          | Vanille, fleur d'oranger...                   |
+
+
+
+*** Instructions
+
+1. Brancher et préchauffer le gaufrier.
+2. Mélanger les poudres dans un saladier.
+3. Incorporer le lait progressivement et mélanger
+4. Ajouter l'huile
+5. Ajouter les éventuels éléments aromatiques.
+6. Huiler les plaques du gaufrier et mettre une louche de pâte dans chaque emplacement du gaufrier
+7. Enchaîner la cuisson des gaufres. En fonction de votre gaufrier, il faudra entre 2 et 6 minutes par gaufre, qui doivent être dorées.
+8. Manger vos gaufres, idéalement tièdes, accompagnées de sucre glace ou de tout autre garniture. 
+
+Bon appétit !
 
 ** NEXT Baguettes au levain :boulangerie:base:
 SCHEDULED: <2025-11-25 Tue>
@@ -717,40 +764,6 @@ SCHEDULED: <2025-11-25 Tue>
 #+NAME: Cuisson d'une tortilla à la poêle
 #+caption: Cuisson d'une tortilla à la poêle
 [[/images/cooking/tortilla_cuisson.jpg][file:/images/cooking/tortilla_cuisson.jpg]]
-Bon appétit !
-
-** NEXT Gaufres :boulangerie:base:
-*** Infos
-| Quantité  | Préparation | Cuisson | Repos |
-|-----------+-------------+---------+-------|
-| 7 gaufres |        0:05 |    0:04 par gaufre |       |
-
-
-*** Ingrédients
-| Ingrédient          | Quantité | Remarques                                     |
-|---------------------+----------+-----------------------------------------------|
-| Farine              | 180g     | Tamisée                                       |
-| Lait                | 250g     | Entier de préférence                          |
-| Huile               | 75g      | Neutre, en prévoir également pour la cuisson  |
-| Levure chimique     | 5g       | Souvent équivalent à un demi-sachet           |
-| Sucre               | 50g      | Peut être un mélange de sucres (cassonade...) |
-| Fécule              | 20g      |                                               |
-| Sel                 | 1 pincée |                                               |
-| Élément aromatiques |          | Vanille, fleur d'oranger...                   |
-
-
-
-*** Instructions
-
-1. Brancher et préchauffer le gaufrier.
-2. Mélanger les poudres dans un saladier.
-3. Incorporer le lait progressivement et mélanger
-4. Ajouter l'huile
-5. Ajouter les éventuels éléments aromatiques.
-6. Huiler les plaques du gaufrier et mettre une louche de pâte dans chaque emplacement du gaufrier
-7. Enchaîner la cuisson des gaufres. En fonction de votre gaufrier, il faudra entre 2 et 6 minutes par gaufre, qui doivent être dorées.
-8. Manger vos gaufres, idéalement tièdes, accompagnées de sucre glace ou de tout autre garniture. 
-
 Bon appétit !
 
 ** NEXT Viande de Kebab
