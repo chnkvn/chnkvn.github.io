@@ -716,6 +716,69 @@ CLOSED: [2025-11-26 Wed 11:10]
 
 Bon appétit !
 
+** DONE Viande de Kebab
+CLOSED: [2025-11-26 Wed 15:36]
+:properties:
+:EXPORT_FILE_NAME: kebab-viande
+:end:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-11-26 Wed 15:36]
+:END:
+
+#+NAME: Viande de kebab
+#+CAPTION: Viande de kebab sur une tortilla
+[[file:/images/cooking/viande_kebab_durum.png][file:/images/cooking/viande_kebab_durum.png]]
+
+
+*** Infos
+| Quantité               | Préparation | Cuisson | Repos                     |
+|------------------------+-------------+---------+---------------------------|
+| un tup carré de viande |        0:10 |    0:05 | une nuit au congélateur |
+
+
+
+*** Ingrédients
+| Ingrédient    | Quantité                                                  | Remarques                                                        |
+|---------------+-----------------------------------------------------------+------------------------------------------------------------------|
+| Agneau        | Quantité égale au veau                                    | Privilégier partie tendre, avec un peu de graisse, e.g. poitrine |
+| Veau          | Quantité égale a l'agneau                                 | Privilégier partie tendre, avec un peu de graisse, e.g. gigot    |
+| Yaourt grec   | Suffisamment pour en mettre entre chaque couche de viande |                                                                  |
+| Thym          | En bonne quantité                                         | Possible de prendre du Zaatar filtré des graines de sésame       |
+| Sumac         | En bonne quantité                                         | Possible de prendre du Zaatar filtré des graines de sésame       |
+| Autres herbes | Quantité moindre                                          | Facultatif                                                       |
+| Sel           | 1% de la masse de la viande                               |                                                                  |
+| Oignon        | Au moins 2                                                |                                                                  |
+| Poivre        |                                                         |                                                                  |
+
+*** Instructions
+
+1. Couper les oignons en brunoise 
+2. Sécher les oignons dans un torchon ou de l'essuie tout
+3. Ajouter le sel et le poivre noir, puis le yaourt grec, puis corriger l'assaisonnement
+4. Ajouter le thym et le sumac.
+5. Couper la viande en fines tranches et récupérer la graisse d'agneau.
+6. Faire des /lasagnes/ en alternant chaque couche de viande avec une couche de marinade, puis congeler les lasagnes et la graisse d'agneau.
+7. Préparer le contenant de la viande de kebab (durum, pain), et les éventuels accompagnements (légumes, sauce...)
+8. Avant la cuisson, couper de fines tranches de /lasagnes/ de viande. Elles ne doivent pas être trop fines sous peine d'être sèches à la cuisson. *Attention lors de la découpe, couper un produit congelé est dangereux*. 
+#+NAME: Découpe de bloc de viande
+#+CAPTION: Découpe de lamelles de viande congelée
+[[file:/images/cooking/decoupe_bloc.png][file:/images/cooking/decoupe_bloc.png]]
+
+
+9. [@9] Dans une poêle, chauffer la graisse d'agneau.
+10. Faire revenir les tranches de viande coupées dans la poêle
+
+#+NAME: Cuisson de la viande à feu fort dans la poêle
+#+CAPTION: Découpe de lamelles de viande congelée, dans de la graisse d'agneau
+[[file:/images/cooking/cuisson_viande_kebab.png][file:/images/cooking/cuisson_viande_kebab.png]]
+
+11. [@11] Garnir votre kebab.
+
+#+NAME: Repli du durum 
+#+CAPTION: Repli du durum avant de passer à table
+[[file:/images/cooking/repli_durum.png][file:/images/cooking/repli_durum.png]]
+
+Bon appétit !
 ** NEXT Baguettes au levain :boulangerie:base:
 SCHEDULED: <2025-11-25 Tue>
 :properties:
@@ -766,42 +829,6 @@ SCHEDULED: <2025-11-25 Tue>
 [[/images/cooking/tortilla_cuisson.jpg][file:/images/cooking/tortilla_cuisson.jpg]]
 Bon appétit !
 
-** NEXT Viande de Kebab
-*** Infos
-| Quantité               | Préparation | Cuisson | Repos                     |
-|------------------------+-------------+---------+---------------------------|
-| un tup carré de viande |        0:10 |    0:05 | une nuit au congélateur |
-
-
-
-*** Ingrédients
-| Ingrédient    | Quantité                                                  | Remarques                                                        |
-|---------------+-----------------------------------------------------------+------------------------------------------------------------------|
-| Agneau        | Quantité égale au veau                                    | Privilégier partie tendre, avec un peu de graisse, e.g. poitrine |
-| Veau          | Quantité égale a l'agneau                                 | Privilégier partie tendre, avec un peu de graisse, e.g. gigot    |
-| Yaourt grec   | Suffisamment pour en mettre entre chaque couche de viande |                                                                  |
-| Thym          | En bonne quantité                                         | Possible de prendre du Zaatar filtré des graines de sésame       |
-| Sumac         | En bonne quantité                                         | Possible de prendre du Zaatar filtré des graines de sésame       |
-| Autres herbes | Quantité moindre                                          | Facultatif                                                       |
-| Sel           | 1% de la masse de la viande                               |                                                                  |
-| Oignon        | Au moins 2                                                |                                                                  |
-| Poivre        |                                                         |                                                                  |
-
-*** Instructions
-
-1. Couper les oignons en brunoise 
-2. Sécher les oignons dans un torchon ou de l'essuie tout
-3. Ajouter le sel et le poivre noir, puis le yaourt grec, puis corriger l'assaisonnement
-4. Ajouter le thym et le sumac.
-5. Couper la viande en fines tranches et récuperer la graisse d'agneau.
-6. Faire des /lasagnes/ en alternant chaque couche de viande avec une couche de marinade, puis congeler les lasagnes et la graisse d'agneau.
-7. Préparer le contenant de la viande de kebab (durum, pain), et les éventuels accompagnements (légumes, sauce...)
-8. Avant la cuisson, couper de fines tranches de /lasagnes/ de viande. Elles ne doivent pas être trop fines sous peine d'être sèches à la cuisson
-9. Dans une poêle, chauffer la graisse d'agneau.
-10. Faire revenir les tranches de viande coupées dans la poêle
-11. Garnir votre kebab.
-
-Bon appétit !
 ** TODO Moffles
 
 
