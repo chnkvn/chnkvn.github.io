@@ -81,8 +81,37 @@ Ce qui suit présente une liste de marques non alimentaires européennes non exh
 - [[https://www.manomano.fr/][Manomano]] (FR) :: Marketplace spécialisé dans le matériel de bricolage et jardinage
 - [[https://mail.proton.me/][Protonmail]] (CH) :: Client mail, possible de le coupler avec [[https://simplelogin.io/][SimpleLogin]] pour créer un nombre illimité d'alias.
 - [[https://www.conrad.fr/][Conrad]] (DE) :: Matériel électronique
+** TODO Everyday carry
+:Properties:
+:EXPORT_FILE_NAME: everyday-carry
+:END:
+*** Dans les poches 
+**** Porte-cartes
+**** Parapluie
+**** Un trousseau de clé
+**** Heroclip
+**** Des accus - une AAA et 2 AA avec 2 bouchons d'oreille 
+**** Un sac en tissu
+**** Un Opinel
+**** Consommables d'hydratation - crème et baume à lèvres
+**** Un petit flacon de gel hydro-alcoolique
+**** Un DAP et un casque audio
+**** Un malinphone
+*** Dans le sac
+**** Le laptop
+**** Une pharmacie
 ** TODO Quelques questions à se poser avant un achat 
 ** TODO Quelques outils numériques utiles
+:Properties:
+:EXPORT_FILE_NAME: outils-numeriques
+:END:
 Ce billet de blog présente quelques outils numériques que j'utilise au quotidien. 
-J'aborderai chaque logiciel ou service numérique utilisé sur mes divers appareils, un pc portable sous linux et un autre pc sous Mac OS. Deux outils seront mentionnées si un même logiciel n'est pas compatible sur les deux plateformes.  
-*** 
+J'aborderai chaque logiciel ou service numérique utilisé sur mes divers appareils, un pc portable sous Linux  (Linux Mint) et un autre pc sous Mac OS. Deux outils seront mentionnées si un même logiciel n'est pas compatible sur les deux plateformes.  
+*** App Launcher
+**** Alfred  - MacOS
+**** Albert - Linux
+*** Navigateur -  Librewolf 
+Parler des extensions 
+*** Lecteur multimédia - VLC
+*** Parsec
+*** Niveau suprême - Emacs
