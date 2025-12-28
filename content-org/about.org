@@ -3,7 +3,7 @@
 * DONE À propos de moi
 CLOSED: [2024-01-12 Fri 16:06]
 :PROPERTIES:
-:EXPORT_FILE_NAME: about-me
+:EXPORT_FILE_NAME: ../about
 :END:
 
 Toutes mes salutations les plus sincères, \\

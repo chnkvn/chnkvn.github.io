@@ -1,130 +1,52 @@
-baseURL = 'https://ckevin.fr'
-DefaultContentLanguage = "fr"
-title = 'C. Kevin'
-theme = 'PaperMod'
-[pagination]
-pagerSize = "5"
-# Syntax highlighting
-pygmentsStyle = "trac"
-pygmentsCodefences = true
-pygmentscodefencesguesssyntax = true
-[Params]
-  Title = "C. Kevin" # Set a different text for the header on the home page
-  showTags = true
-  keywords = ["Blog", "PaperMod"]
-  
-  #subtitle = "Billets de blog à propos de mes violons d'Ingres"
-  #mainSections = ["post","posts"]
-  
-  
-  dateFormat = "2 Jan 2006"
-  ShowReadingTime= true
-  ShowShareButtons= true
-  ShowPostNavLinks= true
-  ShowBreadCrumbs= true
-  ShowCodeCopyButtons= false
-  ShowWordCount= true
-  ShowRssButtonInSectionTermList= true  
-  # commit = false
-  # rss = true
-  # comments = true
-  # readingTime = true
-  # wordCount = true
-  # useHLJS = true
-  # socialShare = true
-  # delayDisqus = true
-  # showRelatedPosts = true
-  #hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-  disclaimerText = "Les expressions exprimées n'engagent strictement que moi et aucune autre personne pouvant avoir une relation avec moi."
-  rtl = false
-  
- 
- selfHosted = true
+baseURL = "https://ckevin.fr/"
+title = "C. Kevin"
+languageCode = "fr"
+hasCJKLanguage = false
+theme = "hugo-theme-monochrome"
+enable_toc = true
+enable_collapsible_toc = true # default: false
+[params]
+footer = "Copyright © 2025 by C.Kevin" # default: Non
+hide_navbar_on_scroll = true
+enable_math = true # default: false
+home = ["HTML", "RSS", "JSON"]
+enable_site_search = true # default: false
+author = "Kevin" # default: no author `meta` tag
+enable_twitter_cards = false # default: true
+color_scheme = "light" # "light" or "dark"
+
+  [param.syntax_highlight]
+  lib = "builtin" # "builtin" | "prism.js" (default: "builtin")
+    [param.syntax_highlight.builtin]
+    enable_code_copy = true # default: true
 
 
-[Params.author]
-  email = "blog@ckevin.fr" 
-  name = "Kevin"
-  github = "chnkvn"
-  linkedin = "chnkvn"
-  # paypal = "username"
-  #mastodon = "url"
-  #kaggle = "username"
-  #slack = "username"
-  #medium = "username"
-  #discord = "invite code (https://discord.gg/XXXXXXX)"
-  #strava = "userid"
-  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  #website = "mywebsite.com"
-
-[Params.assets]
-favicon = "img/favicon-32x32.png"
-favicon16x16= "img/favicon-16x16.png"
-favicon32x32= "img/favicon-32x32.png"
-
-[Params.label]
-text='C. Kevin ' 
-icon = "img/logo.png" # Expecting square dimensions
-
-[Params.homeInfoParams]
-  Title = "C. Kevin le blog"
-  Content = "Des billets de blog par-ci, par-là sur mes violons d'Ingres, sans prise de tête."
-
-[[Params.socialIcons]]
-name = 'github'
-url = "https://github.com/chnkvn" 
-
-[[Params.socialIcons]]
-name = 'discord'
-url = "https://discordapp.com/users/narsyt" 
-
-[[Params.socialIcons]]
-name = 'cv'
-url = "https://drive.proton.me/urls/A74YD3AKN0#PPY9o8i69DH9" 
-
-[[Params.socialIcons]]
-name = 'email'
-url = "mailto:blog@ckevin.fr" 
-
-[[Params.socialIcons]]
-name = 'buymeacoffee'
-url = "https://buymeacoffee.com/ckevin" 
-
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
 
 
-[markup.goldmark.renderer]
-  unsafe = true
+[[menu.navbar]]
+identifier = "about"
+name = "À propos de moi"
+title = "about"
+url = "/about/"
+weight = 5
 
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
 
+[[menu.navbar]]
+identifier = "categories"
+name = "Catégories"
+url = "/categories/"
+weight = 2
 
-# [[menu.main]]
-#     name = "Posts"
-#     weight = 1
-#     identifier = "posts"
-#     url = "/posts/"
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
-[[menu.main]]
-    name = "Catégories"
-    url = "categories/"
-    weight = 3
-[[menu.main]]
-    name = "Qui suis-je ?"
-    identifier = "about"
-    weight = 4
-    url = "/posts/about-me"
-[[menu.main]]
-    name = "Rechercher"
-    identifier = "Search"
-    weight = 5
-    url = "/search/"
+[[menu.navbar]]
+identifier = "tags"
+name = "Tags"
+title = "Tags"
+url = "/tags/"
+weight = 3
 
+[[menu.navbar]]
+identifier = "home"
+name = "Accueil"
+title = "Accueil"
+url = "/"
+weight = 1
