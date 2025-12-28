@@ -3,10 +3,14 @@ title = "C. Kevin"
 languageCode = "fr"
 hasCJKLanguage = false
 theme = "hugo-theme-monochrome"
-enable_toc = true
-enable_collapsible_toc = true # default: false
+enableEmoji = true
+enableGitInfo = true
+
+[pagination]
+pagerSize = 5
+
 [params]
-footer = "Copyright © 2025 by C.Kevin" # default: Non
+footer = "Copyright © 2024 - 2025 by C.Kevin" # default: Non
 hide_navbar_on_scroll = true
 enable_math = true # default: false
 home = ["HTML", "RSS", "JSON"]
@@ -14,12 +18,24 @@ enable_site_search = true # default: false
 author = "Kevin" # default: no author `meta` tag
 enable_twitter_cards = false # default: true
 color_scheme = "light" # "light" or "dark"
+enable_toc = true
+enable_collapsible_toc = true # default: false
+enable_header_anchor = true # default: true
+
+
+[ param.author]
+  name = "You-Kai Zheng"
+  homepage = "https://github.com/kaiiiz/"
+  email = "blog@ckevin.fr"
+
 
   [param.syntax_highlight]
   lib = "builtin" # "builtin" | "prism.js" (default: "builtin")
-    [param.syntax_highlight.builtin]
-    enable_code_copy = true # default: true
 
+  [params.list_layout]
+  enable_group_by_year = false # default: true
+  enable_show_date = false # default: true
+  enable_pagination = false # default: false
 
 
 
@@ -50,3 +66,15 @@ name = "Accueil"
 title = "Accueil"
 url = "/"
 weight = 1
+
+[goldmark.renderer]
+unsafe= true
+[module]
+
+  [[module.imports]]
+
+    path = 'github.com/hugomods/icons/vendors/bootstrap'
+
+  [[module.imports]]
+
+    path = 'github.com/hugomods/icons/vendors/font-awesome'
