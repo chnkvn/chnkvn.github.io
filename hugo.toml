@@ -101,3 +101,9 @@ tabWidth = 4
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+
+
