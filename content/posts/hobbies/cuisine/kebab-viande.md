@@ -4,6 +4,7 @@ author = ["Kevin"]
 date = 2025-11-26T15:36:00+01:00
 categories = ["Cuisine"]
 draft = false
+type = "postcard"
 +++
 
 <a id="figure--Viande de kebab"></a>

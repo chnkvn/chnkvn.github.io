@@ -3,7 +3,6 @@ title = "À propos de moi"
 author = ["Kevin"]
 date = 2024-01-12T16:06:00+01:00
 draft = false
-toc = false
 +++
 
 Toutes mes salutations les plus sincères, <br />
@@ -18,5 +17,10 @@ Je traiterai de manière irrégulière de pas mal de sujet (liste non exhaustive
 
 ## Contact {#contact}
 
-{{< icon vendor="feather" name="github" link="https://github.com/chnkvn" >}} 
+{{< icon vendor="feather" name="github" link="https://github.com/chnkvn" >}}
+
+
+
 {{< icon vendor="feather" name="mail" link="mailto:blog@ckevin.fr" >}}
+
+
