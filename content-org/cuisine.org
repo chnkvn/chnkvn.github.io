@@ -18,6 +18,10 @@ SCHEDULED: <2025-03-07 Fri> CLOSED: <2025-01-02 Thu>
 - State "DONE"       from              [2025-04-11 Fri 01:20]
 :END:
 
+Une petite pâte feuilletée (enfin 2) comme on les aime, rapide à faire, sans repos entre chaque tour. 
+Les miennes sont très souvent plus appréciées que la garniture qui l'accompagnent (alors que ça devrait être l'inverse), merci la magie du beurre.
+
+
 #+name: Pâte feuilletée étalée
 #+Caption: Pâte feuilletée étalée
 [[/images/cooking/pate feuilletee etalee.png][file:/images/cooking/pate_feuilletee_etalee.png]]
@@ -36,6 +40,7 @@ SCHEDULED: <2025-03-07 Fri> CLOSED: <2025-01-02 Thu>
 | Eau        | 100g   | Très froide                                       |
 | Sel         | 2g     |                                                |
 
+- Par flemme, c'est aussi faisable avec du beurre demi-sel, elle sera plus salée que la normale, dans ce cas ne pas ajouter de sel. 
 *** Instructions
 1. Dissoudre le sel dans l'eau
 2. Couper le beurre en mini cubes, le mélanger avec la farine. Le but est de légèrement aplatir les morceaux de beurre sans les faire fondre.
@@ -61,6 +66,9 @@ CLOSED: [2024-01-12 Fri 17:33]
 :Properties:
 :EXPORT_FILE_NAME: tortillas
 :END:
+
+
+Que vous voulez faire des wraps ou des durums, ces tortillas sont extrêmement faciles à faire et plutôt rapide à préparer, mais bien meilleures que celles trouvables en grande distribution. . 
 
 #+NAME: Tortillas maison
 #+caption: Tortillas maison
@@ -105,7 +113,7 @@ CLOSED: [2024-01-14 Sun 16:46]
 :PROPERTIES:
 :EXPORT_FILE_NAME: galette des rois
 :END:
-
+Faite avec 1 pâte feuilletée coupée en deux, et une frangipane sans oeufs elle est facile à faire, et à l'avantage d'être moins sèche que celles trouvées en grande distribution. 
 *** Infos
 
 | Quantité      | Préparation     | Repos | Cuisson |
@@ -117,7 +125,7 @@ CLOSED: [2024-01-14 Sun 16:46]
 | Pate feuilletée          | 1        | [[*Pate feuilletée rapide][Recette]]             |
 | Amande en poudre     | 150g    |                            |
 | Sucre                 | 80g     |                            |
-| Beurre                | 80g     | Ramolli                     |
+| Beurre                | 80g     | Ramolli, possible d'utiliser du beurre demi-sel pour un côté caramel au beurre salé |
 | Yaourt à la vanille       | 1        |                            |
 | Fleur d'oranger         | 1 cas    |                            |
 | Rhum, marsala         | Optionnel | Autres éléments d'aromatisation |
@@ -138,7 +146,7 @@ CLOSED: [2024-01-14 Sun 16:46]
 5. Saupoudrer un peu de farine sur les bords du même morceau de pâte feuilletée.
 6. Recouvrir la pâte feuilletée avec l'autre morceau de pâte feuilletée.
 7. Sceller les bords à l'aide d'une fourchette.
-8. Réaliser la dorure avec le sirop de sucre de canne à l'aide d'un pinceau.
+8. Réaliser la première couche de dorure avec le sirop de sucre de canne à l'aide d'un pinceau.
 9. Grigner et faire quelques trous sur la pâte du dessus.
 10. Enfourner pendant 35 min. N'hésitez pas à laisser plus longtemps si vous estimez que ce n'est pas assez cuit.
 11. Réappliquer une couche de dorure et laisser refroidir.
@@ -152,6 +160,8 @@ CLOSED: [2024-01-29 Mon 23:13]
 :LOGBOOK:
 - State "DONE"       from "DONE"       [2025-11-25 Tue 21:42]
 :END:
+
+Le produit de cette recette suit le théorème du premier jour : La moitié de la brioche sera consommée directement après cuisson et refroidissement. 
 
 #+NAME: Brioche
 #+CAPTION: Une belle brioche sans oeufs faite maison
@@ -208,6 +218,7 @@ CLOSED: [2025-04-11 Fri 01:28]
 - State "DONE"       from "DONE"       [2025-04-11 Fri 01:27]
 - State "DONE"       from "DONE"       [2025-04-11 Fri 01:27]
 :END:
+Une recette de cookies sans oeufs rapide à exécuter, qui respire le beurre et la tuerie gustative. Parfait pour le goûter ou le petit dej. 
 #+NAME: Plein de cookies
 #+CAPTION: Un set de cookies pour un bon en-cas
 [[/images/cooking/cookie_full.png]]
@@ -253,6 +264,8 @@ CLOSED: [2025-04-21 Mon 16:47]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2025-04-21 Mon 16:47]
 :END:
+
+Un flan sans oeufs, à base de lait et de fécule de maïs, simple à faire, et excellente avec la pâte feuilletée qui l'accompagne.
 
 #+NAME: Flan maison sans oeufs
 #+CAPTION: Flan maison sans oeuf, avec du sucre de canne roux
@@ -310,6 +323,9 @@ CLOSED: [2025-04-27 Sun 19:19]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2025-04-27 Sun 19:19]
 :END:
+
+Du lait, de la farine et du beurre, et ça fait des trous. Y'a pas plus simple. Parfait pour le goûter ou vos plats salés. 
+
 
 #+NAME: Un batch de crêpes sans oeufs
 #+Caption: Crêpes après cuisson
@@ -535,6 +551,8 @@ CLOSED: [2025-06-14 Sat 22:21]
 - State "DONE"       from "TODO"       [2025-06-14 Sat 22:21]
 :END:
 
+Une petite trempette pour accompagner vos wraps ou vos frites. N'hésitez pas à faire vos propres ajustements pour qu'elle soit totalement à votre goût !
+
 #+NAME: Sauce barbecue maison
 #+caption: Sauce barbecue maison
 [[/images/cooking/sauce_bbq_mixee.jpg][file:/images/cooking/sauce_bbq_mixee.jpg]]
@@ -591,6 +609,7 @@ CLOSED: [2025-10-19 Sun 16:19]
 - State "DONE"       from              [2025-10-19 Sun 16:19]
 :END:
 
+Des galettes de pommes de terre maison, facile à faire et appétissantes, qui changent des patates préparées de manière plus classique.
 *** Infos
 
 | Quantité | Préparation | Repos | Cuisson |
@@ -632,6 +651,9 @@ CLOSED: [2025-10-19 Sun 17:48]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2025-10-19 Sun 17:48]
 :END:
+
+Le produit de cette recette suit le théorème du premier jour : La moitié du pain de mie sera consommé directement après cuisson et refroidissement. 
+Plus compacte qu'une brioche, elle sera parfait pour votre petit dej ou vos grilled cheese.
 #+NAME: Pain de mie au levain
 #+CAPTION: Pain de mie au levain, vue interne et externe
 [[file:/images/cooking/pain_de_mie.jpg][file:/images/cooking/pain_de_mie.jpg]]
@@ -679,6 +701,7 @@ CLOSED: [2025-11-26 Wed 11:10]
 - State "DONE"       from "NEXT"       [2025-11-26 Wed 11:10]
 :END:
 
+Une recette de gaufres rapide à préparer, un peu moins à cuire. Le plus dur sera d'en laisser à la fin, mais surtout ne laissez pas la faim rester ! 
 #+NAME: Gaufres sans oeufs
 #+CAPTION: Gaufres sans oeufs, faites au gaufrier
 [[file:/images/cooking/gaufres.png][file:/images/cooking/gaufres.png]]
@@ -716,7 +739,7 @@ CLOSED: [2025-11-26 Wed 11:10]
 
 Bon appétit !
 
-** DONE Viande de Kebab
+** DONE Viande de Kebab :plat:
 CLOSED: [2025-11-26 Wed 15:36]
 :properties:
 :EXPORT_FILE_NAME: kebab-viande
@@ -724,6 +747,8 @@ CLOSED: [2025-11-26 Wed 15:36]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2025-11-26 Wed 15:36]
 :END:
+
+Une recette de viande de kebab qui change de l'ordinaire, mais qui est très bonne. Je ne recommande toutefois pas cette recette, car elle est assez complexe (couper du surgelé, potentiel stockage au congélateur).
 
 #+NAME: Viande de kebab
 #+CAPTION: Viande de kebab sur une tortilla
@@ -779,9 +804,9 @@ CLOSED: [2025-11-26 Wed 15:36]
 [[file:/images/cooking/repli_durum.png][file:/images/cooking/repli_durum.png]]
 
 Bon appétit !
-** TODO Bûche pâtissière
+** NEXT Bûche pâtissière
 :properties:
-:EXPORT_FILE_NAME:  baguette-levain
+:EXPORT_FILE_NAME:  buche-patissiere
 :end:
 #+NAME: Baguettes au levain
 #+caption: Baguettes au levain
@@ -855,7 +880,7 @@ SCHEDULED: <2025-11-25 Tue>
 |------------+----------+--------------------------------------------------------------------------------|
 | Farine T65 | 360g    | Je fais personnellement des traditions, j'utilise donc des farines Label Rouge |
 | Eau        | 250g     |                                                                                |
-| Levain     | 70g      |                                                                                |
+| Levain     | 70g      |  Rafraîchi, aux alentours de 70% d'hydratation. Ne pas hésiter à conserver un petit bout de pâte en temps que source de levain pour la prochaine fournée |
 | Sel        | 7g |                                                                                |
 - Taux d'hydratation : 72 %
 *** Instructions
