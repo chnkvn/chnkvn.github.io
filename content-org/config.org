@@ -34,3 +34,6 @@ Petit blog personnel où je partage surtout des recettes de cuisine, quelques r�
 
 
 
+#+begin_comment
+retirer signes verbose fichier généré 
+#+end_comment
