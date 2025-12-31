@@ -7,6 +7,8 @@ categories = ["Cuisine"]
 draft = false
 +++
 
+Un flan sans oeufs, à base de lait et de fécule de maïs, simple à faire, et excellente avec la pâte feuilletée qui l'accompagne.
+
 <a id="figure--Flan maison sans oeufs"></a>
 
 {{< figure src="/images/cooking/flan_maison_entier.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Flan maison sans oeuf, avec du sucre de canne roux" link="/images/cooking/flan_maison_entier.png" >}}

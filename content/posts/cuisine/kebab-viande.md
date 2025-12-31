@@ -2,10 +2,12 @@
 title = "Viande de Kebab"
 author = ["Kevin"]
 date = 2025-11-26T15:36:00+01:00
+tags = ["plat"]
 categories = ["Cuisine"]
 draft = false
-type = "postcard"
 +++
+
+Une recette de viande de kebab qui change de l'ordinaire, mais qui est très bonne. Je ne recommande toutefois pas cette recette, car elle est assez complexe (couper du surgelé, potentiel stockage au congélateur).
 
 <a id="figure--Viande de kebab"></a>
 

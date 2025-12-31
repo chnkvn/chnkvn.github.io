@@ -7,9 +7,7 @@ categories = ["Cuisine"]
 draft = false
 +++
 
-<a id="figure--Un batch de crêpes sans oeufs"></a>
-
-{{< figure src="/images/cooking/crepes_full.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Crêpes après cuisson" link="/images/cooking/crepes_full.png" >}}
+Du lait, de la farine et du beurre, et ça fait des trous. Y'a pas plus simple. Parfait pour le goûter ou vos plats salés.
 
 
 ## Infos {#infos}
@@ -44,26 +42,26 @@ De manière générale, retenir les ratios suivant :
 
 <a id="figure--Température de la crêpière avant huilage"></a>
 
-{{< figure src="/images/cooking/crepe_chauffe_avant_huile.jpg" caption="<span class=\"figure-number\">Figure&nbsp;2&nbsp;: </span>Crêpière en acier carbone, 180°C, on peut huiler !" link="/images/cooking/crepe_chauffe_avant_huile.jpg" >}}
+{{< figure src="/images/cooking/crepe_chauffe_avant_huile.jpg" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Crêpière en acier carbone, 180°C, on peut huiler !" link="/images/cooking/crepe_chauffe_avant_huile.jpg" >}}
 
 7.  Huiler la crêpière avec un morceau de sopalin ou un pinceau. Attendre la montée en température si votre crêpière supporte les hautes températures (~240°C)
 
 <a id="figure--Température de la crêpière après huilage"></a>
 
-{{< figure src="/images/cooking/crepe_chauffe_apres_huile.jpg" caption="<span class=\"figure-number\">Figure&nbsp;3&nbsp;: </span>Crêpière en acier carbone, 250°C, on peut verser une louche de pâte à crêpes" link="/images/cooking/crepe_chauffe_apres_huile.jpg" >}}
+{{< figure src="/images/cooking/crepe_chauffe_apres_huile.jpg" caption="<span class=\"figure-number\">Figure&nbsp;2&nbsp;: </span>Crêpière en acier carbone, 250°C, on peut verser une louche de pâte à crêpes" link="/images/cooking/crepe_chauffe_apres_huile.jpg" >}}
 
 8.  Verser une louche de pâte à crêpes.
 9.  Retourner la crêpe une fois que les bords de la crêpe ont doré et laisser cuire entre 15 et 30 secondes.
 
 <a id="figure--Crêpe face recto, prête à être retournée"></a>
 
-{{< figure src="/images/cooking/crepe_recto.jpg" caption="<span class=\"figure-number\">Figure&nbsp;4&nbsp;: </span>La crêpe fait des bulles, les bords sont dorés, on peut la retourner !" link="/images/cooking/crepe_recto.jpg" >}}
+{{< figure src="/images/cooking/crepe_recto.jpg" caption="<span class=\"figure-number\">Figure&nbsp;3&nbsp;: </span>La crêpe fait des bulles, les bords sont dorés, on peut la retourner !" link="/images/cooking/crepe_recto.jpg" >}}
 
 10. Réserver la crêpe dans une boîte ou une assiette et couvrir les crêpes.
 
 <a id="figure--Crêpe face verso, prête à être réservée"></a>
 
-{{< figure src="/images/cooking/crepe_verso.jpg" caption="<span class=\"figure-number\">Figure&nbsp;5&nbsp;: </span>Après une poignée de secondes, on peut réserver la crêpe, et passer à la suivante." link="/images/cooking/crepe_verso.jpg" >}}
+{{< figure src="/images/cooking/crepe_verso.jpg" caption="<span class=\"figure-number\">Figure&nbsp;4&nbsp;: </span>Après une poignée de secondes, on peut réserver la crêpe, et passer à la suivante." link="/images/cooking/crepe_verso.jpg" >}}
 
 11. Répéter les étapes 8 à 10 jusqu'à épuisement de la pâte. Si besoin, huiler la crêpière ; je n'ai personnellement pas besoin de le faire avec ma crêpière, peu importe la quantité cuisinée.
 12. Vous pouvez garnir vos crêpes pour les manger.

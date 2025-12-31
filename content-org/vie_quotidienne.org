@@ -5,7 +5,7 @@
 
 * VieQuotidienne
 :properties:
-:EXPORT_HUGO_SECTION: posts/hobbies/vie-quotidienne
+:EXPORT_HUGO_SECTION: posts/vie-quotidienne
 :EXPORT_HUGO_CATEGORIES: VieQuotidienne
 :end:
 ** DONE Pourquoi insiste-on sur la réduction des émissions de CO2 ? :ecologie:consommation:

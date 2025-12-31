@@ -7,6 +7,8 @@ categories = ["Cuisine"]
 draft = false
 +++
 
+Une recette de cookies sans oeufs rapide à exécuter, qui respire le beurre et la tuerie gustative. Parfait pour le goûter ou le petit dej.
+
 <a id="figure--Plein de cookies"></a>
 
 {{< figure src="/images/cooking/cookie_full.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Un set de cookies pour un bon en-cas" >}}

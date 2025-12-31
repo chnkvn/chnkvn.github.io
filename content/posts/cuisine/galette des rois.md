@@ -7,6 +7,9 @@ categories = ["Cuisine"]
 draft = false
 +++
 
+Faite avec 1 pâte feuilletée coupée en deux, et une frangipane sans oeufs elle est facile à faire, et à l'avantage d'être moins sèche que celles trouvées en grande distribution.
+
+
 ## Infos {#infos}
 
 | Quantité      | Préparation   | Repos | Cuisson   |
@@ -16,16 +19,16 @@ draft = false
 
 ## Ingrédients {#ingrédients}
 
-| Ingrédient              | Quantité  | Remarques                                          |
-|-------------------------|-----------|----------------------------------------------------|
-| Pate feuilletée         | 1         | [Recette]({{< relref "pate-feuilletee-rapide" >}}) |
-| Amande en poudre        | 150g      |                                                    |
-| Sucre                   | 80g       |                                                    |
-| Beurre                  | 80g       | Ramolli                                            |
-| Yaourt à la vanille     | 1         |                                                    |
-| Fleur d'oranger         | 1 cas     |                                                    |
-| Rhum, marsala           | Optionnel | Autres éléments d'aromatisation                    |
-| Sirop de sucre de canne |           | Pour la dorure                                     |
+| Ingrédient              | Quantité  | Remarques                                                                           |
+|-------------------------|-----------|-------------------------------------------------------------------------------------|
+| Pate feuilletée         | 1         | [Recette]({{< relref "pate-feuilletee-rapide" >}})                                  |
+| Amande en poudre        | 150g      |                                                                                     |
+| Sucre                   | 80g       |                                                                                     |
+| Beurre                  | 80g       | Ramolli, possible d'utiliser du beurre demi-sel pour un côté caramel au beurre salé |
+| Yaourt à la vanille     | 1         |                                                                                     |
+| Fleur d'oranger         | 1 cas     |                                                                                     |
+| Rhum, marsala           | Optionnel | Autres éléments d'aromatisation                                                     |
+| Sirop de sucre de canne |           | Pour la dorure                                                                      |
 
 
 ## Instructions {#instructions}
@@ -49,7 +52,7 @@ draft = false
 5.  Saupoudrer un peu de farine sur les bords du même morceau de pâte feuilletée.
 6.  Recouvrir la pâte feuilletée avec l'autre morceau de pâte feuilletée.
 7.  Sceller les bords à l'aide d'une fourchette.
-8.  Réaliser la dorure avec le sirop de sucre de canne à l'aide d'un pinceau.
+8.  Réaliser la première couche de dorure avec le sirop de sucre de canne à l'aide d'un pinceau.
 9.  Grigner et faire quelques trous sur la pâte du dessus.
 10. Enfourner pendant 35 min. N'hésitez pas à laisser plus longtemps si vous estimez que ce n'est pas assez cuit.
 11. Réappliquer une couche de dorure et laisser refroidir.

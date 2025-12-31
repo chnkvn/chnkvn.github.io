@@ -7,6 +7,8 @@ categories = ["Cuisine"]
 draft = false
 +++
 
+Que vous voulez faire des wraps ou des durums, ces tortillas sont extrêmement faciles à faire et plutôt rapide à préparer, mais bien meilleures que celles trouvables en grande distribution. .
+
 <a id="figure--Tortillas maison"></a>
 
 {{< figure src="/images/cooking/tortillas.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Tortillas maison" link="/images/cooking/tortillas.png" >}}
@@ -45,7 +47,7 @@ draft = false
 7.  Fleurer le plan de travail. Étaler vos boules de pâte.
 8.  Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.<br />
 
-<a id="org555d176"></a>
+<a id="org86a6c0b"></a>
 
 [![](/images/cooking/tortilla_cuisson.jpg)](/images/cooking/tortilla_cuisson.jpg)
 Bon appétit !

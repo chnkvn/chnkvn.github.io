@@ -3,7 +3,7 @@
 
 * Moula
 :properties:
-:EXPORT_HUGO_SECTION: posts/hobbies/pognon
+:EXPORT_HUGO_SECTION: posts/pognon
 :EXPORT_HUGO_CATEGORIES: pognon 
 :end:
 

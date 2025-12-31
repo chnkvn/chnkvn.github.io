@@ -7,6 +7,9 @@ categories = ["Cuisine"]
 draft = false
 +++
 
+Le produit de cette recette suit le théorème du premier jour : La moitié du pain de mie sera consommé directement après cuisson et refroidissement.
+Plus compacte qu'une brioche, elle sera parfait pour votre petit dej ou vos grilled cheese.
+
 <a id="figure--Pain de mie au levain"></a>
 
 {{< figure src="/images/cooking/pain_de_mie.jpg" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Pain de mie au levain, vue interne et externe" link="/images/cooking/pain_de_mie.jpg" >}}

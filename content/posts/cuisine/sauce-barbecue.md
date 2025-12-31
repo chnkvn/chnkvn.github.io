@@ -7,6 +7,8 @@ categories = ["Cuisine"]
 draft = false
 +++
 
+Une petite trempette pour accompagner vos wraps ou vos frites. N'hésitez pas à faire vos propres ajustements pour qu'elle soit totalement à votre goût !
+
 <a id="figure--Sauce barbecue maison"></a>
 
 {{< figure src="/images/cooking/sauce_bbq_mixee.jpg" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Sauce barbecue maison" link="/images/cooking/sauce_bbq_mixee.jpg" >}}

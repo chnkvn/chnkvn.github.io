@@ -7,6 +7,9 @@ categories = ["Cuisine"]
 draft = false
 +++
 
+Des galettes de pommes de terre maison, facile à faire et appétissantes, qui changent des patates préparées de manière plus classique.
+
+
 ## Infos {#infos}
 
 | Quantité | Préparation | Repos | Cuisson |

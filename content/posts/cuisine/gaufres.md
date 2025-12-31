@@ -7,6 +7,8 @@ categories = ["Cuisine"]
 draft = false
 +++
 
+Une recette de gaufres rapide à préparer, un peu moins à cuire. Le plus dur sera d'en laisser à la fin, mais surtout ne laissez pas la faim rester !
+
 <a id="figure--Gaufres sans oeufs"></a>
 
 {{< figure src="/images/cooking/gaufres.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Gaufres sans oeufs, faites au gaufrier" link="/images/cooking/gaufres.png" >}}

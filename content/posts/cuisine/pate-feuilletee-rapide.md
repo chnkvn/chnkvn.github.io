@@ -8,6 +8,9 @@ categories = ["Cuisine"]
 draft = false
 +++
 
+Une petite pâte feuilletée (enfin 2) comme on les aime, rapide à faire, sans repos entre chaque tour.
+Les miennes sont très souvent plus appréciées que la garniture qui l'accompagnent (alors que ça devrait être l'inverse), merci la magie du beurre.
+
 <a id="figure--Pâte feuilletée étalée"></a>
 
 {{< figure src="/images/cooking/pate_feuilletee_etalee.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Pâte feuilletée étalée" link="/images/cooking/pate feuilletee etalee.png" >}}
@@ -28,6 +31,8 @@ draft = false
 | Beurre doux | 220g     | Très froid, idéalement de tourage ou plus de 80% de MG |
 | Eau         | 100g     | Très froide                                            |
 | Sel         | 2g       |                                                        |
+
+-   Par flemme, c'est aussi faisable avec du beurre demi-sel, elle sera plus salée que la normale, dans ce cas ne pas ajouter de sel.
 
 
 ## Instructions {#instructions}

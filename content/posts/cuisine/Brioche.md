@@ -7,6 +7,8 @@ categories = ["Cuisine"]
 draft = false
 +++
 
+Le produit de cette recette suit le théorème du premier jour : La moitié de la brioche sera consommée directement après cuisson et refroidissement.
+
 <a id="figure--Brioche"></a>
 
 {{< figure src="/images/cooking/brioche.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Une belle brioche sans oeufs faite maison" >}}

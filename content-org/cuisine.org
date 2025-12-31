@@ -5,7 +5,7 @@
 
 * Cuisine
 :properties:
-:EXPORT_HUGO_SECTION: posts/hobbies/cuisine
+:EXPORT_HUGO_SECTION: posts/cuisine
 :EXPORT_HUGO_CATEGORIES: Cuisine
 :end:
 
