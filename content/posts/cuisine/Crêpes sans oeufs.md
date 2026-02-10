@@ -16,6 +16,8 @@ Du lait, de la farine et du beurre, et ça fait des trous. Y'a pas plus simple. 
 |------------|-------------|---------|-----------|
 | 7-8 Crêpes | 0:05        | 0:10    | 0:30 mini |
 
+-   NB : Bien que possédant des plaques à induction, je préfère passer sur un réchaud/plaques gaz pour faire mes crêpes, pour éviter une surchauffe de la plaque lors de la cuisson prolongée.
+
 
 ## Ingrédients {#ingrédients}
 
