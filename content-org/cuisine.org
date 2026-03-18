@@ -804,6 +804,10 @@ Une recette de viande de kebab qui change de l'ordinaire, mais qui est très bon
 [[file:/images/cooking/repli_durum.png][file:/images/cooking/repli_durum.png]]
 
 Bon appétit !
+** TODO Cuisson basse-température
+:properties:
+:EXPORT_FILE_NAME: cuisson-basse-temperature
+:end:
 ** NEXT Bûche pâtissière
 :properties:
 :EXPORT_FILE_NAME:  buche-patissiere
@@ -949,8 +953,9 @@ Bon appétit !
 
 Bon appétit !
 
-** Substituts oeufs testés 
+** TODO Substituts oeufs testés 
 | Substitut | Dosage | Exemples |
 |-----------+--------+----------|
 | Yaourt    |        |          |
 | Compote de pommes |        |          |
+
