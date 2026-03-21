@@ -12,12 +12,11 @@ enable_header_anchor = true
 pagerSize = 7
 
 [params]
-footer = "Copyright © 2024 - 2025 by C.Kevin" # default: Non
+footer = "Copyright © 2024 - 2025 by C.Kevin \n test" # default: Non
 hide_navbar_on_scroll = true
 enable_math = true # default: false
 home = ["HTML", "RSS", "JSON"]
 enable_site_search = true # default: false
-author = "Kevin" # default: no author `meta` tag
 enable_twitter_cards = false # default: true
 color_scheme = "light" # "light" or "dark"
 enable_toc = true
@@ -25,7 +24,7 @@ enable_collapsible_toc = true # default: false
 enable_header_anchor = true # default: true
 dateFormat = "2 Jan 2006"
 
-[ param.author]
+[params.author]
   name = "Kevin"
   email = "blog@ckevin.fr"
 
