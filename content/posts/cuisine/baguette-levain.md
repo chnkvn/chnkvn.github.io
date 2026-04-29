@@ -1,15 +1,13 @@
 +++
 title = "Baguettes au levain"
 author = ["Kevin"]
-publishDate = 2025-11-25T00:00:00+01:00
+date = 2026-04-29T23:40:00+02:00
 tags = ["boulangerie", "base"]
 categories = ["Cuisine"]
-draft = true
+draft = false
 +++
 
-<a id="figure--Baguettes au levain"></a>
-
-{{< figure src="/images/cooking/tortillas.png" caption="<span class=\"figure-number\">Figure&nbsp;1&nbsp;: </span>Baguettes au levain" link="/images/cooking/tortillas.png" >}}
+Photos à venir
 
 
 ## Infos {#infos}
@@ -20,16 +18,17 @@ draft = true
 
 -   Pas besoin de rester 6h devant, seulement 30 secondes par heure après pétrissage
 -   Inspiré de la vidéo de [Tom Cooks](https://youtu.be/p0rXjjgJO1w).
+-   L'usage d'un moule à baguettes est fortement recommandé
 
 
 ## Ingrédients {#ingrédients}
 
-| Ingrédient | Quantité | Remarques                                                                      |
-|------------|----------|--------------------------------------------------------------------------------|
-| Farine T65 | 360g     | Je fais personnellement des traditions, j'utilise donc des farines Label Rouge |
-| Eau        | 250g     |                                                                                |
-| Levain     | 70g      |                                                                                |
-| Sel        | 7g       |                                                                                |
+| Ingrédient | Quantité | Remarques                                                                                                                                               |
+|------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Farine T65 | 360g     | Je fais personnellement des traditions, j'utilise donc des farines Label Rouge                                                                          |
+| Eau        | 250g     |                                                                                                                                                         |
+| Levain     | 70g      | Rafraîchi, aux alentours de 70% d'hydratation. Ne pas hésiter à conserver un petit bout de pâte en temps que source de levain pour la prochaine fournée |
+| Sel        | 7g       |                                                                                                                                                         |
 
 -   Taux d'hydratation : 72 %
 
@@ -51,11 +50,4 @@ draft = true
 11. Surveiller la coloration de la baguette, et sortir du four quand la coloration vous semble bonne.
 12. Réserver sur une grille.
 
-<a id="figure--Boules de tortillas"></a>
-
-{{< figure src="/images/cooking/tortilla_boules.jpg" caption="<span class=\"figure-number\">Figure&nbsp;2&nbsp;: </span>Boules de tortillas à laisser reposer puis étaler" link="/images/cooking/tortilla_boules.jpg" >}}
-
-<a id="orge54888a"></a>
-
-[![](/images/cooking/tortilla_cuisson.jpg)](/images/cooking/tortilla_cuisson.jpg)
 Bon appétit !

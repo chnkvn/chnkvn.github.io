@@ -804,6 +804,119 @@ Une recette de viande de kebab qui change de l'ordinaire, mais qui est très bon
 [[file:/images/cooking/repli_durum.png][file:/images/cooking/repli_durum.png]]
 
 Bon appétit !
+** DONE Baguettes au levain :boulangerie:base:
+CLOSED: [2026-04-29 Wed 23:40] 
+:properties:
+:EXPORT_FILE_NAME:  baguette-levain
+:end:
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2026-04-29 Wed 23:40]
+:END:
+
+
+Photos à venir
+*** Infos
+
+| Quantité    | Préparation | Repos    | Cuisson | 
+|-------------+-------------+----------+---------|
+| 2 baguettes |        6:05 | Une nuit |    0:22 |
+
+- Pas besoin de rester 6h devant, seulement 30 secondes par heure après pétrissage
+- Inspiré de la vidéo de [[https://youtu.be/p0rXjjgJO1w][Tom Cooks]].
+- L'usage d'un moule à baguettes est fortement recommandé
+*** Ingrédients
+| Ingrédient | Quantité | Remarques                                                                      |
+|------------+----------+--------------------------------------------------------------------------------|
+| Farine T65 | 360g    | Je fais personnellement des traditions, j'utilise donc des farines Label Rouge |
+| Eau        | 250g     |                                                                                |
+| Levain     | 70g      |  Rafraîchi, aux alentours de 70% d'hydratation. Ne pas hésiter à conserver un petit bout de pâte en temps que source de levain pour la prochaine fournée |
+| Sel        | 7g |                                                                                |
+- Taux d'hydratation : 72 %
+*** Instructions
+1. Après avoir rafraîchi le levain, mélanger dans un récipient la farine, l'eau, le levain, le sel, jusqu'à obtention d'une pâte homogène.
+2. Répéter 4 fois : 
+   + Couvrir et laisser reposer 1 heure à TA
+   + Faire 4 rabats : Tirer la pâte d'un côté pour la ramener par dessus l'autre côté : cela donnera de la force à la pâte, puis pivoter le récipient de 45°. 
+3. Laisser reposer 2 heures à TA, en couvrant le récipient.
+4. Fariner un récipient long et le pâton, et mettre le pâton dans le récipient fariné.
+5. Couvrir et réserver au moins une nuit au réfrigérateur.
+6. Préchauffer le four à 240°C, avec un petit ramequin qui supporte les hautes températures à l'intérieur. Sortir le pâton.
+7. Sur un plan de travail fariné, démouler le pâton, le couper en deux dans le sens longitudinal.
+8. Étirer chaque pâton de baguette pour leur donner la forme de baguette.
+9. Juste avant d'enfourner, faire des entailles sur le dessus de la baguette avec un couteau aiguisé. On appelle cette action *grigner*, et ça permettra à la baguette de gonfler lors de la cuisson. 
+10. Enfourner entre 20 et 25 minutes, et mettre de l'eau dans le ramequin, dans le but de faire de la vapeur pour favoriser les réactions de Maillard et obtenir une belle croûte.
+11. Surveiller la coloration de la baguette, et sortir du four quand la coloration vous semble bonne.
+12. Réserver sur une grille.
+
+Bon appétit !
+** DONE Brownie sans gluten :patisserie:
+CLOSED: [2026-04-29 Wed 23:37]
+:Properties:
+:EXPORT_FILE_NAME: brownie
+:END:
+:LOGBOOK:
+- State "DONE"       from              [2026-04-29 Wed 23:37]
+:END:
+
+Photos à venir. 
+
+*** Infos
+
+| Quantité | Préparation | Cuisson |
+|----------+-------------+---------|
+| 6 personnes |        0:10 |    0:20 |
+
+
+*** Ingrédients
+
+| Ingrédient              | Quantité | Remarques                                    |
+|-------------------------+----------+----------------------------------------------|
+| Chocolat noir pâtissier | 200g     |                                              |
+| Beurre demi-sel         | 50g      | Possible d'utiliser de la margarine          |
+| Lait                    | 180g     | Possible d'utiliser une alternative végétale |
+| Sucre                   | 90g      |                                              |
+| Poudre d'amande         | 100g     |                                              |
+| Fécule                  | 50g      | E.g. Maïzena                                 |
+| Cacao en poudre         | 10g      |                                              |
+| Autres fruits secs      | 100g     | J'utilise principalement de la noisette   |
+*** Instructions
+1. Préchauffer le four à 180°C
+2. Fondre le chocolat, le beurre et le lait et mélanger
+3. Mélanger les poudres ensemble
+4. Concasser les fruits secs
+5. Mélanger tous les ingrédients ensemble, puis transvaser dans un moule recouvert de papier sulfurisé
+6. Enfourner 25 minutes
+7. Laisser refroidir à température ambiante avant de démouler et de couper pour que le brownie se raffermisse. 
+
+Bon appétit ! 
+** TODO Pains pita maison :boulangerie:base:
+:properties:
+:EXPORT_FILE_NAME: pains pita
+:end:
+*** Infos
+| Quantité    | Préparation | Repos    | Cuisson |
+|-------------+-------------+----------+---------|
+| 6 pitas |        0:25 | 1:40 |    0:20 |
+*** Ingrédients
+
+| Ingrédient    | Quantité | Remarques     |
+|---------------+----------+---------------|
+| Farine T65    | 360g     |               |
+| Eau           | 240g     | Tiède, < 43°C |
+| Sucre         | 13g      |               |
+| Levure        | 7g       |               |
+| Sel           | 3g       |               |
+| Huile d'olive | 15mL    |               |
+*** Instructions
+- Mélanger 70g de farine, l'eau, l'huile, la levure le sel et le sucre
+- Ajouter le restant de farine petit à petit et pétrir 10 minutes
+- Faire une boule avec la pâte, couvrir et laisser reposer 1 heure
+- Faire 6 boules avec la pâte, couvrir et laisser reposer 10 minutes
+- Préchauffer le four à 260°C avec une pierre à pizza dedans. Si vous n'avez pas de pierre à pizza, vous pourrez cuire les pitas à la poêle à très haute température
+- Étaler chaque boule , fariner et laisser reposer 30 minutes sous un torchon humide
+- Cuire les pitas jusqu'à ce qu'elles gonflent et brunissent légèrement sur les côtés, soit à peu près 3 minutes. Si vous cuisez les pitas à la poêle, n'hésitez pas à retourner la pita à mi-cuisson.
+
+
 ** TODO Cuisson basse-température
 :properties:
 :EXPORT_FILE_NAME: cuisson-basse-temperature
@@ -862,66 +975,8 @@ Bon appétit !
 #+caption: Cuisson d'une tortilla à la poêle
 [[/images/cooking/tortilla_cuisson.jpg][file:/images/cooking/tortilla_cuisson.jpg]]
 Bon appétit !
-** NEXT Baguettes au levain :boulangerie:base:
-SCHEDULED: <2025-11-25 Tue>
-:properties:
-:EXPORT_FILE_NAME:  baguette-levain
-:end:
-#+NAME: Baguettes au levain
-#+caption: Baguettes au levain
-[[/images/cooking/tortillas.png][file:/images/cooking/tortillas.png]]
-
-*** Infos
-
-| Quantité    | Préparation | Repos    | Cuisson |
-|-------------+-------------+----------+---------|
-| 2 baguettes |        6:05 | Une nuit |    0:22 |
-
-- Pas besoin de rester 6h devant, seulement 30 secondes par heure après pétrissage
-- Inspiré de la vidéo de [[https://youtu.be/p0rXjjgJO1w][Tom Cooks]].
-*** Ingrédients
-| Ingrédient | Quantité | Remarques                                                                      |
-|------------+----------+--------------------------------------------------------------------------------|
-| Farine T65 | 360g    | Je fais personnellement des traditions, j'utilise donc des farines Label Rouge |
-| Eau        | 250g     |                                                                                |
-| Levain     | 70g      |  Rafraîchi, aux alentours de 70% d'hydratation. Ne pas hésiter à conserver un petit bout de pâte en temps que source de levain pour la prochaine fournée |
-| Sel        | 7g |                                                                                |
-- Taux d'hydratation : 72 %
-*** Instructions
-1. Après avoir rafraîchi le levain, mélanger dans un récipient la farine, l'eau, le levain, le sel, jusqu'à obtention d'une pâte homogène.
-2. Répéter 4 fois : 
-   + Couvrir et laisser reposer 1 heure à TA
-   + Faire 4 rabats : Tirer la pâte d'un côté pour la ramener par dessus l'autre côté : cela donnera de la force à la pâte, puis pivoter le récipient de 45°. 
-3. Laisser reposer 2 heures à TA, en couvrant le récipient.
-4. Fariner un récipient long et le pâton, et mettre le pâton dans le récipient fariné.
-5. Couvrir et réserver au moins une nuit au réfrigérateur.
-6. Préchauffer le four à 240°C, avec un petit ramequin qui supporte les hautes températures à l'intérieur. Sortir le pâton.
-7. Sur un plan de travail fariné, démouler le pâton, le couper en deux dans le sens longitudinal.
-8. Étirer chaque pâton de baguette pour leur donner la forme de baguette.
-9. Juste avant d'enfourner, faire des entailles sur le dessus de la baguette avec un couteau aiguisé. On appelle cette action *grigner*, et ça permettra à la baguette de gonfler lors de la cuisson. 
-10. Enfourner entre 20 et 25 minutes, et mettre de l'eau dans le ramequin, dans le but de faire de la vapeur pour favoriser les réactions de Maillard et obtenir une belle croûte.
-11. Surveiller la coloration de la baguette, et sortir du four quand la coloration vous semble bonne.
-12. Réserver sur une grille.
-
-#+NAME: Boules de tortillas
-#+Caption: Boules de tortillas à laisser reposer puis étaler
-[[/images/cooking/tortilla_boules.jpg][file:/images/cooking/tortilla_boules.jpg]]
-
-#+NAME: Cuisson d'une tortilla à la poêle
-#+caption: Cuisson d'une tortilla à la poêle
-[[/images/cooking/tortilla_cuisson.jpg][file:/images/cooking/tortilla_cuisson.jpg]]
-Bon appétit !
 ** TODO Moffles
 
-
-
-** TODO Pains pita maison :boulangerie:base:
-:properties:
-:EXPORT_FILE_NAME: pains pita
-:end:
-*** Infos
-*** Ingrédients
-*** Instructions
 
 
 ** NEXT Risotto :base:
@@ -953,9 +1008,104 @@ Bon appétit !
 
 Bon appétit !
 
+** TODO Éclairs au chocolat :patisserie:
+Une version sans oeufs
+#+NAME: Viande de kebab
+#+CAPTION: Viande de kebab sur une tortilla
+[[file:/images/cooking/viande_kebab_durum.png][file:/images/cooking/viande_kebab_durum.png]]
+
+
+*** Infos
+| Quantité               | Préparation | Cuisson | Repos                     |
+|------------------------+-------------+---------+---------------------------|
+| 16 éclairs |        0:10 |    0:45 | 1 heure |
+
+
+
+*** Ingrédients
+**** Pâte à choux
+ | Ingrédient      | Quantité | Remarques                              |
+|-----------------+----------+----------------------------------------|
+| Eau             | 125g     |                                        |
+| Farine          | 50g      | Protéinée, je vise au minimum 11g/100g |
+| Beurre          | 30g      |                                        |
+| Fécule          | 27.5g    |                                        |
+| Sucre           | 15g      |                                        |
+| Sel             | 2g       |                                        |
+| Lait            | 125g     |                                        |
+| Levure chimique | 5g       | à peu près un demi-sachet              |
+**** Crème Pâtissière
+| Ingrédient | Quantité                              | Remarques                                                                                       |
+|------------+---------------------------------------+-------------------------------------------------------------------------------------------------|
+| Lait       | 125g                               |                                                                                                 |
+| Fécule     | 10g                                  |                                                                                                 |
+| Farine     | 8g                                 |                                                                                                 |
+| Vanille    | quelques gouttes d'extrait de vanille |                                                                                                 |
+| Sucre      | 35g                                   |                                                                                                 |
+| chocolat   | 60g                                   | Dans le cas où vous souhaitez un parfum différent, remplacez le chocolat par ce que vous voulez |
+**** Glaçage 
+| Ingrédient | Quantité | Remarques |
+|------------+----------+-----------|
+| Beurre     | 15g      |  Idéalement non salé |
+| Chocolat   | 25g     |           |
+
+*** Instructions
+**** Pâte à choux
+1. Préchauffer le four à 180°C.
+2. Mélanger l'eau, le beurre, le sel et le sucre dans une casserole sur le feu, et porter à ébullition.
+3. Ajouter la farine en maintenant à feu doux
+4. Mélanger la fécule dans le lait, puis ajouter le lait petit à petit dans la casserole en mélangeant, pour gélifier la pâte, 
+5. Quand la pâte devient lisse et est gélifiée, couper le feu et ajouter la levure chimique, puis mélanger.
+6. Pocher les éclairs puis enfourner 35 min. Ne pas hésiter à baisser la température si les éclairs brunissent trop vite.
+**** Crème pâtissière 
+1. Mélanger la fécule et le sucre dans un tiers du lait et faire chauffer le lait restant avec la vanille et le chocolat à feu moyen doux.
+
+2. Mélanger le lait sucré dans le lait chaud et mélanger jusqu'à ébullition, pour gélifier la crème. 
+
+3. Réserver au frais.
+
+**** Glaçage
+1. Dans le four chaud mais éteint, faire fondre le beurre et le chocolat.
+2. En attendant, pocher les éclairs en faisant 3 ou 4 trous sur un côté de la pâte à choux
+3. Homogénéiser le glaçage en le mélangeant
+4. Tremper les éclairs dans le glaçage et lisser la surface glacée.
+5. Réserver au frais. 
+
+
+#+NAME: Découpe de bloc de viande
+#+CAPTION: Découpe de lamelles de viande congelée
+[[file:/images/cooking/decoupe_bloc.png][file:/images/cooking/decoupe_bloc.png]]
+
+
+
+
+#+NAME: Cuisson de la viande à feu fort dans la poêle
+#+CAPTION: Découpe de lamelles de viande congelée, dans de la graisse d'agneau
+[[file:/images/cooking/cuisson_viande_kebab.png][file:/images/cooking/cuisson_viande_kebab.png]]
+
+
+
+#+NAME: Repli du durum 
+#+CAPTION: Repli du durum avant de passer à table
+[[file:/images/cooking/repli_durum.png][file:/images/cooking/repli_durum.png]]
+
+Bon appétit !
 ** TODO Substituts oeufs testés 
 | Substitut | Dosage | Exemples |
 |-----------+--------+----------|
 | Yaourt    |        |          |
 | Compote de pommes |        |          |
+** TODO Découpe d'un poulet entier
+*** Infos
+| Quantité | Préparation | Cuisson                             | Repos |
+|----------+-------------+-------------------------------------+-------|
+| 1 poulet |   0.02   | Dépend de la méthode de préparation |       |
 
+*** Instructions
+En règle générale, couper au niveau des lignes de graisses et au niveau des ligaments
+1. Découper les cuisses 
+2. Retourner le poulet et séparer les pilons du corps 
+3. Retourner le poulet et couper la colonne vertébrale qui pourra servir pour faire un fond ou un bouillon en retirant la viande dessus avant.
+4. Séparer les filets en deux
+5. Séparer les hauts de cuisses des bas de cuisse.
+6. Séparer les ligaments et tendons sur vos pièces avec une fourchette, en glissant la fourchette sous le tendon et en tirant sur ces derniers.
