@@ -16,6 +16,8 @@ Photos à venir.
 |-------------|-------------|---------|
 | 6 personnes | 0:10        | 0:20    |
 
+-   Inspiré de la recette du site [journaldesfemmes.fr](https://cuisine.journaldesfemmes.fr/recette/3109683-brownie-vegan-sans-oeufs-sans-lait-sans-gluten)
+
 
 ## Ingrédients {#ingrédients}
 
