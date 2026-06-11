@@ -13,7 +13,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 pagerSize = 7
 
 [params]
-footer = "Copyright © 2024 - 2025 by C.Kevin" # default: Non
+footer = "Copyright © 2024 - 2026 by C.Kevin" # default: Non
 hide_navbar_on_scroll = true
 enable_math = true # default: false
 home = ["HTML", "RSS", "JSON"]
