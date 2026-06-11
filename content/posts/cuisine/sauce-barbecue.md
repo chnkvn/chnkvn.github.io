@@ -1,6 +1,5 @@
 +++
 title = "Sauce Barbecue maison"
-author = ["Kevin"]
 date = 2025-06-14T22:21:00+02:00
 tags = ["sauce"]
 categories = ["Cuisine"]

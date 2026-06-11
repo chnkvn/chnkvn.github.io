@@ -1,6 +1,5 @@
 +++
 title = "Consommer responsable"
-author = ["Kevin"]
 tags = ["VieQuotidienne", "ecologie"]
 categories = ["VieQuotidienne"]
 draft = true

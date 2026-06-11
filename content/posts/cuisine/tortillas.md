@@ -1,6 +1,5 @@
 +++
 title = "Tortillas"
-author = ["Kevin"]
 date = 2024-01-12T17:33:00+01:00
 tags = ["base", "boulangerie"]
 categories = ["Cuisine"]
@@ -47,7 +46,7 @@ Que vous voulez faire des wraps ou des durums, ces tortillas sont extrêmement f
 7.  Fleurer le plan de travail. Étaler vos boules de pâte.
 8.  Cuire vos tortillas, entre 30 et 60 secondes par face. Elles pouvent être retournées quand un grand nombre de bulles apparaissent. Couvrir vos tortillas pour conserver leur moelleux pendant et après la cuisson.<br />
 
-<a id="org86a6c0b"></a>
+<a id="org944036b"></a>
 
 [![](/images/cooking/tortilla_cuisson.jpg)](/images/cooking/tortilla_cuisson.jpg)
 Bon appétit !

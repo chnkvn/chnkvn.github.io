@@ -1,6 +1,5 @@
 +++
 title = "Gaufres"
-author = ["Kevin"]
 date = 2025-11-26T11:10:00+01:00
 tags = ["boulangerie", "base"]
 categories = ["Cuisine"]

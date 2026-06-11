@@ -1,6 +1,5 @@
 +++
 title = "Pain de mie maison au levain"
-author = ["Kevin"]
 date = 2025-10-19T17:48:00+02:00
 tags = ["boulangerie", "base"]
 categories = ["Cuisine"]

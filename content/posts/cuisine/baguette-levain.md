@@ -1,6 +1,5 @@
 +++
 title = "Baguettes au levain"
-author = ["Kevin"]
 date = 2026-04-29T23:40:00+02:00
 tags = ["boulangerie", "base"]
 categories = ["Cuisine"]

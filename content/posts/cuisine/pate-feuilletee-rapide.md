@@ -1,6 +1,5 @@
 +++
 title = "Pate feuilletée rapide"
-author = ["Kevin"]
 date = 2025-01-02T00:00:00+01:00
 publishDate = 2025-03-07T00:00:00+01:00
 tags = ["base", "boulangerie"]

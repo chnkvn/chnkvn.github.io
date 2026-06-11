@@ -1,6 +1,6 @@
 +++
 title = "Index"
-author = ["Kevin"]
+author.name= "Kevin"
 draft = false
 +++
 

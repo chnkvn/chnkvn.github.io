@@ -1,9 +1,11 @@
 +++
 title = "Pains pita maison"
-author = ["Kevin"]
+date = 2026-06-11T23:50:00+02:00
 tags = ["boulangerie", "base"]
 categories = ["Cuisine"]
 draft = false
+author.name = "Kevin"
+author.email = "blog@ckevin.fr"
 +++
 
 {{< figure src="/images/cooking/pain_pita.png" link="/images/cooking/pain_pita.png" >}}

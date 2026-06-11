@@ -2,6 +2,8 @@
 #+hugo_section: posts
 #+startup: overview
 #+language: fr
+#+options: author:nil
+#+hugo_custom_front_matter: :author.name "Kevin" :author.email "blog@ckevin.fr"
 
 * VieQuotidienne
 :properties:

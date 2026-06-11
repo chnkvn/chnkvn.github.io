@@ -1,6 +1,5 @@
 +++
 title = "Röstis"
-author = ["Kevin"]
 date = 2025-10-19T16:19:00+02:00
 tags = ["plat"]
 categories = ["Cuisine"]

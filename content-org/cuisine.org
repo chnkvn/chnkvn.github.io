@@ -2,6 +2,8 @@
 #+hugo_section: posts
 #+startup: overview
 #+language: fr
+#+options: author:nil
+#+hugo_custom_front_matter: :author.name "Kevin" :author.email "blog@ckevin.fr"
 
 * Cuisine
 :properties:
@@ -889,10 +891,14 @@ Photos à venir.
 7. Laisser refroidir à température ambiante avant de démouler et de couper pour que le brownie se raffermisse. 
 
 Bon appétit ! 
-** Pains pita maison :boulangerie:base:
+** DONE Pains pita maison :boulangerie:base:
+CLOSED: [2026-06-11 Thu 23:50]
 :properties:
 :EXPORT_FILE_NAME: pains pita
 :end:
+:LOGBOOK:
+- State "DONE"       from              [2026-06-11 Thu 23:50]
+:END:
 [[file:/images/cooking/pain_pita.png][file:/images/cooking/pain_pita.png]]
 *** Infos
 | Quantité    | Préparation | Repos    | Cuisson |

@@ -1,12 +1,13 @@
 baseURL = "https://ckevin.fr/"
 title = "C. Kevin"
-languageCode = "fr-fr"
 defaultContentLanguage = "fr-fr"
 hasCJKLanguage = false
 theme = "hugo-theme-monochrome"
 enableEmoji = true
 enableGitInfo = true
 enable_header_anchor = true
+locale = "fr"
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [pagination]
 pagerSize = 7
@@ -23,19 +24,11 @@ enable_toc = true
 enable_collapsible_toc = true # default: false
 enable_header_anchor = true # default: true
 dateFormat = "2 Jan 2006"
+navbar_width = "wide" 
+author.name = "Kevin"
+author.email = "blog@ckevin.fr"
 
-[params.author]
-  name = "Kevin"
-  email = "blog@ckevin.fr"
 
-  [param.syntax_highlight]
-  lib = "builtin" # "builtin" | "prism.js" (default: "builtin")
-    [param.syntax_highlight.builtin]
-    enable_code_copy = true # default: true
-  [params.list_layout]
-  enable_group_by_year = false # default: true
-  enable_show_date = true # default: true
-  enable_pagination = false # default: false
 
 
 
@@ -103,6 +96,7 @@ tabWidth = 4
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
 
 
 

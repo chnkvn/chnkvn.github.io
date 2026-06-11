@@ -1,6 +1,6 @@
 +++
 title = "À propos de moi"
-author = ["Kevin"]
+
 date = 2024-01-12T16:06:00+01:00
 draft = false
 +++

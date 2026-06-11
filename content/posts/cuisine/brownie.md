@@ -1,6 +1,5 @@
 +++
 title = "Brownie sans gluten"
-author = ["Kevin"]
 date = 2026-04-29T23:37:00+02:00
 tags = ["patisserie"]
 categories = ["Cuisine"]

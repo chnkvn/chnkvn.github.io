@@ -1,6 +1,5 @@
 +++
 title = "Viande de Kebab"
-author = ["Kevin"]
 date = 2025-11-26T15:36:00+01:00
 tags = ["plat"]
 categories = ["Cuisine"]

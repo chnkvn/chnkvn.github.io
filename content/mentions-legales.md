@@ -1,6 +1,6 @@
+
 +++
 title = "Mentions légales"
-author = ["Kevin"]
 draft = false
 +++
 

@@ -1,6 +1,5 @@
 +++
 title = "Flan maison sans oeufs"
-author = ["Kevin"]
 date = 2025-04-21T16:47:00+02:00
 tags = ["boulangerie", "patisserie"]
 categories = ["Cuisine"]

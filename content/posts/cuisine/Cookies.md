@@ -1,6 +1,5 @@
 +++
 title = "Cookies"
-author = ["Kevin"]
 date = 2025-04-11T01:28:00+02:00
 tags = ["boulangerie"]
 categories = ["Cuisine"]

@@ -1,5 +1,8 @@
 #+hugo_base_dir: ../
 #+hugo_section: posts
+#+options: author:nil
+#+options: author:nil
+#+hugo_custom_front_matter: :author.name "Kevin" :author.email "blog@ckevin.fr"
 
 * Moula
 :properties:

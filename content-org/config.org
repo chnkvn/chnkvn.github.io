@@ -1,6 +1,9 @@
 #+startup: overview
 #+hugo_base_dir: ../
 #+hugo_section: ./
+#+options: author:nil
+#+hugo_custom_front_matter: :author.name "Kevin" :author.email "blog@ckevin.fr"
+
 * DONE À propos de moi
 CLOSED: [2024-01-12 Fri 16:06]
 :PROPERTIES:

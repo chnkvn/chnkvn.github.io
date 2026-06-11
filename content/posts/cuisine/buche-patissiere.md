@@ -1,6 +1,5 @@
 +++
 title = "Bûche pâtissière"
-author = ["Kevin"]
 categories = ["Cuisine"]
 draft = true
 +++
@@ -64,7 +63,7 @@ draft = true
 
 {{< figure src="/images/cooking/tortilla_boules.jpg" caption="<span class=\"figure-number\">Figure&nbsp;2&nbsp;: </span>Boules de tortillas à laisser reposer puis étaler" link="/images/cooking/tortilla_boules.jpg" >}}
 
-<a id="org30d43a4"></a>
+<a id="org79db330"></a>
 
 [![](/images/cooking/tortilla_cuisson.jpg)](/images/cooking/tortilla_cuisson.jpg)
 Bon appétit !
