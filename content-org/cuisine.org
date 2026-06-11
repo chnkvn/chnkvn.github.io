@@ -889,10 +889,16 @@ Photos à venir.
 7. Laisser refroidir à température ambiante avant de démouler et de couper pour que le brownie se raffermisse. 
 
 Bon appétit ! 
-** TODO Pains pita maison :boulangerie:base:
+** DONE Pains pita maison :boulangerie:base:
+CLOSED: [2026-06-11 Thu 22:18]
 :properties:
 :EXPORT_FILE_NAME: pains pita
 :end:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-06-11 Thu 22:18]
+:END:
+
+[[file:/images/cooking/pain_pita.HEIC][file:/images/cooking/pain_pita.HEIC]]
 *** Infos
 | Quantité    | Préparation | Repos    | Cuisson |
 |-------------+-------------+----------+---------|
@@ -912,18 +918,18 @@ Bon appétit !
 - Ajouter le restant de farine petit à petit et pétrir 10 minutes
 - Faire une boule avec la pâte, couvrir et laisser reposer 1 heure
 - Faire 6 boules avec la pâte, couvrir et laisser reposer 10 minutes
-- Préchauffer le four à 260°C avec une pierre à pizza dedans. Si vous n'avez pas de pierre à pizza, vous pourrez cuire les pitas à la poêle à très haute température
-- Étaler chaque boule , fariner et laisser reposer 30 minutes sous un torchon humide
-- Cuire les pitas jusqu'à ce qu'elles gonflent et brunissent légèrement sur les côtés, soit à peu près 3 minutes. Si vous cuisez les pitas à la poêle, n'hésitez pas à retourner la pita à mi-cuisson.
+- Préchauffer le four à 260°C avec une pierre à pizza dedans. Si vous n'avez pas de pierre à pizza, vous pourrez cuire les pitas dans une poêle qui n'est pas anti-adhésive à très haute température
+- Étaler chaque boule d'une épaisseur uniforme d'environ 5mm , fariner et laisser reposer quelques minutes sous un torchon humide
+- Cuire les pitas au moins 3 minutes,  jusqu'à ce qu'elles gonflent et brunissent légèrement sur les côtés. Si vous cuisez les pitas à la poêle, n'hésitez pas à retourner la pita à mi-cuisson.
 
-
+Bon appétit ! 
 ** TODO Cuisson basse-température
 :properties:
 :EXPORT_FILE_NAME: cuisson-basse-temperature
 :end:
 ** NEXT Bûche pâtissière
 :properties:
-:EXPORT_FILE_NAME:  buche-patissiere
+:EXPORT_FILE_NAME: buche-patissiere
 :end:
 #+NAME: Baguettes au levain
 #+caption: Baguettes au levain
@@ -1024,7 +1030,7 @@ Une version sans oeufs
 
 *** Ingrédients
 **** Pâte à choux
- | Ingrédient      | Quantité | Remarques                              |
+| Ingrédient      | Quantité | Remarques                              |
 |-----------------+----------+----------------------------------------|
 | Eau             | 125g     |                                        |
 | Farine          | 50g      | Protéinée, je vise au minimum 11g/100g |

@@ -1,10 +1,14 @@
 +++
 title = "Pains pita maison"
 author = ["Kevin"]
+date = 2026-06-11T22:18:00+02:00
 tags = ["boulangerie", "base"]
 categories = ["Cuisine"]
-draft = true
+draft = false
 +++
+
+[file:/images/cooking/pain_pita.HEIC](/images/cooking/pain_pita.HEIC)
+
 
 ## Infos {#infos}
 
@@ -31,6 +35,8 @@ draft = true
 -   Ajouter le restant de farine petit à petit et pétrir 10 minutes
 -   Faire une boule avec la pâte, couvrir et laisser reposer 1 heure
 -   Faire 6 boules avec la pâte, couvrir et laisser reposer 10 minutes
--   Préchauffer le four à 260°C avec une pierre à pizza dedans. Si vous n'avez pas de pierre à pizza, vous pourrez cuire les pitas à la poêle à très haute température
--   Étaler chaque boule , fariner et laisser reposer 30 minutes sous un torchon humide
--   Cuire les pitas jusqu'à ce qu'elles gonflent et brunissent légèrement sur les côtés, soit à peu près 3 minutes. Si vous cuisez les pitas à la poêle, n'hésitez pas à retourner la pita à mi-cuisson.
+-   Préchauffer le four à 260°C avec une pierre à pizza dedans. Si vous n'avez pas de pierre à pizza, vous pourrez cuire les pitas dans une poêle qui n'est pas anti-adhésive à très haute température
+-   Étaler chaque boule d'une épaisseur uniforme d'environ 5mm , fariner et laisser reposer quelques minutes sous un torchon humide
+-   Cuire les pitas au moins 3 minutes,  jusqu'à ce qu'elles gonflent et brunissent légèrement sur les côtés. Si vous cuisez les pitas à la poêle, n'hésitez pas à retourner la pita à mi-cuisson.
+
+Bon appétit !
