@@ -899,6 +899,8 @@ CLOSED: [2026-06-11 Thu 23:50]
 :LOGBOOK:
 - State "DONE"       from              [2026-06-11 Thu 23:50]
 :END:
+#+NAME: Pains pita cuits au four
+#+CAPTION: Pains pita cuits au four
 [[file:/images/cooking/pain_pita.png][file:/images/cooking/pain_pita.png]]
 *** Infos
 | Quantité    | Préparation | Repos    | Cuisson |
@@ -915,17 +917,71 @@ CLOSED: [2026-06-11 Thu 23:50]
 | Sel           | 3g       |               |
 | Huile d'olive | 15mL    |               |
 *** Instructions
-- Mélanger 70g de farine, l'eau, l'huile, la levure le sel et le sucre
-- Ajouter le restant de farine petit à petit et pétrir 10 minutes
-- Faire une boule avec la pâte, couvrir et laisser reposer 1 heure
-- Faire 6 boules avec la pâte, couvrir et laisser reposer 10 minutes
-- Préchauffer le four à 260°C avec une pierre à pizza dedans. Si vous n’avez pas de pierre à pizza, vous pourrez cuire les pitas dans une poêle qui n’est pas anti-adhésive à très haute température
-- Étaler chaque boule d’une épaisseur uniforme d’environ 5mm , fariner et laisser reposer quelques minutes sous un torchon humide
-- Cuire les pitas au moins 3 minutes, jusqu’à ce qu’elles gonflent et brunissent légèrement sur les côtés. Si vous cuisez les pitas à la poêle, n’hésitez pas à retourner la pita à mi-cuisson.
+1) Mélanger 70g de farine, l'eau, l'huile, la levure le sel et le sucre
+2) Ajouter le restant de farine petit à petit et pétrir 10 minutes
+3) Faire une boule avec la pâte, couvrir et laisser reposer 1 heure
+4) Faire 6 boules avec la pâte, couvrir et laisser reposer 10 minutes
+5) Préchauffer le four à 260°C avec une pierre à pizza dedans. Si vous n’avez pas de pierre à pizza, vous pourrez cuire les pitas dans une poêle qui n’est pas anti-adhésive à très haute température
+6) Étaler chaque boule d’une épaisseur uniforme d’environ 5mm , fariner et laisser reposer quelques minutes sous un torchon humide
+7) Cuire les pitas au moins 3 minutes, jusqu’à ce qu’elles gonflent et brunissent légèrement sur les côtés. Si vous cuisez les pitas à la poêle, n’hésitez pas à retourner la pita à mi-cuisson.
+8) Une fois légèrement refroidi, vous pourrez couper votre pain en deux, et le garnir.
 
-Une fois légèrement refroidi, vous pourrez couper votre pain en deux, et le garnir.
+Les pains pita peuvent se congeler, toastez-les avant de les manger ! 
+
 Bon appétit !
+** DONE Pain cocotte  :boulangerie:base:
+CLOSED: [2026-06-12 Fri 23:16]
+:properties:
+:EXPORT_FILE_NAME:  baguette-levain
+:end:
+:LOGBOOK:
+- State "DONE"       from              [2026-06-12 Fri 23:16]
+:END:
 
+#+NAME: Pain cocotte tranché
+#+CAPTION: Une recette simple qui ne demande que de la patience.
+[[file:/images/cooking/pain_cocotte_tranche.png][file:/images/cooking/pain_cocotte_tranche.png]]
+*** Infos
+
+| Quantité    | Préparation | Repos    | Cuisson | 
+|-------------+-------------+----------+---------|
+| 1 pain rond |        0:05 | Minimum 12 heures |    0:50 |
+
+- Nécessite idéalement une cocotte en fonte, ou au moins une cocotte en verre borosilicate. 
+*** Ingrédients
+| Ingrédient                    | Quantité | Remarques                                                                      |
+|-------------------------------+----------+--------------------------------------------------------------------------------|
+| Farine T65                    | 500g     | Je fais personnellement des traditions, j'utilise donc des farines Label Rouge |
+| Eau                           | 300g     |                                                                                |
+| Levure de boulanger | 1 sachet ou un demi-cube si fraîche  |                                                                                |
+| Sel                           | 8.5g     |                                                                                |
+- Taux d'hydratation : 60 %
+- Il est possible d'utiliser du levain, c'est la version que je fais habituellement, et dans ce cas je ne mets pas de levure. Dans ce cas, la somme de la masse en farine du levain et de la farine doit être égale à 500g, tandis que la somme de la masse en eau du levain et de l'eau doit être égale à 300g. On recommande en général entre 15 et 30% du poids total de la farine en levain. 
+  - Exemple :: En général, je pars sur 20% du poids total de la farine en levain, soit 500 * 20 /100 = 100g de levain. Mon levain étant composé d'autant d'eau que de farine, il y aura 50g d'eau et 50g de farine dans 100g de mon levain (taux d'hydratation de 100%). J'ajouterai donc 450g de farine (500-50) et 250g d'eau (300-50). 
+  - Influence de la quantité de levain :: Plus il est faible, plus la fermentation prendra du temps et plus la mie aura tendance à être serrée. Plus il est fort, plus la pâte aura tendance à filer et plus votre pâte aura tendance à développer de l'acidité. 
+*** Instructions
+1) Après avoir rafraîchi le levain ou réactivé la levure, mélanger dans un récipient la farine, l'eau, le levain/la levure, le sel, jusqu'à obtention d'une pâte homogène.
+#+NAME: Pâte après avoir mélangé tous les ingrédients
+#+CAPTION: Une recette simple qui ne demande que de la patience.
+[[file:/images/cooking/pain_cocotte_avant_pousse.png][file:/images/cooking/pain_cocotte_avant_pousse.png]]
+
+2) [@2] Couvrir le saladier et l'oublier pendant au moins 12 heures, et jusqu'à 24 heures. La pâte devra avoir presque doublé de volume.
+#+NAME: Pâte 20 heures plus tard, cuisine à 20°C
+#+CAPTION: 20 heures après le mélange
+[[file:/images/cooking/pain_cocotte_pousse.png][file:/images/cooking/pain_cocotte_pousse.png]]
+
+3) [@3] Préchauffer le four et la cocotte à 230°C avec son couvercle. On préchauffe la cocotte pour éviter que le pain colle et faciliter son démoulage après cuisson.
+4) Enfourner le pain pendant 50 minutes après l'avoir grigné : vous faites des entailles avec une lame aiguisée sur le dessus de la pâte pour favoriser sa pousse. 
+5) Au bout de 50 minutes, vous pouvez stopper la cuisson, ou laisser le pain quelques minutes en plus dans le four sans couvercle pour le dorer
+#+NAME: Pain en sortie de four
+#+CAPTION: Après 50 minutes de four à 230°C
+[[file:/images/cooking/pain_cocotte_cocotte.png][file:/images/cooking/pain_cocotte_cocotte.png]]
+6) [@6] Attendre que le pain refroidisse et démouler, puis couper vos tranches de pain au fur et à mesure que vous souhaitez le manger.
+7) Conserver le pain dans un torchon
+#+NAME: Pain démoulé
+#+CAPTION: L'heure de la dégustation
+[[file:/images/cooking/pain_cocotte_expo.png][file:/images/cooking/pain_cocotte_expo.png]]
+Bon appétit !
 ** TODO Cuisson basse-température
 :properties:
 :EXPORT_FILE_NAME: cuisson-basse-temperature
@@ -1100,10 +1156,11 @@ Une version sans oeufs
 
 Bon appétit !
 ** TODO Substituts oeufs testés 
-| Substitut | Dosage | Exemples |
-|-----------+--------+----------|
-| Yaourt    |        |          |
+| Substitut         | Dosage | Exemples |
+|-------------------+--------+----------|
+| Yaourt            |        |          |
 | Compote de pommes |        |          |
+|                   |        |          |
 ** TODO Découpe d'un poulet entier
 *** Infos
 | Quantité | Préparation | Cuisson                             | Repos |
